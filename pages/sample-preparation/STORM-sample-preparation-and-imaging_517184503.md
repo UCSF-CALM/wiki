@@ -11,7 +11,6 @@ sample preparation and imaging.
 
 ## Factors to consider in setting up a STORM experiment
 
-\
 
 ### Labeling Method
 

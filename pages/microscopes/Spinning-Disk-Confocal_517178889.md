@@ -98,7 +98,6 @@ author: Delaine Larsen
 - Micro-Manager 2.0 gamma (20210310)- Java 8.0282.8
 - Micro-Manager 1.4 (20170102)
 
-\
 
 ### Quick guides
 

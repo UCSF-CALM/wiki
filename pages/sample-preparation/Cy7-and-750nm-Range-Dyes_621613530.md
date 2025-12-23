@@ -32,4 +32,3 @@ were the results:
 - Slow Fade Gold from Thermo - didn\'t seem to quench beforehand, but
  bleached Quickly.
 - [Vectasheild - Quenched before imaging\
- \

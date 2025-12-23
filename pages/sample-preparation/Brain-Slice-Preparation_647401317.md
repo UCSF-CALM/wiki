@@ -35,5 +35,3 @@ For sections mounted on slides
  - Then I would go EtOH series to 100%, Xylenes
  - Then ETOH series back down to rehydrate and then one of the
  glycerol-based mounting media
-
-\

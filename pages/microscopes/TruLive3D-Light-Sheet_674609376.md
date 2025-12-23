@@ -61,7 +61,6 @@ Tube lens Magnifier for detection objective
 8. LP 696 = Chroma 700LP
 9. BP 710-749 = Semrock 730/39
 
-\
 
 ### Dichroics between cameras
 
@@ -123,7 +122,6 @@ Neutral density filters for lasers
 
 - Lux control 5.01
 
-\
 
 ### Data Handling
 
@@ -146,7 +144,6 @@ NOTE: Important sections Fiji Set up and import starting on Page 20
 
 [(/download/attachments/674609376/TruLive3D%20Imager%20Manual%2020220720.pdf?version=1&modificationDate=1738017502000&api=v2)
 
-\
 
 ### **Photo Manipulation**
 

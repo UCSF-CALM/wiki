@@ -34,9 +34,7 @@ are flown from one side of the chamber with a pipette and sucked from
 the other side through a filter paper to create a flow in the arrow
 direction.](https://www.researchgate.net/publication/335370438/figure/fig1/AS:802347861159942@1568306045509/Sketch-of-the-flow-chamber-A-glass-coverslip-smeared-with-nitrocellulose-is-attached.png)
 
-\
 
-\
 
 Chamber from:
 [https://www.sciencedirect.com/science/article/pii/S0076687919302587#f0020](https://www.sciencedirect.com/science/article/pii/S0076687919302587#f0020)
@@ -64,12 +62,8 @@ tubulin and GTP in the solution. Imaging is performed with dual-color,
 time-lapse TIRF
 microscopy.](https://www.researchgate.net/profile/Ivo_Telley/publication/51506573/figure/fig2/AS:667872732930064@1536244676645/Scheme-of-the-flow-cell-and-the-setup-a-Scheme-of-the-flow-chamber-Two-strips-of.png)
 
-\
 
-\
-\
 
-\
 
 ## Attachments:
 

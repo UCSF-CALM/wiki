@@ -10,7 +10,6 @@ We have had a number of people analyze Cilia in the Core and ask us
 questions about how to analyze their cilia, primarily in terms of
 segmenting then measuring
 
-\
 
 ### NIS Elements
 
@@ -22,7 +21,6 @@ segmenting then measuring
 - Great for segmenting in 2D or 3D, then measuring fluorescence/size and
  shape
 
-\
 
 ### CiliaQ
 
@@ -34,10 +32,5 @@ segmenting then measuring
  disease -
  PubMed](https://pubmed.ncbi.nlm.nih.gov/39131273/ "https://pubmed.ncbi.nlm.nih.gov/39131273/")
 
-\
 
-\
 
-\
-
-\

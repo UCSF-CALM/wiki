@@ -25,7 +25,6 @@ author: Delaine Larsen
 - Cy5
 - mCherry-LP
 
-\
 
 ### Hardware
 
@@ -36,7 +35,6 @@ author: Delaine Larsen
 - Sola Light Engine Gen III 350-680nm(COM 4, Baud rate Auto)
 - ASI MS2000 XY stage (COM3)
 
-\
 
 ### PC
 
@@ -46,7 +44,6 @@ author: Delaine Larsen
 - ATI FirePro 2260
 - 500GB SSD
 
-\
 
 **Firmware**
 

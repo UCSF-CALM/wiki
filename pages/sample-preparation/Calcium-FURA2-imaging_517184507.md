@@ -27,7 +27,6 @@ indicator undergoes a blue shift from 363 nm (Ca2+-free) to 335 nm
 (Ca2+-saturated), while the fluorescence emission maximum is relatively
 unchanged at \~510 nm.
 
-\
 
 [
 

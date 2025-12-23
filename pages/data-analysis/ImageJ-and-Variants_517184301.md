@@ -23,7 +23,6 @@ them.
 ImageJ. It\'s developed at UCSF and is very powerful; we use it to
 control the Spinning Disk Confocal in the Nikon Imaging Center.
 
-\
 
 A tutorial on getting started with micro-manager:
 [http://www.youtube.com/watch?v=y-R9WmhzPdI&feature=related](http://www.youtube.com/watch?v=y-R9WmhzPdI&feature=related)
@@ -32,7 +31,6 @@ A screen cast tutorial on multi dimensional acquisition using
 micro-manager:
 [http://www.youtube.com/watch?v=6LoKX6Eect0](http://www.youtube.com/watch?v=6LoKX6Eect0)
 
-\
 
 ### Plugins
 
@@ -55,7 +53,6 @@ your data.
 install is listed here along with the quick fix for the rendering
 issue.
 
-\
 
 ### Forums
 
@@ -67,7 +64,6 @@ to the community. The forum is very active and you can get help quickly.
 [Microforum](https://forum.microlist.org/)- Community forum based on hardware, acquisition, and
 specimen-related question.
 
-\
 
 **Macros**
 

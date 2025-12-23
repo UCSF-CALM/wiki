@@ -9,7 +9,6 @@ author: Delaine Larsen
 Here is a repository for information about the CALM microscopes,
 including technical details and information for end users.
 
-\
 
 ### Microscopes in Nikon Imaging Center, Genentech Hall S252
 
@@ -65,6 +64,5 @@ including technical details and information for end users.
 
 ### [**[Acknowledgments](Acknowledgements_599783507.html)**
 
-\
 
 ### [**[Methods Examples](Methods-Examples_666378595.html)**

@@ -34,7 +34,6 @@ Emission:
 - 561nm
 - 630nm
 
-\
 
 ### PC
 
@@ -44,7 +43,6 @@ Emission:
 - Quadro K620
 - 8GB RAM
 
-\
 
 **Firmware**
 
@@ -55,5 +53,3 @@ Emission:
 ### Software
 
 - LAS AF
-
- \

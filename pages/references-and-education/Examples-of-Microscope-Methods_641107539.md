@@ -74,9 +74,7 @@ Set up: CREST, 100X
  Fiji/ImageJ2][ \[CITATION FOR
  FIJI\].]
 
-\
 
-\
 
 # MicroManager Citations:
 
@@ -88,7 +86,6 @@ using μManager software. **Journal of Biological Methods** 2014 1(2):e11
 Stuurman (2010), Computer Control of Microscopes Using
 μManager. **Current Protocols in Molecular Biology** 14.20.1-14.20.17
 
-\
 
 # ImageJ/Fiji Citations Citations
 

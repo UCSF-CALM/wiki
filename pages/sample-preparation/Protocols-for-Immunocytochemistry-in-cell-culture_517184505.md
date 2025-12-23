@@ -60,13 +60,11 @@ adjust accordingly- (done on coverslips in 24 well plates)
 
 \- mount onto slide-
 
-\
 
 ## Staining of suspension cells on coverslips
 
 ## [(/download/attachments/517184505/FixingandstainingsuspensionCells.docx?version=2&modificationDate=1750119904000&api=v2)
 
-\
 
 ## Staining of Suspension Cells in Ibidi Dishes
 

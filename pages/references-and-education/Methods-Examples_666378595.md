@@ -21,7 +21,6 @@ imaging, and tile scanned using HCA/jobs to set coordinates with a 15%
 overlap, then stitched with
 NIS-elements. ]
 
-\
 
 ## [CSU-W1 (before laser change in Feb 2024)]
 
@@ -34,7 +33,6 @@ Idoxuridine (IdU) Globally Amplifies Transcriptional Noise." *bioRxiv*,
 March 15, 2023, 2023.03.14.532632.
 [https://doi.org/10.1101/2023.03.14.532632](https://doi.org/10.1101/2023.03.14.532632).
 
-\
 
 Images were taken on an inverted Nikon TiE microscope (Nikon) run using
 Micromanager 2.0 \[NEEDS TO BE CITED\] equipped with a CSU-W1 Spinning
@@ -48,7 +46,6 @@ randomly selected for each condition. For each image, XY pixel size was
 108nm/px, and a Z-step size of 250nm was used with over 60 image planes
 to fully cover the tissue.
 
-\
 
 MicroManager Citations
 
@@ -64,7 +61,6 @@ Protocols in Molecular Biology** 14.20.1-14.20.17
 Page on Citing Micromanager:
 [https://micro-manager.org/Citing_Micro-Manager](https://micro-manager.org/Citing_Micro-Manager)
 
-\
 
 ## [CSU-W1 (before laser change in Feb 2024)]
 
@@ -76,7 +72,6 @@ Villus Enterochromaffin Cells Are Distinct Stress Sensors in the Gut."
 bioRxiv, April 25, 2024.
 [https://doi.org/10.1101/2024.02.06.579180](https://doi.org/10.1101/2024.02.06.579180).
 
-\
 
 Confocal images were captured on an inverted Nikon Ti microscope run
 using Micro Manager 2.0 Gamma
@@ -88,7 +83,6 @@ XYZ stage (ASI), CSU-W1 Spinning Disk with Borealis upgrade
 525/50, 607/36, for DAPI, GFP, and RFP, respectively. Maximum intensity
 projections were generated in Fiji v2.14.
 
-\
 
 ## Crest-V2 spinning disk
 
@@ -100,7 +94,6 @@ Pipeline with Improved Reproducibility and Throughput." *Molecular
 Systems Biology* 20, no. 8 (August 2, 2024): 952--71.
 [https://doi.org/10.1038/s44320-024-00049-2](https://doi.org/10.1038/s44320-024-00049-2).
 
-\
 
 [Images were generated using a Nikon Ti2-E microscope equipped with a
 Crest X-Light-V2 spinning disk confocal (Crest Optics), emission
@@ -146,7 +139,6 @@ TIRF (FRAP) [dichroic[ and
 laser power was used to bleac[h[ A[lexa Fluor 647-labeled chromatin
 arrays.
 
-\
 
 ## [CVRI Spinning disk
 
@@ -164,7 +156,6 @@ ET525/50m[[[[, FF01-609/57,
 [[[[and a Prime [[[[95 [[[[s[[[[CMOS[[[[ camera
 (Photometrics)[[[.
 
-\
 
 ## [[[[CSU-22
 
@@ -180,7 +171,6 @@ Images were captured using a Plan Apo VC 60x/1.4 Oil (Nikon) and a 1.7x
 relay lens in front of the Photometrics Evolve Delta EMCCD Camera
 (154nm/pixel).
 
-\
 
 OMX
 
@@ -206,8 +196,4 @@ python scripts previously described
 was fit with an additional central Guassian to distinguish the central
 intensity from the ring distribution.
 
-\
 
-\
-
-\

@@ -57,7 +57,6 @@ Info from users
 - A user using CUBIC had trouble with long-term imaging in an open
  cuvette because the CUBIC crystalized overnight
 
-\
 
 # Videos for learning about clearing
 
