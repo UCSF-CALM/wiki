@@ -55,5 +55,3 @@ Software:
 - Micro-Manager
 - NIS-Elements
 - Huygens
-
-\

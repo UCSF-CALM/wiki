@@ -29,7 +29,6 @@ Prerequisite: Download and open fiji
  \*This is just an example screenshot
  - [
 
-\
 
 ## Attachments:
 

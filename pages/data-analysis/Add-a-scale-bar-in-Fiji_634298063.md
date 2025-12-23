@@ -12,9 +12,7 @@ Prereqresite:
 - Have an image with Metadata
  - Whould be an.ome.tif,.nd2, or.dv
 
-\
 
-\
 
 - Step 1: Open your Image in Fiji by first opening the Bioformats
  shortcut window
@@ -39,7 +37,6 @@ Prereqresite:
  since it can be an irreversible process.
 - [[
 
-\
 
 ## Attachments:
 

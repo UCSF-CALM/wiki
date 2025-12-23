@@ -7,7 +7,6 @@ date: Mar 05, 2025
 
 # C-Trap Data Analysis
 
-\
 
 # Installation instructions
 
@@ -63,15 +62,12 @@ In a terminal execute:
  uv pip install lumicks.pylake
  uv pip install jupyter
 
-\
 
 It may be needed to install jupyter extensions:
 
-\
 
  jupyter labextension install jupyter-matplotlib
 
-\
 
 ### Launch Jupyter by typing (needed each session)
 
@@ -79,13 +75,11 @@ It may be needed to install jupyter extensions:
 
 ### Startup during daily use. Open a terminal, type:
 
-\
 
  cd Projects
  source pylake/Scripts/activate
  jupyter notebook
 
-\
 
 ### Example notebook code (follow the [ tutorial](https://lumicks-pylake.readthedocs.io/en/stable/tutorial/file.html)):
 

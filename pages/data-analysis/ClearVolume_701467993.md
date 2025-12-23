@@ -50,13 +50,9 @@ This was an issue found by Tanner Fadero and fixed by Nico Stuurman
 change the imglib2 library in a way that prevents clear volume from
 running.]
 
-\
 
-\
 
-\
 
-\
 
 ## Attachments:
 

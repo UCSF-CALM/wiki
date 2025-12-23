@@ -43,7 +43,6 @@ and she will schedule you in. Attendance is open to all at UCSF.
  October 18th 4-5pm S201 Open Open
  November 15th 4-5pm S201 Open Open
 
-\
 
 ##### Past Microscopy User Presenters
 

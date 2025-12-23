@@ -12,7 +12,6 @@ The C-Trap is an easy to use optical trap made by
 [ Lumicks](https://lumicks.com/our-products/).  Our current configuration has Microfluidics with two
 laser traps and confocal imaging. Specifics below:
 
-\
 
 ## Objectives
 
@@ -34,7 +33,6 @@ One Dynamic Trap
 
 One static
 
-\
 
 ## Micro Fluidics
 
@@ -44,18 +42,15 @@ Automatic Fluidics Control (AFL)
 
 [
 
-\
 
 ## Data Analysis
 
 For C-Trap data analysis instructions, see [C-Trap Data
 Analysis](C-Trap-Data-Analysis_698319889.html)
 
-\
 
 ## Manuals
 
-\
 
 [(/download/attachments/698319820/C_Trap_User_Manual_V4_2024%201%20%281%29.pdf?version=1&modificationDate=1741286143000&api=v2)[(/download/attachments/698319820/Dymo_Confocal_guide%20%282%29.pdf?version=1&modificationDate=1741285976000&api=v2)[(/download/attachments/698319820/UCSF%20operator%20training%20%282%29.pdf?version=1&modificationDate=1741285982000&api=v2)[(/download/attachments/698319820/CTrap_DyMo_software_training_UCSF.pdf?version=1&modificationDate=1741652804000&api=v2)
 
@@ -71,13 +66,11 @@ Analysis](C-Trap-Data-Analysis_698319889.html)
  thing.
 - Do a full restart
 
-\
 
 ### Condenser won\'t move
 
 - It is likely stuck in a state. The whole system needs to be restarted.
 
-\
 
 ### Whole system restart
 
@@ -99,9 +92,7 @@ Analysis](C-Trap-Data-Analysis_698319889.html)
  switch
 - Turn on the trapping  laser
 
-\
 
-\
 
 ## Attachments:
 

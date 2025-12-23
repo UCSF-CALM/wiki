@@ -29,7 +29,6 @@ let us know!
 - [Mitochondrial Dyes](Mitochondrial-Dyes_574138207.html)
 - [Cy7 and 750nm Range Dyes](Cy7-and-750nm-Range-Dyes_621613530.html)
 
-\
 
 ## Methods and Protocols
 
@@ -45,7 +44,6 @@ let us know!
 - [Cytoskeleton fixation
  referances](Cytoskeleton-Fixation-Referances_654278900.html)
 
-\
 
 ## Consumables information
 
@@ -54,5 +52,3 @@ let us know!
 - [High Precision Coverslips](High-Precision-Coverslips_517184498.html)
 - [Make your own flow
  chamber](Make-your-own-flow-chamber_689313954.html)
-
-\

@@ -14,5 +14,3 @@ date: Aug 31, 2020
 ##### [Books, Websites, Etc](517182143.html)
 
 ##### [User Quick Start Guides](User-Quick-Start-Guides_517182146.html)
-
-\

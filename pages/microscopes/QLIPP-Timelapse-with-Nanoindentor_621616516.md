@@ -55,7 +55,6 @@ author: Herrington, Kari
 
 ### Hardware
 
-\
 
 - Nikon Ti-E Microscope
 - Sutter Lambda LS lamp with filter wheel and shutter
@@ -96,7 +95,6 @@ author: Herrington, Kari
 - NIS Elements 5.21.01 build 1483
 - NIDAQ  (v21.3.0)
 
-\
 
 ## Information on QLIPP
 
@@ -110,13 +108,10 @@ Collaboration required for QLIPP please contact the Core
 
 ## Nanoindentor Information
 
-\
 
 [(/download/attachments/621616516/Chiaro%20User%20Manual%20v3.4.pdf?version=1&modificationDate=1718323340000&api=v2)[(/download/attachments/621616516/Cleaning%20Protocol_v1.3.pdf?version=1&modificationDate=1718323345000&api=v2)[(/download/attachments/621616516/DataViewer%20user%20manual%20V1.3.pdf?version=1&modificationDate=1718323353000&api=v2)[(/download/attachments/621616516/Find_surface_old_hardware.pdf?version=1&modificationDate=1718323353000&api=v2)[(/download/attachments/621616516/Guidelines_indentation_Chapter2.pdf?version=1&modificationDate=1718323354000&api=v2)[(/download/attachments/621616516/Live%20calibration_v1.1.pdf?version=1&modificationDate=1718323355000&api=v2)[(/download/attachments/621616516/Live%20calibration_v1.pdf?version=1&modificationDate=1718323356000&api=v2)[(/download/attachments/621616516/MEMS%20information_V1_0-25%20to%200-5%20and%203-5.pdf?version=1&modificationDate=1718323356000&api=v2)[(/download/attachments/621616516/Organoid%20preparation.pdf?version=1&modificationDate=1718323357000&api=v2)[(/download/attachments/621616516/Probe_calibration_V1.pdf?version=1&modificationDate=1718323364000&api=v2)[(/download/attachments/621616516/Probes_2023-05-04.pdf?version=1&modificationDate=1718323365000&api=v2)[(/download/attachments/621616516/Quick%20startup%20of%20indentation_Chiaro%20V4.pdf?version=1&modificationDate=1718323366000&api=v2)[(/download/attachments/621616516/Sample_Preparation_V4.pdf?version=1&modificationDate=1718323366000&api=v2)[(/download/attachments/621616516/Tip%20selection%20guidelines_v1.3.pdf?version=1&modificationDate=1718323367000&api=v2)[(/download/attachments/621616516/Probe%20selection%20calculator_v7.1.xlsx?version=1&modificationDate=1718323371000&api=v2)
 
-\
 
-\
 
 ## Attachments:
 

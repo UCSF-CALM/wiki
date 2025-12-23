@@ -29,7 +29,6 @@ Microscopy at UCSF on an OMX-SR obtained using grants from the NIH
 funded in part by the Sandler Foundation, the UCSF Research Resource
 Fund Award, and HHMI.
 
-\
 
 CSUW1
 
@@ -38,7 +37,6 @@ Microscopy at UCSF on a W1-CSU Confocal obtained using
 NIH[ [S10 Shared Instrumentation grant
 (1S10OD017993-01A1)\"
 
-\
 
 Crest-C2
 
@@ -54,7 +52,6 @@ Award.[
 and Allocation Committee, the Gross Fund, and the Heart Anonymous
 Fund.]]
 
-\
 
 [[Example Acknowledgment: [Data for this study was acquired at
 the ][Center for Advanced Light
@@ -63,19 +60,15 @@ the [UCSF
 Research Evaluation and Allocation Committee, the Gross Fund, and the
 Heart Anonymous Fund]]
 
-\
 
 ## **[CAMM]**
 
 [Data were collected at the Center for Advanced Multiphoton Microscopy
 with support from the Kavali Institute]
 
-\
 
 ## **Weill building microscopes**
 
 [Data for this study were acquired on Microscopes of the Innovation Core
 at the Weill Institute, part of the UCSF Center for Advanced Light
 Microscopy]
-
-\

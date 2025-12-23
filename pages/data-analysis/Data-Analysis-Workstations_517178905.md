@@ -39,7 +39,6 @@ Software installed:
  - - Nikon Elements
  - Fiji
  - Cell Profiler\
- \
 
 ### Analysis Workstation 4
 
@@ -57,7 +56,6 @@ Software Installed
  - Fiji
  - Cell Profiler
 
-\
 
 ### OMX Stand-alone workstation
 
@@ -77,5 +75,3 @@ Software Installed
 Software Installed
 
 - - SoftWorX
-
-\

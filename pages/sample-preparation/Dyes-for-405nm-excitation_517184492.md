@@ -20,7 +20,6 @@ Handbook](https://www.thermofisher.com/us/en/home/references/molecular-probes-th
  Pacific Orange 405nm 551nm
  Cascade Yellow 410nm 550nm
 
-\
 
 The Alexa 405 and Pacific Blue dyes should work well with the existing
 blue channel on our confocals; with the Pacific Orange and Cascade

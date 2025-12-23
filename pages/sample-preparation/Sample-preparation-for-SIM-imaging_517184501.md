@@ -40,7 +40,6 @@ Mounting Media effect on sample
 
 [
 
-\
 
 For OMX-SR Oil effect on PSF
 

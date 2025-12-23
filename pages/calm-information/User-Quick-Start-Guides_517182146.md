@@ -9,7 +9,6 @@ author: Delaine Larsen
 3. [Microscopy References and
  Education](Microscopy-References-and-Education_517178908.html)
 
-\
 
 # Color and bright field imaging quick guides:
 
@@ -28,7 +27,6 @@ same on any microscope.
 - Exporting stitched color
  images (attachment)
 
-\
 
 ## 6D Widefield High Throughput
 
@@ -42,7 +40,6 @@ same on any microscope.
 - Turning on 561 laser (Trouble shooting for no Cy3/red
  channel!!) (attachment)
 
-\
 
 ## CSU-W1
 

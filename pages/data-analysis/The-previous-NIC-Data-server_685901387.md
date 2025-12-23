@@ -8,12 +8,10 @@ author: Stuurman, Nico
 
 ## Accessing the previous NIC Server
 
-\
 
 Note: this server will soon be de-commissioned.   Use the newer server
 (with much more space and faster access) instead.
 
-\
 
 The NIC maintains an 8 TB file server for temporary storage of data
 acquired in the NIC to allow for easy transport of data between

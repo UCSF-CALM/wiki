@@ -39,7 +39,6 @@ author: Delaine Larsen
 - ET630/75m
 - ET690/50m
 
- \
 
 ### Emission Wheel Right
 
@@ -63,7 +62,6 @@ author: Delaine Larsen
 - Sutter FLED Dual-channel system with 440nm and 630nm LED (BF
  lightpath, NIDAQ)
 
-\
 
 ### Lasers
 
@@ -74,7 +72,6 @@ Vortran laser launch
 - 561
 - 647
 
-\
 
 ### PC
 

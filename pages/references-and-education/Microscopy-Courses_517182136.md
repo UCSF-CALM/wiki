@@ -35,9 +35,7 @@ author: Delaine Larsen
  Microscopy](517198168.html)
  - [2014 QB3/UCSF Course in Biological Light
  Microscopy](517198186.html)\
- \
 
-\
 
 ## Attachments:
 
