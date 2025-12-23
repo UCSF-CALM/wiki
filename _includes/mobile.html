@@ -12,11 +12,11 @@
     <h3 class="sidebar-h3">Contents:</h3>
     <ul class="content">
     {%- for item in site.navigation %}
-      <li><a href="{{ item.link }}">{{ item.name }}</a>
+      <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a>
           {% if item.sublist %}
           <ul class="sublist">
               {%- for subitem in item.sublist %}
-              <li><a href="{{ subitem.link }}">{{ subitem.name }}</a></li>
+              <li><a href="{{ subitem.link | relative_url }}">{{ subitem.name }}</a></li>
               {%- endfor %}
           </ul>
           {% endif %}
