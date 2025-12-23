@@ -1,123 +1,50 @@
 ---
 layout: default
+title: CALM Microscopy Wiki
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome to the Center for Advanced Light Microscopy (CALM) Wiki
 
-[Link to another page](./another-page.html).
+This wiki provides general information about microscopy and microscopy-related science and technology focused on the capabilities provided by the CALM at UCSF.
 
-There should be whitespace between paragraphs.
+## Quick Links
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### [Microscopes](./pages/microscopes/Microscopes_517178884.html)
+Browse information about all CALM microscopes, including technical details and user guides for each system.
 
-# Header 1
+### [Data Analysis](./pages/data-analysis/Data-Analysis_517182106.html)
+Find resources for analyzing your microscopy data, including workstation access, software tutorials, and analysis protocols.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### [Sample Preparation](./pages/sample-preparation/Sample-Preparation_517182102.html)
+Learn about sample preparation protocols, fluorescent dyes, clearing methods, and best practices for imaging.
 
-## Header 2
+### [References & Education](./pages/references-and-education/Microscopy-References-and-Education_517178908.html)
+Access microscopy courses, textbooks, online resources, and method examples.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### [CALM Information](./pages/calm-information/Other-CALM-Information_517182095.html)
+Get started with quick start guides, iLab scheduling, and acknowledgement information.
 
-### Header 3
+### [Miscellaneous](./pages/miscellaneous/Miscellaneous_517182118.html)
+Additional resources including fabrication guides, PSF information, and custom equipment.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## About This Wiki
 
-#### Header 4
+The Center for Advanced Light Microscopy provides state-of-the-art microscopy facilities and expertise to the UCSF research community. This wiki serves as a comprehensive resource for:
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Microscope Information**: Detailed specifications and protocols for each instrument
+- **Training Materials**: Courses, tutorials, and best practices
+- **Technical Support**: Sample preparation guides and troubleshooting
+- **Data Management**: Analysis workflows and computational resources
 
-##### Header 5
+Use the navigation menu on the left to explore different sections of the wiki. Each category contains detailed pages with protocols, specifications, and guidance for getting the most out of CALM resources.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## Getting Help
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- **Quick Start Guides**: [User Quick Start Guides](./pages/calm-information/User-Quick-Start-Guides_517182146.html)
+- **iLab Scheduling**: [iLab Information](./pages/calm-information/iLab_701465591.html)
+- **Monthly Meetings**: [Microscopy Users Meeting](./pages/references-and-education/Monthly-Microscopy-Users-Meeting_520586430.html)
+- **Acknowledgements**: [How to Acknowledge CALM](./pages/calm-information/Acknowledgements_599783507.html)
