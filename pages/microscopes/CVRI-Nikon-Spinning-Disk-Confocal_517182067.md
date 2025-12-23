@@ -6,7 +6,7 @@ author: Delaine Larsen
 
 # CVRI Nikon Spinning Disk Confocal
 
-## [FPBASE](https://www.fpbase.org/microscope/K6fHR5wykr55kxU99i3fhY/)**
+## [FPBASE](https://www.fpbase.org/microscope/K6fHR5wykr55kxU99i3fhY/)
 
 ## Optics
 ### Objectives
