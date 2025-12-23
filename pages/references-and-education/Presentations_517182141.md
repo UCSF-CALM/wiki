@@ -4,25 +4,20 @@ title: Presentations
 author: Delaine Larsen
 ---
 
-3.  [Microscopy References and
-    Education](Microscopy-References-and-Education_517178908.html)
+3. [Microscopy References and
+ Education](Microscopy-References-and-Education_517178908.html)
 
 ### Kari\'s 2020 Webinars (box links)
 
 - [Introduction to
-  Fiji](https://urldefense.proofpoint.com/v2/url?u=https-3A__ucsf.box.com_v_Fijiworkshop-2D20200323&d=DwMF-g&c=iORugZls2LlYyCAZRB3XLg&r=rWHGLgGRKCB9UJ_3gjETqRC0fXrJ1iZZJnwLO8_WuLc&m=t8wrlXRnTmwCXxNw3nIiR2nwA4ltf57v82_DnEO1xRA&s=TvTBncaI1qX_eNSoSnYBU-u5hWPZ1X6wdwK16a8wK_Y&e=){.external-link
-  rel="nofollow"}
+ Fiji](https://urldefense.proofpoint.com/v2/url?u=https-3A__ucsf.box.com_v_Fijiworkshop-2D20200323&d=DwMF-g&c=iORugZls2LlYyCAZRB3XLg&r=rWHGLgGRKCB9UJ_3gjETqRC0fXrJ1iZZJnwLO8_WuLc&m=t8wrlXRnTmwCXxNw3nIiR2nwA4ltf57v82_DnEO1xRA&s=TvTBncaI1qX_eNSoSnYBU-u5hWPZ1X6wdwK16a8wK_Y&e=)
 - [Introduction to Fiji/Image J
-  Macros](https://urldefense.proofpoint.com/v2/url?u=https-3A__ucsf.box.com_v_IntroToMacros-2D20200402&d=DwMF-g&c=iORugZls2LlYyCAZRB3XLg&r=rWHGLgGRKCB9UJ_3gjETqRC0fXrJ1iZZJnwLO8_WuLc&m=t8wrlXRnTmwCXxNw3nIiR2nwA4ltf57v82_DnEO1xRA&s=F_OfLx-5hsc3D_FP_XiIQPOKckz4sykfUznFpqe3IjY&e=){.external-link
-  rel="nofollow"}
-- [Colocalization](https://ucsf.box.com/v/Colocalization){.external-link
-  rel="nofollow"}
+ Macros](https://urldefense.proofpoint.com/v2/url?u=https-3A__ucsf.box.com_v_IntroToMacros-2D20200402&d=DwMF-g&c=iORugZls2LlYyCAZRB3XLg&r=rWHGLgGRKCB9UJ_3gjETqRC0fXrJ1iZZJnwLO8_WuLc&m=t8wrlXRnTmwCXxNw3nIiR2nwA4ltf57v82_DnEO1xRA&s=F_OfLx-5hsc3D_FP_XiIQPOKckz4sykfUznFpqe3IjY&e=)
+- [Colocalization](https://ucsf.box.com/v/Colocalization)
 - [Cell
-  Profiler](https://ucsf.box.com/v/CellProfilerIntroTranslocation){.external-link
-  rel="nofollow"}
+ Profiler](https://ucsf.box.com/v/CellProfilerIntroTranslocation)
 - [Figure
-  Making](https://ucsf.box.com/v/FigureMakingWorkshop050820){.external-link
-  rel="nofollow"}
+ Making](https://ucsf.box.com/v/FigureMakingWorkshop050820)
 
 ### Microscopy Users Meeting
 
@@ -32,118 +27,118 @@ Schedule](Monthly-Microscopy-Users-Meeting_520586430.html)
 ### 2011 Microscopy Bootcamp Lectures
 
 - Introduction to Light
-  Microscopy (attachment)- Kurt Thorn
+ Microscopy (attachment)- Kurt Thorn
 
 - Fluorescence, Fluorescent microscopy and
-  Probe (attachment)s - Nico Stuurman
+ Probe (attachment)s - Nico Stuurman
 
 - Digital Cameras in
-  Microscopy (attachment) - Kurt Thorn
+ Microscopy (attachment) - Kurt Thorn
 
 - Micro-Manager (attachment) - Nico Stuurman
 
 - Generating contrast in Light
-  Microscopy (attachment) - Orion Weiner
+ Microscopy (attachment) - Orion Weiner
 
 - Optical
-  Sectioning (attachment) - Bo Huang
+ Sectioning (attachment) - Bo Huang
 
 ### Kurt\'s Microscopy Presentations
 
 - Microscopy Overview
-  I  (attachment)(Overlaps with some talks below)
+ I  (attachment)(Overlaps with some talks below)
 
 - Microscopy Overview
-  II (attachment) (Overlaps with some talks
-  below)
+ II (attachment) (Overlaps with some talks
+ below)
 
 - Experimental Design for
-  Microscopy (attachment)
+ Microscopy (attachment)
 
 - Fluorescence Microscopy and Small Molecule
-  Dyes (attachment)
+ Dyes (attachment)
 
 - Microscopy optics
-  I (attachment)
+ I (attachment)
 
 - Microscopy optics
-  II (attachment)
+ II (attachment)
 
 - Cameras (attachment)
 
 - Confocal
-  Microscopy (attachment)
+ Microscopy (attachment)
 
 - Digital Image
-  Analysis (attachment)
+ Analysis (attachment)
 
 - Brightfield Contrasting
-  Techniques (attachment)
+ Techniques (attachment)
 
 - Genetically Encoded
-  Tags  (attachment)(includes recommended GFP
-  variants)
+ Tags  (attachment)(includes recommended GFP
+ variants)
 
 - FRET and
-  Biosensors (attachment)
+ Biosensors (attachment)
 
 - Superresolution Localization
-  Microscopy (attachment)
+ Microscopy (attachment)
 
 ### Presentations From Spring 2010 - Principles and Practice of Light Microscopy- Cell Biology 210
 
 - Introduction to microscopy; optics, magnification, and
-  objectives (attachment)
+ objectives (attachment)
 
 - Resolution and
-  Aberrations (attachment)
+ Aberrations (attachment)
 
 - Phase /
-  DIC (attachment)
+ DIC (attachment)
 
 - Fluorescence
-  optics (attachment)
+ optics (attachment)
 
 - Fluorescent probes and
-  labelling (attachment)
+ labelling (attachment)
 
 - Advanced techniques: FRAP / FLIP / FRET /
-  etc. (attachment)
+ etc. (attachment)
 
 - Cameras and Light
-  Sources (attachment)
+ Sources (attachment)
 
 - High throughput imaging and image
-  analysis (attachment)
+ analysis (attachment)
 
 - Optical Sectioning, Confocal and
-  TIRF (attachment)
+ TIRF (attachment)
 
 - Deconvolution (attachment)
 
 - Super-resolution (attachment)
 
 - Live cell / animal imaging,
-  multiphoton (attachment)
+ multiphoton (attachment)
 
 - Optical control of living
-  systems (attachment)
+ systems (attachment)
 
 - Electron
-  Microscopy (attachment)
+ Microscopy (attachment)
 
 ### Presentations from the 3rd Bangalore Microscopy Course
 
 - Frequency space and Fourier
-  transforms (attachment)
+ transforms (attachment)
 
 - DIC and Polarized light
-  microscopy (attachment)
+ microscopy (attachment)
 
 ### Alice\'s Presentation on Sample Prep
 
 - Sample
-  Prep (attachment)
+ Prep (attachment)
 
 ## Attachments:
 

@@ -16,10 +16,7 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: 
-  - name: 
-    icon: 
-    link: 
+    link: https://github.com/UCSF-CALM 
 navigation:
   - name: Home
     link: ./index.html
@@ -62,7 +59,7 @@ navigation:
       - name: Huygens
         link: ./pages/data-analysis/Huygens_517184442.html
       - name: MATLAB
-        link: ./pages/data-analysis/MATLAB_517184427.md
+        link: ./pages/data-analysis/MATLAB_517184427.html
   - name: Sample Preparation
     link: ./pages/sample-preparation/Sample-Preparation_517182102.html
     sublist:

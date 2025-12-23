@@ -32,16 +32,16 @@ samples.]
 - ET CY5 - M205FA/M165FC filter cube
 - ET mCherry - M205FA/M165FC filter cube
 
-### Interface Requirements 
+### Interface Requirements
 
 - \
 
-### Firmware 
+### Firmware
 
-### PC 
+### PC
 
-- Windows 10 
+- Windows 10
 
-### Software 
+### Software
 
 - LAS-X

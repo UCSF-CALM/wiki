@@ -4,7 +4,7 @@ title: Other Equipment and Objectives
 author: Delaine Larsen
 ---
 
-##### Objectives 
+##### Objectives
 
 - Plan Fluor ELWD 20x/0.45 (DIC N1)
 
@@ -24,15 +24,13 @@ author: Delaine Larsen
 
 - Plan Apo VC 100x/1.4 Oil (DIC N2)
 
-##### Other Equipment 
+##### Other Equipment
 
 - [CellASIC
-  ONIX](http://www.cellasic.com/ONIX.html "http://www.cellasic.com/ONIX.html"){.external-link
-  rel="nofollow"}
+ ONIX](http://www.cellasic.com/ONIX.html "http://www.cellasic.com/ONIX.html")
 
 - [ASI 400 Air Stream
-  Incubator](http://www.nevtek.com/incubatr.htm "http://www.nevtek.com/incubatr.htm"){.external-link
-  rel="nofollow"}
+ Incubator](http://www.nevtek.com/incubatr.htm "http://www.nevtek.com/incubatr.htm")
 
 - A Nikon Darkfield Condensor
 

@@ -35,16 +35,16 @@ checking samples. It is equipped with a Leica K5 camera.
 
 \
 
-### Interface Requirements 
+### Interface Requirements
 
 - \
 
-### Firmware 
+### Firmware
 
-### PC 
+### PC
 
 - Windows 10
 
-### Software 
+### Software
 
 - LASX

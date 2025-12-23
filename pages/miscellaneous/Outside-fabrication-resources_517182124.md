@@ -9,7 +9,6 @@ part made, or an electronics design, or something else that is outside
 the scope of what you can do at UCSF.
 
 - Austin Blanco is now doing custom microscope design, incorportating
-  microcontroller programming, optical design, electronic design, and
-  motion control. He can be reached at
-  [austin@austinblanco.com](mailto:austin@austinblanco.com){.external-link
-  rel="nofollow"}.
+ microcontroller programming, optical design, electronic design, and
+ motion control. He can be reached at
+ [austin@austinblanco.com](mailto:austin@austinblanco.com).

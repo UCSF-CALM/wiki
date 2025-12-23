@@ -13,26 +13,24 @@ server](The-previous-NIC-Data-server_685901387.html)
 \
 
 The CALM file server at
-**[mic.ucsf.edu](http://mic.ucsf.edu){.external-link rel="nofollow"}**.
+**[mic.ucsf.edu](http://mic.ucsf.edu)**.
 
 \
 
 The CALM has a new file server.  It has more capacity than the old one
 (\~870TB) and reading and writing should be much faster, especially from
-within the NIC with computers on our local high-speed network. 
+within the NIC with computers on our local high-speed network.
 
 **Do not rely on the file server as your only source of your data! In no
-way can we be held responsible for loss of data from the file server. 
+way can we be held responsible for loss of data from the file server.
 Moreover, data older than 3 months will be automatically deleted. **
 
 \
 
 Before your can use the server, **your PI needs to give approval** by
 taking this [this
-survey.](https://ucsf.co1.qualtrics.com/jfe/form/SV_exhElckuEg2gi2i){.external-link
-rel="nofollow"}  Then, request access
-from [nico.stuurman@ucsf.edu](mailto:nico.stuurman@ucsf.edu){.external-link
-rel="nofollow"}.  Please send your short UCSF user name (for me, that is
+survey.](https://ucsf.co1.qualtrics.com/jfe/form/SV_exhElckuEg2gi2i)  Then, request access
+from [nico.stuurman@ucsf.edu](mailto:nico.stuurman@ucsf.edu).  Please send your short UCSF user name (for me, that is
 "nstuurman").
 
 \
@@ -52,8 +50,7 @@ find "This PC"
 Right click and Select "Map Network Drive".
 
 For "Folder" enter
-\\\\[mic.ucsf.edu](http://mic.ucsf.edu){.external-link
-rel="nofollow"}\\yourShortUserName
+\\\\[mic.ucsf.edu](http://mic.ucsf.edu)\\yourShortUserName
 
 Uncheck "Reconnect at sign-in, and check "Connect using different
 credentials".
@@ -74,7 +71,7 @@ checked (on shared computers).
 
 Note that you have your own personal space here.  As long as you are
 within the UCSF network you can reach the
-[mic.ucsf.edu](http://mic.ucsf.edu){.external-link rel="nofollow"}  file
+[mic.ucsf.edu](http://mic.ucsf.edu)  file
 server.
 
 **Please disconnect the drive when you are done using it, especially on
@@ -84,12 +81,12 @@ a shared computer.**
 
 ** **From Mac:
 
-1.  In the Finder go to Go → Connect to Sever
+1. In the Finder go to Go → Connect to Sever
 
-2.  Enter [smb://mic.ucsf.edu](smb://mic.ucsf.edu){rel="nofollow"}
+2. Enter [smb://mic.ucsf.edu](smb://mic.ucsf.edu){rel="nofollow"}
 
-3.  Enter CAMPUS in the Workgroup/Domain field and the your UCSF short
-    username and password.
+3. Enter CAMPUS in the Workgroup/Domain field and the your UCSF short
+ username and password.
 
 \
 

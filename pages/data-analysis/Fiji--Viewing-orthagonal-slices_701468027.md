@@ -4,19 +4,19 @@ title: Fiji- Viewing orthagonal slices
 author: Herrington, Kari
 ---
 
-1.  Orthoganol slices allow you to view your z stacks from the slide!
-2.  In Fiji OPen your image
-    1.  First set the colors and brightness and contrast for each image
-        1.  Color → on Channel on channel bar → go to LUT button and
-            choose channel
-        2.  Brightness contrast- Image → Adjust → Brightness and
-            Contrast
-        3.  [
-3.  Image→Stacks→ Orthagonal views
-    1.  [
-4.  Move around the cross hairs to see the different regions of the z
-    sections
-5.  [
+1. Orthoganol slices allow you to view your z stacks from the slide!
+2. In Fiji OPen your image
+ 1. First set the colors and brightness and contrast for each image
+ 1. Color → on Channel on channel bar → go to LUT button and
+ choose channel
+ 2. Brightness contrast- Image → Adjust → Brightness and
+ Contrast
+ 3. [
+3. Image→Stacks→ Orthagonal views
+ 1. [
+4. Move around the cross hairs to see the different regions of the z
+ sections
+5. [
 
 ## Attachments:
 

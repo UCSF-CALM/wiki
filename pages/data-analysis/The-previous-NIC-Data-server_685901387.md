@@ -4,7 +4,7 @@ title: The previous NIC Data server
 author: Stuurman, Nico
 ---
 
-## Accessing the previous NIC Server 
+## Accessing the previous NIC Server
 
 \
 
@@ -20,23 +20,22 @@ UCSF. It is not accessible from outside the UCSF network.
 
 To access the server from Windows:
 
-1.  Open a windows explorer window and go to Tools → Map Network Drive
+1. Open a windows explorer window and go to Tools → Map Network Drive
 
-2.  Pick an unused drive letter and type [\\\\nicdata\\data]{.windows
-    rel="nofollow"}
+2. Pick an unused drive letter and type [\\\\nicdata\\data]
 
-3.  Login using the same nicuser account you use to login to the
-    microscopes.
+3. Login using the same nicuser account you use to login to the
+ microscopes.
 
 From Mac:
 
-1.  In the Finder go to Go → Connect to Sever
+1. In the Finder go to Go → Connect to Sever
 
-2.  Enter
-    [smb://nicdata.ucsf.edu/data](smb://nicdata.ucsf.edu/data){rel="nofollow"}
+2. Enter
+ [smb://nicdata.ucsf.edu/data](smb://nicdata.ucsf.edu/data){rel="nofollow"}
 
-3.  Enter CAMPUS in the Workgroup/Domain field and the nicuser username
-    and password.
+3. Enter CAMPUS in the Workgroup/Domain field and the nicuser username
+ and password.
 
 Once you\'ve logged on to the server, create a folder to store your
 files in. Then save data to your heart's content.

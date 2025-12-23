@@ -4,8 +4,8 @@ title: User Quick Start Guides
 author: Delaine Larsen
 ---
 
-3.  [Microscopy References and
-    Education](Microscopy-References-and-Education_517178908.html)
+3. [Microscopy References and
+ Education](Microscopy-References-and-Education_517178908.html)
 
 \
 
@@ -16,46 +16,46 @@ microscope running NIS Elements 5.21. The steps for Kohler will be the
 same on any microscope.
 
 - Setting up Kohler on the Nikon
-  TiE (attachment)
+ TiE (attachment)
 - Setting up white balance in
-  E (attachment)lements (attachment)(  (attachment)DS-Ri2 camera)
+ E (attachment)lements (attachment)(  (attachment)DS-Ri2 camera)
 - Shading correction for bright
-  field (attachment)
+ field (attachment)
 - Setting up and running large image Jobs for
-  stitching (attachment)
+ stitching (attachment)
 - Exporting stitched color
-  images (attachment)
+ images (attachment)
 
 \
 
-## 6D Widefield High Throughput 
+## 6D Widefield High Throughput
 
 - Copy a jobs file to make it your own (Large stitch
-  example) (attachment)
+ example) (attachment)
 
-## CSU-22 Microscope 
+## CSU-22 Microscope
 
 - Epifluorescence
-  Configuration (attachment)
+ Configuration (attachment)
 - Turning on 561 laser (Trouble shooting for no Cy3/red
-  channel!!) (attachment)
+ channel!!) (attachment)
 
 \
 
-## CSU-W1 
+## CSU-W1
 
 - RAPP
-  (photomanipulation) (attachment)
+ (photomanipulation) (attachment)
 
-## Workstations 
+## Workstations
 
 - Converting images to ND2 from file
-  sequence (attachment)
+ sequence (attachment)
 
-## CAMM Microscope Quickstart with Slidebook 
+## CAMM Microscope Quickstart with Slidebook
 
 - [Upright Spinning Disk
-  Instructions](Upright-Spinning-Disk-Instructions_654283421.html)
+ Instructions](Upright-Spinning-Disk-Instructions_654283421.html)
 
 ## Attachments:
 
