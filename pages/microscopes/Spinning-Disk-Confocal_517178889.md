@@ -6,7 +6,7 @@ author: Delaine Larsen
 
 # Spinning Disk Confocal
 
-## [FPBASE](https://www.fpbase.org/microscope/GW5sq88yjC7PPrtDRKvQnE/)**
+## [FPBASE](https://www.fpbase.org/microscope/GW5sq88yjC7PPrtDRKvQnE/)
 
 ## Optics
 ### Objectives
