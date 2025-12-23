@@ -7,9 +7,8 @@ date: Jun 13, 2025
 
 # TruLive3D Light Sheet
 
-### Optics
-
-#### Objectives
+## Optics
+### Objectives
 
 1. Two Nikon CFI Plan Fluor 10x W 0.3 NA water immersion objective lens
  for illumination
@@ -25,7 +24,7 @@ Tube lens Magnifier for detection objective
 3.  1.5 x  = Effective Magnification 37.5 x
 4.  2 x   = Effective Magnification  50 x
 
-#### Excitation Wavelengths:
+### Excitation Wavelengths:
 
 - For light sheet
  - 405nm
@@ -37,11 +36,11 @@ Tube lens Magnifier for detection objective
 - For Ablation
  - 532 Pulsed CryLas
 
-#### Transmission Light
+### Transmission Light
 
 - 880 LED for Bright field
 
-#### Emission Filter Short Camera
+### Emission Filter Short Camera
 
 1. BP 418-462 = Chroma ET 440/40
 2. LP 498 = Semrock 488LP
@@ -50,7 +49,7 @@ Tube lens Magnifier for detection objective
 5. BP 580-627 = Chroma ET 605/50
 6. BP 610-629 = Semrock 620/14
 
-#### Emission Filter Long Camera
+### Emission Filter Long Camera
 
 1. LP 498 = Semrock 488LP
 2. BP 497-554 = Semrock 525/50
@@ -64,7 +63,7 @@ Tube lens Magnifier for detection objective
 
 \
 
-#### Dichroics between cameras
+### Dichroics between cameras
 
 1.  500LP Camera splitting dichroic
 

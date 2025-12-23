@@ -6,11 +6,10 @@ author: Delaine Larsen
 
 # Spinning Disk Confocal
 
-## **[FPBASE](https://www.fpbase.org/microscope/GW5sq88yjC7PPrtDRKvQnE/)**
+## [FPBASE](https://www.fpbase.org/microscope/GW5sq88yjC7PPrtDRKvQnE/)**
 
-### Optics
-
-#### Objectives
+## Optics
+### Objectives
 
 1. Plan Fluor 10x /0.3 (Ph1 DL) -910 nm/pixel
 
@@ -24,7 +23,7 @@ author: Delaine Larsen
 
 6. Apo TIRF 100x/1.49 Oil 91 nm/pixel
 
-#### Filter Turret 1 (FL1, Top)
+### Filter Turret 1 (FL1, Top)
 
 1. Empty
 
@@ -38,11 +37,11 @@ author: Delaine Larsen
 
 6. D/F/R
 
-#### Yokogawa Dichroics
+### Yokogawa Dichroics
 
 1. 405/491/561/640
 
-#### Emission Wheel
+### Emission Wheel
 
 (To get NIS-Elements numbering, add 1 to these numbers)
 

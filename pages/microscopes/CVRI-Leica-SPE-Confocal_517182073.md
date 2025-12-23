@@ -6,9 +6,8 @@ author: Delaine Larsen
 
 # CVRI Leica SPE Confocal
 
-### Optics
-
-#### Objectives
+## Optics
+### Objectives
 
 - ACS APO 10x/0.3
 - HCX APO LUVI 20x/0.5 WI
