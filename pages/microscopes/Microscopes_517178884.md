@@ -4,12 +4,6 @@ title: Microscopes
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Sep 26, 2025
-
 Here is a repository for information about the CALM microscopes,
 including technical details and information for end users.
 

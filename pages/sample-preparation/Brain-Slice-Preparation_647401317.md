@@ -4,11 +4,6 @@ title: Brain Slice Preparation
 author: Herrington, Kari
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Herrington, Kari on Mar 18, 2024
-
 From DeLaine:
 
 Cutting Slices:

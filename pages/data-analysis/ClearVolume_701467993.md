@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Mar 26, 2025
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 ## Fiji Page: [https://imagej.net/plugins/clearvolume](https://imagej.net/plugins/clearvolume){.external-link rel="nofollow"}
 
 ## Github: [https://clearvolume.github.io/](https://clearvolume.github.io/){.external-link rel="nofollow"}

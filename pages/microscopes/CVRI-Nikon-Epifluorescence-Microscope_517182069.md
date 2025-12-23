@@ -4,12 +4,6 @@ title: CVRI Nikon Epifluorescence Microscope
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Aug 11, 2023
-
 ## **[FPBASE](https://www.fpbase.org/microscope/QH6gEQqaM6fdq7SymCsoaH/){.external-link rel="nofollow"}** 
 
 ### Optics 

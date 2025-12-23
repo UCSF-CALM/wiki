@@ -4,11 +4,6 @@ title: Fiji- Viewing orthagonal slices
 author: Herrington, Kari
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Herrington, Kari on Mar 26, 2025
-
 1.  Orthoganol slices allow you to view your z stacks from the slide!
 2.  In Fiji OPen your image
     1.  First set the colors and brightness and contrast for each image

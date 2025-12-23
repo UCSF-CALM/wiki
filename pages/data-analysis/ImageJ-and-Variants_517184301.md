@@ -4,12 +4,6 @@ title: ImageJ and Variants
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Mar 26, 2025
-
 ### Distributions 
 
 [ImageJ](https://imagej.net/){.external-link rel="nofollow"} is one of

@@ -4,11 +4,6 @@ title: Finding your pixel size
 author: Herrington, Kari
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Herrington, Kari on Jan 08, 2024
-
 As long as you have your raw data and it was taken in the CALM it should
 be a .ome.tif, .nd2, or .dv file. These steps below will also work with
 any file *as long as the metadata has properly been recorded.*

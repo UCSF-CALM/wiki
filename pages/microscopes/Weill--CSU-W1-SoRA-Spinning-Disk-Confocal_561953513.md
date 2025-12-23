@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Nov 08, 2022
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 ## **[FP BASE](https://www.fpbase.org/microscope/iqvwVz3wMgzWv7LTmVaUUC/){.external-link rel="nofollow"}** 
 
 [This a super-resolution spinning disk confocal that can provide a 1.5

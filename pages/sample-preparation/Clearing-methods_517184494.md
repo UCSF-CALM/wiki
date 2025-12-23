@@ -4,12 +4,6 @@ title: Clearing methods
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Oct 05, 2023
-
 Imaging of thick (\>50 um) tissue sections is often improved by clearing
 of the samples - treating them so that the normally opaque sample
 becomes clear. In 2007, we tested a number of clearing methods in

@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Jan 27, 2025
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 Did you know you can make your own flow chamber slide with some
 double-sided tape?
 

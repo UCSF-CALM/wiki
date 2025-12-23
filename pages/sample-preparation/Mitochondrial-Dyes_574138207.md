@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Aug 15, 2023
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 ## PK Mito Orange   
 
 We were generously able to try this dye thanks to Dr.

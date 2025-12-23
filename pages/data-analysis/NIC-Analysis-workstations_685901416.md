@@ -4,12 +4,6 @@ title: NIC Analysis workstations
 author: Stuurman, Nico
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Stuurman, Nico, last updated by [ Herrington,
-Kari on Jul 11, 2025
-
 [Remote Access to the workstations ](720372404.html)
 
 The following Analysis workstations have high speed (10Gb) access to the

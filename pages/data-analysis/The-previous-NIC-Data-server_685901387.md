@@ -4,11 +4,6 @@ title: The previous NIC Data server
 author: Stuurman, Nico
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Stuurman, Nico on Jan 02, 2025
-
 ## Accessing the previous NIC Server 
 
 \

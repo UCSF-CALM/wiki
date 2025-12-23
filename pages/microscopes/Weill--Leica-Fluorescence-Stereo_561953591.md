@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Nov 08, 2022
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 This is a manual fluorescence stereo microscope that can be used for
 checking samples. It is equipped with a Leica K5 camera.
 

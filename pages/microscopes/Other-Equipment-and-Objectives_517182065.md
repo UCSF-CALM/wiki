@@ -4,11 +4,6 @@ title: Other Equipment and Objectives
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen on Aug 31, 2020
-
 ##### Objectives 
 
 - Plan Fluor ELWD 20x/0.45 (DIC N1)

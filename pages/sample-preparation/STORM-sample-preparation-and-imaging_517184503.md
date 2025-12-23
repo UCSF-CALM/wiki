@@ -4,12 +4,6 @@ title: STORM sample preparation and imaging
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Sep 23, 2020
-
 This page is intended to be a repository of useful information for STORM
 sample preparation and imaging.
 

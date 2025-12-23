@@ -4,12 +4,6 @@ title: C-Trap Optical Tweezers
 author: Stuurman, Nico
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Stuurman, Nico, last updated by [ Herrington,
-Kari on Mar 10, 2025
-
 [
 
 The C-Trap is an easy to use optical trap made by

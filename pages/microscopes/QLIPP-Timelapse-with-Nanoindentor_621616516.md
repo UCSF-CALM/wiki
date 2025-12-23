@@ -4,12 +4,6 @@ title: QLIPP-Timelapse with Nanoindentor
 author: Herrington, Kari
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Herrington, Kari, last updated by [ Lasser,
-Micaela on Jul 01, 2024
-
 #### Optics 
 
 ##### Objectives 

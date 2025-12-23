@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Jun 13, 2025
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 Mitichison lab protocols:
 
 - All resources:

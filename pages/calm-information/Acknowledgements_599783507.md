@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Feb 09, 2024
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 ## **Thank you for acknowledging the Core!**
 
 **Please also remember to include information about your microscopes for

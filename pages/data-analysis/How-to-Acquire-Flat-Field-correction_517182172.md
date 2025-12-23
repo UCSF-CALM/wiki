@@ -4,11 +4,6 @@ title: How to Acquire Flat Field correction
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen on Aug 31, 2020
-
 This protocol describes how to capture flat field correction images for
 performing shading correction of fluorescence images.
 

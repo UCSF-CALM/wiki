@@ -5,8 +5,6 @@ author: Herrington, Kari
 date: May 02, 2024
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
 3.  [Microscopy References and
     Education](Microscopy-References-and-Education_517178908.html)
 
