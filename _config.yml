@@ -16,7 +16,8 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/UCSF-CALM 
+    link: https://github.com/UCSF-CALM
+
 navigation:
   - name: Home
     link: ./index.html
