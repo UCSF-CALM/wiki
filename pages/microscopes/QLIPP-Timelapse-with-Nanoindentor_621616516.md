@@ -6,9 +6,8 @@ author: Herrington, Kari
 
 # QLIPP-Timelapse with Nanoindentor
 
-#### Optics
-
-##### Objectives
+## Optics
+### Objectives
 
 - PLAN APO [[λ 10X/0.45 NA]
 
@@ -18,7 +17,7 @@ author: Herrington, Kari
 
 - [[Other objectives available in cabinet]
 
-##### Filter Turret
+### Filter Turret
 
 1. Analyzer
 2. QLIPP
@@ -37,7 +36,7 @@ author: Herrington, Kari
  2. 518 to 559 nm
  3. 597 to 667 nm
 
-##### Excitation Wavelengths Spectra X
+### Excitation Wavelengths Spectra X
 
 1. 395 nm
 
@@ -51,7 +50,7 @@ author: Herrington, Kari
 
 6. 640 nm
 
-##### Emission Wheel (Sutter)
+### Emission Wheel (Sutter)
 
 1. Empty
 
@@ -69,7 +68,7 @@ author: Herrington, Kari
 
 8. 89006 - CFP/YFP/mCherry - ET (Em2) - 602 to 662
 
-#### Hardware
+### Hardware
 
 \
 
@@ -100,16 +99,16 @@ author: Herrington, Kari
 
 - Chiaro Nanoindenter from Optics11 Life
 
-#### Interface Requirements
+### Interface Requirements
 
 -  Spectra X - RS232
 - Zyla 4.2 - PCIe Camera link Card
 
-#### Firmware
+### Firmware
 
 - Ti - E V 5.2
 
-#### PC
+### PC
 
 - Intel(R) Core(TM) i7 CPU  870  @ 2.93GHz   2.93 GHz
 - 16GB RAM
@@ -119,7 +118,7 @@ author: Herrington, Kari
 - 1TB C drive
 - 3.5TB Data drive (SATA)
 
-#### Software
+### Software
 
 - NIS Elements 5.21.01 build 1483
 

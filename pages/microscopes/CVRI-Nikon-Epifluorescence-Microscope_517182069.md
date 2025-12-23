@@ -6,11 +6,10 @@ author: Delaine Larsen
 
 # CVRI Nikon Epifluorescence Microscope
 
-## **[FPBASE](https://www.fpbase.org/microscope/QH6gEQqaM6fdq7SymCsoaH/)**
+## [FPBASE](https://www.fpbase.org/microscope/QH6gEQqaM6fdq7SymCsoaH/)**
 
-### Optics
-
-#### Objectives
+## Optics
+### Objectives
 
 - Plan Apo 4x/0.2
 - Plan Fluor 10x/0.3
@@ -18,7 +17,7 @@ author: Delaine Larsen
 - Plan Apo 20X/0.45 ELWD
 - Plan Apo VC 60x/1.4
 
-#### Filter Turret
+### Filter Turret
 
 - DAPI
 - FITC

@@ -6,7 +6,7 @@ author: Delaine Larsen
 
 # Other Equipment and Objectives
 
-##### Objectives
+### Objectives
 
 - Plan Fluor ELWD 20x/0.45 (DIC N1)
 
@@ -26,7 +26,7 @@ author: Delaine Larsen
 
 - Plan Apo VC 100x/1.4 Oil (DIC N2)
 
-##### Other Equipment
+### Other Equipment
 
 - [CellASIC
  ONIX](http://www.cellasic.com/ONIX.html "http://www.cellasic.com/ONIX.html")

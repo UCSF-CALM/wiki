@@ -6,11 +6,10 @@ author: Delaine Larsen
 
 # CVRI Nikon Spinning Disk Confocal
 
-## **[FPBASE](https://www.fpbase.org/microscope/K6fHR5wykr55kxU99i3fhY/)**
+## [FPBASE](https://www.fpbase.org/microscope/K6fHR5wykr55kxU99i3fhY/)**
 
-### Optics
-
-#### Objectives
+## Optics
+### Objectives
 
 - 10X λ Plan Apo 0.45 NA
 
@@ -26,7 +25,7 @@ author: Delaine Larsen
 
 - 100x Apo TIRF 100x Oil DIC N2 (in cabinet)
 
-#### Filter Turret 1 (FL1, Top)
+### Filter Turret 1 (FL1, Top)
 
 - analyzer
 - UV2E/C
@@ -34,11 +33,11 @@ author: Delaine Larsen
 - ZET 405/488/561/640x
 - FITC
 
-#### Yokogawa Dichroics
+### Yokogawa Dichroics
 
 1. 405/491/561/640
 
-#### Emission Wheel Left Confocal
+### Emission Wheel Left Confocal
 
 - FF01-609/57
 
