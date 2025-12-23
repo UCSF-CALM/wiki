@@ -4,6 +4,8 @@ title: NIC Analysis workstations
 author: Stuurman, Nico
 ---
 
+# NIC Analysis workstations
+
 [Remote Access to the workstations ](720372404.html)
 
 The following Analysis workstations have high speed (10Gb) access to the

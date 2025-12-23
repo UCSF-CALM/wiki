@@ -4,6 +4,8 @@ title: Finding your pixel size
 author: Herrington, Kari
 ---
 
+# Finding your pixel size
+
 As long as you have your raw data and it was taken in the CALM it should
 be a.ome.tif,.nd2, or.dv file. These steps below will also work with
 any file *as long as the metadata has properly been recorded.*

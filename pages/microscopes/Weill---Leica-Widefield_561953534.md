@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Nov 08, 2022
 ---
 
+# Weill - Leica Widefield
+
 [This is a conventional widefield system for both epifluorescence and
 brightfield imaging and is equipped with CO2 and a
 temperature-controlled incubator for live-cell imaging. The fully

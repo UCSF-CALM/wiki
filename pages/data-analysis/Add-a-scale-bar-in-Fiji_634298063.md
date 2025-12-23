@@ -4,6 +4,8 @@ title: Add a scale bar in Fiji
 author: Herrington, Kari
 ---
 
+# Add a scale bar in Fiji
+
 Prereqresite:
 
 - Download and install Fiji

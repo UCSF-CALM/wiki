@@ -4,6 +4,8 @@ title: ImageJ and Variants
 author: Delaine Larsen
 ---
 
+# ImageJ and Variants
+
 ### Distributions
 
 [ImageJ](https://imagej.net/) is one of

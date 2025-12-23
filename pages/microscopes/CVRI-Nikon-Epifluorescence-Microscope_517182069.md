@@ -4,6 +4,8 @@ title: CVRI Nikon Epifluorescence Microscope
 author: Delaine Larsen
 ---
 
+# CVRI Nikon Epifluorescence Microscope
+
 ## **[FPBASE](https://www.fpbase.org/microscope/QH6gEQqaM6fdq7SymCsoaH/)**
 
 ### Optics

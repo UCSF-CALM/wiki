@@ -4,6 +4,8 @@ title: Clearing methods
 author: Delaine Larsen
 ---
 
+# Clearing methods
+
 Imaging of thick (\>50 um) tissue sections is often improved by clearing
 of the samples - treating them so that the normally opaque sample
 becomes clear. In 2007, we tested a number of clearing methods in

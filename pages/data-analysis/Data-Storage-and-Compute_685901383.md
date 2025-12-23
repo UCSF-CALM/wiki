@@ -5,6 +5,8 @@ author: Stuurman, Nico
 date: Jan 03, 2025
 ---
 
+# Data Storage and Compute
+
 [The previous NIC Data
 server](The-previous-NIC-Data-server_685901387.html)
 

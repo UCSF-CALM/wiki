@@ -4,6 +4,8 @@ title: Calcium-FURA2 imaging
 author: Delaine Larsen
 ---
 
+# Calcium-FURA2 imaging
+
 Fura-2 is a UV light--excitable, ratiometric Ca2+ indicator and became
 most common dye of choice for ratio-imaging microscopy, where it is more
 practical to change excitation wavelengths than emission wavelengths.

@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Feb 11, 2025
 ---
 
+# Methods Examples
+
 ## Brightfield Imaging with Large imaging
 
 [Brightfield images were captured on an inverted Nikon TiE microscope

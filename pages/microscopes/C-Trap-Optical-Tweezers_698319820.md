@@ -4,6 +4,8 @@ title: C-Trap Optical Tweezers
 author: Stuurman, Nico
 ---
 
+# C-Trap Optical Tweezers
+
 [
 
 The C-Trap is an easy to use optical trap made by

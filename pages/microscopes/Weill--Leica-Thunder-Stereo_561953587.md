@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Nov 08, 2022
 ---
 
+# Weill- Leica Thunder Stereo
+
 [This is a fully automated fluorescence stereo microscope with Leica
 Thunder software. Leica Thunder provides computational clearing allowing
 for the imaging of larger

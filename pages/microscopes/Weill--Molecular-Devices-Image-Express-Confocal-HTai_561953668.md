@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Feb 15, 2023
 ---
 
+# Weill- Molecular Devices Image Express Confocal HTai
+
 This system is a high-content imaging system providing both spinning
 disk confocal and widefield imaging. It is optimized for imaging
 multi-well plates and has both air and water-immersion objectives. It

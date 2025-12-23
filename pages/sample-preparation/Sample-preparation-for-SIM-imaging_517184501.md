@@ -4,6 +4,8 @@ title: Sample preparation for SIM imaging
 author: Delaine Larsen
 ---
 
+# Sample preparation for SIM imaging
+
 Structured Illumination (SIM) imaging is extremely sensitive to
 spherical aberration. To get the highest quality images (or even to get
 proper reconstruction), you need to minimize spherical aberration. This

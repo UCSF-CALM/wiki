@@ -4,6 +4,8 @@ title: Sample Preparation
 author: Delaine Larsen
 ---
 
+# Sample Preparation
+
 This section is being expanded to include more information about dyes,
 protocols, and sample information that is handy for imaging! If you have
 used something on our microscopes that worked well (or didn\'t!) Please

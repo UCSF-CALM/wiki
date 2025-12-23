@@ -4,6 +4,8 @@ title: Stitching Images Acquired in Micro-Manager
 author: Delaine Larsen
 ---
 
+# Stitching Images Acquired in Micro-Manager
+
 There are a number of programs available for stitching images acquired
 in Micro-Manager, or stitching images more generally. For images
 acquired from Micro-Manager, the simplest option is to use the
