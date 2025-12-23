@@ -41,13 +41,9 @@ author: Delaine Larsen
 ### PC
 
 - Windows 10 64-bit
-
 - Xeon W3505, 2.3 GHz
-
 - 6 GB RAM
-
 - ATI FirePro 2260
-
 - 500GB SSD
 
 \
@@ -59,7 +55,5 @@ author: Delaine Larsen
 ### Software
 
 - Nikon Elements 5.02 build 1266
-
 - Micro-Manager 2.0
-
 - Micro-Manager 1.4

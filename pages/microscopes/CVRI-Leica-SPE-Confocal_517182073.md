@@ -21,15 +21,10 @@ Emission:
 ### Hardware
 
 - Upright Leica TCS-SPE-II DM5500 RYBV (loaner Leica DM600 B)
-
 - PMT detector for fluorescence (capable of 8 or 12bit)
-
 - PMT detector for transmission (capable of 8 or 12bit)
-
 - Leica solid state laser launch
-
 - Leica motorized stage
-
 - EL6000 fluorescence lamp
 
 ### Lasers
@@ -44,13 +39,9 @@ Emission:
 ### PC
 
 - Windows 7 Pro 64-bit Windows Extenstion
-
 - HP Z440 Workstation
-
 - Xenon E5-1620 v3
-
 - Quadro K620
-
 - 8GB RAM
 
 \

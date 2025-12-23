@@ -10,11 +10,8 @@ author: Herrington, Kari
 ### Objectives
 
 - PLAN APO [[λ 10X/0.45 NA]
-
 - [[PLAN FLUOR Ph1 10x/0.3 NA]
-
 - [[PLAN APO 40/X.0.95 NA]
-
 - [[Other objectives available in cabinet]
 
 ### Filter Turret
@@ -39,33 +36,21 @@ author: Herrington, Kari
 ### Excitation Wavelengths Spectra X
 
 1. 395 nm
-
 2. 440 nm
-
 3. 470 nm
-
 4. 508 nm
-
 5. 555 nm
-
 6. 640 nm
 
 ### Emission Wheel (Sutter)
 
 1. Empty
-
 2. 89000 - Sedat Quad - ET (Em3) - 430 to 480
-
 3. 89000 - Sedat Quad - ET (Em2) - 507 to 546
-
 4. 89000 - Sedat Quad - ET (Em1) -  579 to 631
-
 5. 89000 - Sedat Quad - ET (Em4) - 669 to 741
-
 6. 89006 - CFP/YFP/mCherry - ET (Em3) - 458 to 482
-
 7. 89006 - CFP/YFP/mCherry - ET (Em1) - 520 to 550
-
 8. 89006 - CFP/YFP/mCherry - ET (Em2) - 602 to 662
 
 ### Hardware
@@ -73,30 +58,18 @@ author: Herrington, Kari
 \
 
 - Nikon Ti-E Microscope
-
 - Sutter Lambda LS lamp with filter wheel and shutter
-
 - Sutter Lambda 10-3 (COM 4)
-
 - Sutter Emission wheel
-
 - Sutter FLED (BF LED)
-
 - Zyla 4.2 Camera Link
-
 - National Instrument BNC-2110
-
 - Lumencor Spectra X (COM3)
-
 - Triggerscope
-
 - MCL piezo
-
 - Oko Box with temperature control
-
 - For QLIPP
  - Medowlark Optics Liquid Crystal digital interface
-
 - Chiaro Nanoindenter from Optics11 Life
 
 ### Interface Requirements
@@ -121,7 +94,6 @@ author: Herrington, Kari
 ### Software
 
 - NIS Elements 5.21.01 build 1483
-
 - NIDAQ  (v21.3.0)
 
 \

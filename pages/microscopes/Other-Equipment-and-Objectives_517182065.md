@@ -9,21 +9,13 @@ author: Delaine Larsen
 ### Objectives
 
 - Plan Fluor ELWD 20x/0.45 (DIC N1)
-
 - Plan Fluor ELWD 40x/0.60 (DIC N1)
-
 - Plan Fluor ELWD 60x/0.70 (DIC N1)
-
 - Plan Fluor 4x/0.13 (PhL DL)
-
 - Plan Apo 20x/0.75 (DIC N2)
-
 - Plan Fluor 20x/0.75 MImm (DIC N2)
-
 - Apo LWD 40x/1.15 WI (DIC N2)
-
 - Plan Apo VC 60x/1.2 WI (DIC N2)
-
 - Plan Apo VC 100x/1.4 Oil (DIC N2)
 
 ### Other Equipment
@@ -35,5 +27,4 @@ author: Delaine Larsen
  Incubator](http://www.nevtek.com/incubatr.htm "http://www.nevtek.com/incubatr.htm")
 
 - A Nikon Darkfield Condensor
-
 - A Nikon 1.4NA Oil DIC Condensor

@@ -17,20 +17,14 @@ including technical details and information for end users.
  (CSU-22)
 
 - [[TIRF/STORM](517178903.html)
-
 - [[Time Lapse](Time-Lapse_517182042.html) widefield
-
 - [[6D](6D_517182048.html) widefield
-
 - [[Crest LFOV Spinning Disk/ C2 Confocal ](522589638.html)
-
 - [[CSU-W1 Spinning Disk High Speed Widefield](517182054.html)
  (CSU-W1)
 
 - [[AZ100 (Light Sheet)](AZ100-Light-Sheet_517182060.html)
-
 - [[OMX-SR](OMX-SR_517182062.html)
-
 - [[QLIPP-Timelapse with
  Nanoindentor](QLIPP-Timelapse-with-Nanoindentor_621616516.html)
 

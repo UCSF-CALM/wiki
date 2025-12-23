@@ -66,7 +66,6 @@ Tube lens Magnifier for detection objective
 ### Dichroics between cameras
 
 1.  500LP Camera splitting dichroic
-
  1. Splits emission light longer than 500 to one\
   camera and shorter than 500nm to a second camera
 
@@ -83,16 +82,12 @@ Tube lens Magnifier for detection objective
 ### Hardware
 
 - Hamamatsu Fire sCmossCamera x2
-
 -  MEMS-Based Steering Module for Advanced Beam Control and Destriping
-
 -  Dispersion-free iris-based beam expander module (Tag lens)
-
 -  Temperature control for the MuVi or InVi SPIM sample chamber with gas
  mixer (Ibidi) for full\
   control of gas composition (CO2, O2, humidity). Range 18 -- 40°C
  - Currently set up for CO2 only
-
 - Luxendo MuVi SPIM Laser Switcher
  -  Switches visible lasers between the light sheet optics and\
   photomanipulation module.
@@ -119,13 +114,9 @@ Neutral density filters for lasers
 ### PC
 
 - Win pro 11 Verxion 23H2
-
 - AMD Thred Ripper Pro 5955X 16-Cored 4.0 Ghz
-
 - 256 RAM
-
 - C: Drive (SSD) 1TB
-
 - Data Drive 30TB, micron MTFDKCC30T7TGH-1BC1ZABYY, R/W speed 7000 MB/s
 
 ### Software
