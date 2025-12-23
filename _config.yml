@@ -4,6 +4,13 @@ description: Wiki
 favicon: true
 color-scheme: auto
 
+# Theme
+theme: jekyll-theme-minimalistic
+
+# GitHub Pages settings
+baseurl: "/wiki"
+url: "https://UCSF-CALM.github.io"
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
