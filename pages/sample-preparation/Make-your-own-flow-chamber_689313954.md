@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Jan 27, 2025
 ---
 
+# Make your own flow chamber
+
 Did you know you can make your own flow chamber slide with some
 double-sided tape?
 

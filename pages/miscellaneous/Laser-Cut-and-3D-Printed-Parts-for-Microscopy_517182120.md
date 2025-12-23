@@ -4,6 +4,8 @@ title: Laser Cut and 3D Printed Parts for Microscopy
 author: Delaine Larsen
 ---
 
+# Laser Cut and 3D Printed Parts for Microscopy
+
 Here are 3D parts we have designed for microscopes. Most have been
 designed in either Solidworks or Autocad Inventor ([which can be
 obtained free for academic

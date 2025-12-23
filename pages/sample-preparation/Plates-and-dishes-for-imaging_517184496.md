@@ -4,6 +4,8 @@ title: Plates and dishes for imaging
 author: Delaine Larsen
 ---
 
+# Plates and dishes for imaging
+
 For best quality imaging, you want to use a 170 μm (0.17 mm) coverslip.
 This is roughly equivalent to a #1.5 coverslip. There are also plate and
 dish options which use a plastic polymer instead of a coverslip. When

@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Jun 13, 2025
 ---
 
+# TruLive3D Light Sheet
+
 ### Optics
 
 #### Objectives

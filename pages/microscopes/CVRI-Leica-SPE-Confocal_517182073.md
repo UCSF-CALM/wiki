@@ -4,6 +4,8 @@ title: CVRI Leica SPE Confocal
 author: Delaine Larsen
 ---
 
+# CVRI Leica SPE Confocal
+
 ### Optics
 
 #### Objectives

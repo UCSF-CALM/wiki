@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Nov 08, 2022
 ---
 
+# Weill- CSU-W1 SoRA Spinning Disk Confocal
+
 ## **[FP BASE](https://www.fpbase.org/microscope/iqvwVz3wMgzWv7LTmVaUUC/)**
 
 [This a super-resolution spinning disk confocal that can provide a 1.5

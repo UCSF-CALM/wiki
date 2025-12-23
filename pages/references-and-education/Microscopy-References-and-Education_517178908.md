@@ -5,6 +5,8 @@ author: Delaine Larsen
 date: Aug 31, 2020
 ---
 
+# Microscopy References and Education
+
 ##### [Microscopy Courses](Microscopy-Courses_517182136.html)
 
 ##### [Presentations](Presentations_517182141.html)

@@ -4,6 +4,8 @@ title: How to Acquire Flat Field correction
 author: Delaine Larsen
 ---
 
+# How to Acquire Flat Field correction
+
 This protocol describes how to capture flat field correction images for
 performing shading correction of fluorescence images.
 

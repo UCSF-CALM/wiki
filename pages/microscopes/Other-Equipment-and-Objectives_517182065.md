@@ -4,6 +4,8 @@ title: Other Equipment and Objectives
 author: Delaine Larsen
 ---
 
+# Other Equipment and Objectives
+
 ##### Objectives
 
 - Plan Fluor ELWD 20x/0.45 (DIC N1)

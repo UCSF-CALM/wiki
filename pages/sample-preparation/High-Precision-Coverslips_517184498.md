@@ -4,6 +4,8 @@ title: High Precision Coverslips
 author: Delaine Larsen
 ---
 
+# High Precision Coverslips
+
 Microscope objectives, in general, are designed to work with 0.17 mm
 coverslips. You will get the best image quality using coverslips of
 exactly this thickness. Using coverslips of the wrong thickness will

@@ -4,6 +4,8 @@ title: Data Analysis Workstations
 author: Delaine Larsen
 ---
 
+# Data Analysis Workstations
+
 ### Analysis Workstation 2
 
 - - Windows11 Pro 64 Bit

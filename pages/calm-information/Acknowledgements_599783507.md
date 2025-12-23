@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Feb 09, 2024
 ---
 
+# Acknowledgements
+
 ## **Thank you for acknowledging the Core!**
 
 **Please also remember to include information about your microscopes for

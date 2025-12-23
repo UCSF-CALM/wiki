@@ -4,6 +4,8 @@ title: Miscellaneous
 author: Delaine Larsen
 ---
 
+# Miscellaneous
+
 - [Laser Cut and 3D Printed Parts for
  Microscopy](Laser-Cut-and-3D-Printed-Parts-for-Microscopy_517182120.html)
 - [PSFs and aberrations](PSFs-and-aberrations_517182122.html)

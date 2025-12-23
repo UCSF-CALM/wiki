@@ -4,6 +4,8 @@ title: Brain Slice Preparation
 author: Herrington, Kari
 ---
 
+# Brain Slice Preparation
+
 From DeLaine:
 
 Cutting Slices:

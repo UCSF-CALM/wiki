@@ -4,6 +4,8 @@ title: Cilia Analysis
 author: Herrington, Kari
 ---
 
+# Cilia Analysis
+
 We have had a number of people analyze Cilia in the Core and ask us
 questions about how to analyze their cilia, primarily in terms of
 segmenting then measuring

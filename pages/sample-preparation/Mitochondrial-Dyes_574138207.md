@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Aug 15, 2023
 ---
 
+# Mitochondrial Dyes
+
 ## PK Mito Orange
 
 We were generously able to try this dye thanks to Dr.

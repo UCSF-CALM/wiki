@@ -4,6 +4,8 @@ title: Protocols for Immunocytochemistry in cell culture
 author: Delaine Larsen
 ---
 
+# Protocols for Immunocytochemistry in cell culture
+
 ## Below are some general protocols for standing from members of the core
 
 There are many small variations in staining, so keep in mind that, as

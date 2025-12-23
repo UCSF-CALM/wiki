@@ -4,6 +4,8 @@ title: The previous NIC Data server
 author: Stuurman, Nico
 ---
 
+# The previous NIC Data server
+
 ## Accessing the previous NIC Server
 
 \

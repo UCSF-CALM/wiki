@@ -4,6 +4,8 @@ title: Fiji- Viewing orthagonal slices
 author: Herrington, Kari
 ---
 
+# Fiji- Viewing orthagonal slices
+
 1. Orthoganol slices allow you to view your z stacks from the slide!
 2. In Fiji OPen your image
  1. First set the colors and brightness and contrast for each image

@@ -5,6 +5,8 @@ author: Herrington, Kari
 date: Mar 26, 2025
 ---
 
+# ClearVolume
+
 ## Fiji Page: [https://imagej.net/plugins/clearvolume](https://imagej.net/plugins/clearvolume)
 
 ## Github: [https://clearvolume.github.io/](https://clearvolume.github.io/)
