@@ -4,12 +4,6 @@ title: Spinning Disk Confocal
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Dec 04, 2024
-
 ## **[FPBASE](https://www.fpbase.org/microscope/GW5sq88yjC7PPrtDRKvQnE/){.external-link rel="nofollow"}** 
 
 ### Optics 

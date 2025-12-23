@@ -4,12 +4,6 @@ title: Stitching Images Acquired in Micro-Manager
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Jun 13, 2023
-
 There are a number of programs available for stitching images acquired
 in Micro-Manager, or stitching images more generally. For images
 acquired from Micro-Manager, the simplest option is to use the

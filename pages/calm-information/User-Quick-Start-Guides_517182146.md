@@ -4,13 +4,8 @@ title: User Quick Start Guides
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
 3.  [Microscopy References and
     Education](Microscopy-References-and-Education_517178908.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Apr 11, 2025
 
 \
 

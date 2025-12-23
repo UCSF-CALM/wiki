@@ -4,12 +4,6 @@ title: CVRI Nikon Spinning Disk Confocal
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Mar 14, 2023
-
 ## **[FPBASE](https://www.fpbase.org/microscope/K6fHR5wykr55kxU99i3fhY/){.external-link rel="nofollow"}** 
 
 ### Optics 

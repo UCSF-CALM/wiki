@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Feb 06, 2024
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 Set up is given. You can use these as a base and switch out specific
 components (i.e. the lenses, channels used, DIC, etc..)
 

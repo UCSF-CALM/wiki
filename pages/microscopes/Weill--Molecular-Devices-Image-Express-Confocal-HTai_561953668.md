@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Feb 15, 2023
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 This system is a high-content imaging system providing both spinning
 disk confocal and widefield imaging. It is optimized for imaging
 multi-well plates and has both air and water-immersion objectives. It

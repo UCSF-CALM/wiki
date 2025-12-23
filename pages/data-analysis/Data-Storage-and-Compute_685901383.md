@@ -5,9 +5,6 @@ author: Stuurman, Nico
 date: Jan 03, 2025
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 [The previous NIC Data
 server](The-previous-NIC-Data-server_685901387.html)
 

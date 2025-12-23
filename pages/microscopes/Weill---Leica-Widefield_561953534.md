@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Nov 08, 2022
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 [This is a conventional widefield system for both epifluorescence and
 brightfield imaging and is equipped with CO2 and a
 temperature-controlled incubator for live-cell imaging. The fully

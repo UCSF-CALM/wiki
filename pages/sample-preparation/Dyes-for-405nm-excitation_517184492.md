@@ -4,12 +4,6 @@ title: Dyes for 405nm excitation
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Jun 28, 2023
-
 This is a summary of information Kurt Thorn collected in 2007 for dyes
 that could be used with 405 nm laser excitation.
 

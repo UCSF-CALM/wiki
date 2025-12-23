@@ -4,12 +4,6 @@ title: Sample Preparation
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Feb 07, 2025
-
 This section is being expanded to include more information about dyes,
 protocols, and sample information that is handy for imaging! If you have
 used something on our microscopes that worked well (or didn\'t!) Please

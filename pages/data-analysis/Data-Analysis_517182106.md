@@ -4,12 +4,6 @@ title: Data Analysis
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Apr 11, 2025
-
 ### How do I\...
 
 - [Find my Pixel size?](Finding-your-pixel-size_634298046.html)

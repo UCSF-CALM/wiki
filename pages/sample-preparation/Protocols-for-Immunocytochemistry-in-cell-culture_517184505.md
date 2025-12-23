@@ -4,12 +4,6 @@ title: Protocols for Immunocytochemistry in cell culture
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Jun 16, 2025
-
 ## Below are some general protocols for standing from members of the core 
 
 There are many small variations in staining, so keep in mind that, as

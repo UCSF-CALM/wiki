@@ -4,12 +4,6 @@ title: Plates and dishes for imaging
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Jul 15, 2025
-
 For best quality imaging, you want to use a 170 μm (0.17 mm) coverslip.
 This is roughly equivalent to a #1.5 coverslip. There are also plate and
 dish options which use a plastic polymer instead of a coverslip. When

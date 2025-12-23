@@ -4,12 +4,6 @@ title: Laser Cut and 3D Printed Parts for Microscopy
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Sep 30, 2020
-
 Here are 3D parts we have designed for microscopes. Most have been
 designed in either Solidworks or Autocad Inventor ([which can be
 obtained free for academic

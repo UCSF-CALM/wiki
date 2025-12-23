@@ -4,12 +4,8 @@ title: Monthly Microscopy Users Meeting
 author: Herrington, Kari
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
 3.  [Microscopy References and
     Education](Microscopy-References-and-Education_517178908.html)
-
-Created by [ Herrington, Kari on Sep 30, 2020
 
 In order to try and build a sense of community among the microscopists
 at UCSF and catalyze the exchange of information between the various

@@ -4,12 +4,6 @@ title: Sample preparation for SIM imaging
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Jul 11, 2023
-
 Structured Illumination (SIM) imaging is extremely sensitive to
 spherical aberration. To get the highest quality images (or even to get
 proper reconstruction), you need to minimize spherical aberration. This

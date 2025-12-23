@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Oct 16, 2023
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 ## Dyes people have used successfully on our systems 
 
 - Alexa fluor 750

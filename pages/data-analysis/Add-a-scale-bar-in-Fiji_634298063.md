@@ -4,11 +4,6 @@ title: Add a scale bar in Fiji
 author: Herrington, Kari
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Herrington, Kari on Jan 08, 2024
-
 Prereqresite:
 
 - Download and install Fiji

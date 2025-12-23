@@ -4,11 +4,6 @@ title: Cilia Analysis
 author: Herrington, Kari
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Herrington, Kari on Feb 03, 2025
-
 We have had a number of people analyze Cilia in the Core and ask us
 questions about how to analyze their cilia, primarily in terms of
 segmenting then measuring

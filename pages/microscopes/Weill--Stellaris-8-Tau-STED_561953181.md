@@ -5,9 +5,6 @@ author: Herrington, Kari
 date: Nov 08, 2022
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 [This is a super-resolution laser-scanning confocal outfitted with 3
 STED depletion lasers. It is capable of standard laser-scanning confocal
 microscopy, STED, tau-STED, and FLIM. With the White-Light Laser (WLL)

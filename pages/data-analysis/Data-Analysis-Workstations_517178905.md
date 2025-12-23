@@ -4,12 +4,6 @@ title: Data Analysis Workstations
 author: Delaine Larsen
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
-Created by [ Delaine Larsen, last updated by [ Herrington,
-Kari on Dec 06, 2024
-
 ### Analysis Workstation 2 
 
 - - Windows11 Pro 64 Bit

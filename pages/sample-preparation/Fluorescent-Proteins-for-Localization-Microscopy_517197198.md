@@ -4,13 +4,8 @@ title: Fluorescent Proteins for Localization Microscopy
 author: Herrington, Kari
 ---
 
-2.  [CALM Microscopy Wiki
-    Home](CALM-Microscopy-Wiki-Home_512554980.html)
-
 4.  [STORM sample preparation and
     imaging](STORM-sample-preparation-and-imaging_517184503.html)
-
-Created by [ Herrington, Kari on Sep 23, 2020
 
 \
 
