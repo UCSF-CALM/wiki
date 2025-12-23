@@ -12,17 +12,11 @@ author: Delaine Larsen
 ### Objectives
 
 - 10X λ Plan Apo 0.45 NA
-
 - 20x Plan Apo VC 0.75NA DIC N2
-
 - 40x Plan Apo 1.3 NA (in cabinet)
-
 - 40x Plan Apo 0.95 NA (in cabinet)
-
 - 60x Plan Apo VC 1.4NA DIC H N2
-
 - Plan Apo VC 1.4 NA DIC 2 (in cabinet)
-
 - 100x Apo TIRF 100x Oil DIC N2 (in cabinet)
 
 ### Filter Turret 1 (FL1, Top)
@@ -40,13 +34,9 @@ author: Delaine Larsen
 ### Emission Wheel Left Confocal
 
 - FF01-609/57
-
 - ET460/50m
-
 - ET525/50m
-
 - ET630/75m
-
 - ET690/50m
 
  \
@@ -89,19 +79,12 @@ Vortran laser launch
 ### PC
 
 - Windows 10 Pro 64-bit
-
 - ASUS Prime X299-A
-
 - Core i7 7740x (4.3 GHz)
-
 - 64GB Memory
-
 - NVIDIA GTX1060
-
 - 512 GB M.2
-
 - 1 TB SSD RAID 0
-
 - 8 TB HD
 
 ### Software
