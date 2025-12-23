@@ -4,11 +4,11 @@ title: CVRI Nikon Spinning Disk Confocal
 author: Delaine Larsen
 ---
 
-## **[FPBASE](https://www.fpbase.org/microscope/K6fHR5wykr55kxU99i3fhY/){.external-link rel="nofollow"}** 
+## **[FPBASE](https://www.fpbase.org/microscope/K6fHR5wykr55kxU99i3fhY/)**
 
-### Optics 
+### Optics
 
-#### Objectives 
+#### Objectives
 
 - 10X λ Plan Apo 0.45 NA
 
@@ -32,31 +32,31 @@ author: Delaine Larsen
 - ZET 405/488/561/640x
 - FITC
 
-#### Yokogawa Dichroics 
+#### Yokogawa Dichroics
 
-1.  405/491/561/640
+1. 405/491/561/640
 
-#### Emission Wheel Left Confocal 
+#### Emission Wheel Left Confocal
 
-- FF01-609/57 
+- FF01-609/57
 
-- ET460/50m 
+- ET460/50m
 
-- ET525/50m 
+- ET525/50m
 
-- ET630/75m 
+- ET630/75m
 
 - ET690/50m
 
-  \
+ \
 
-### Emission Wheel Right 
+### Emission Wheel Right
 
 - 690/50m
 - 630/75m
 - 525/50m
 
-### Hardware 
+### Hardware
 
 - Nikon Ti Microscope (Inverted)
 - Yokogawa CSU-X1 Spinning Disk Confocal
@@ -65,16 +65,16 @@ author: Delaine Larsen
 - Photometrics Prime95B sCMOS camera (left port, USB)
 - Andor DU897 EMCCD, (Right port, CCI-24 PCIe Controller Card)
 - Sutter Lambda 10-3 emission filter wheel: Epi-Right, Confocal-Left
-  (COM4)
+ (COM4)
 - ASI motorized XY stage (COM3, Baud Rate Auto) with Z piezo
 - OkoLab Cage Incubator
 - OkoLab CO2 Mixer
 - Sutter FLED Dual-channel system with 440nm and 630nm LED (BF
-  lightpath, NIDAQ)
+ lightpath, NIDAQ)
 
 \
 
-### Lasers 
+### Lasers
 
 Vortran laser launch
 
@@ -85,7 +85,7 @@ Vortran laser launch
 
 \
 
-### PC 
+### PC
 
 - Windows 10 Pro 64-bit
 
@@ -103,6 +103,6 @@ Vortran laser launch
 
 - 8 TB HD
 
-### Software 
+### Software
 
 - Nikon Elements 5.02 build 1266

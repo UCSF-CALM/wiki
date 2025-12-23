@@ -47,7 +47,6 @@ the signal intensity at 340 nm tends to be smaller on contraction, while
 the decrease of the signal intensity at 380 nm tends to be larger with
 its contraction. Fura 2-AM is an acetoxymethyl ester derivative of Fura
 2 that can be easily loaded into cells by incubation.\
- 
 
 **General fura-2 Protocol**
 

@@ -4,9 +4,9 @@ title: CVRI Leica SPE Confocal
 author: Delaine Larsen
 ---
 
-### Optics 
+### Optics
 
-#### Objectives 
+#### Objectives
 
 - ACS APO 10x/0.3
 - HCX APO LUVI 20x/0.5 WI
@@ -17,7 +17,7 @@ Emission:
 
 - SP detector 430-750nm
 
-### Hardware 
+### Hardware
 
 - Upright Leica TCS-SPE-II DM5500 RYBV (loaner Leica DM600 B)
 
@@ -31,7 +31,7 @@ Emission:
 
 - EL6000 fluorescence lamp
 
-### Lasers 
+### Lasers
 
 - 405nm
 - 488nm
@@ -40,7 +40,7 @@ Emission:
 
 \
 
-### PC 
+### PC
 
 - Windows 7 Pro 64-bit Windows Extenstion
 
@@ -60,8 +60,8 @@ Emission:
 - Condenser: V01.03
 - CTR: V01.5.4643
 
-### Software 
+### Software
 
-- LAS AF 
+- LAS AF
 
-  \
+ \

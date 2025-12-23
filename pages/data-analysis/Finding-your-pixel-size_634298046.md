@@ -5,27 +5,27 @@ author: Herrington, Kari
 ---
 
 As long as you have your raw data and it was taken in the CALM it should
-be a .ome.tif, .nd2, or .dv file. These steps below will also work with
+be a.ome.tif,.nd2, or.dv file. These steps below will also work with
 any file *as long as the metadata has properly been recorded.*
 
 Prerequisite: Download and open fiji
-([https://fiji.sc/](https://fiji.sc/){.external-link rel="nofollow"})
+([https://fiji.sc/](https://fiji.sc/))
 
 - Step1: Open the Bio-Format Plugins Shortcut Window
-  - [
+ - [
 - Step2: Drag and drop your file on the shortcut window\
-  \*Or you can open from Bio-Format Importer
-  - [
+ \*Or you can open from Bio-Format Importer
+ - [
 - Step3: Click 'OK' from the window below\
-  \*'Display OME XML metadata' will show you the pixel\
-  size embedded in the image\
-  \*'Use virtual stack' (red arrow) will help with opening\
-  up large sized z stack images faster!
-  - [
+ \*'Display OME XML metadata' will show you the pixel\
+ size embedded in the image\
+ \*'Use virtual stack' (red arrow) will help with opening\
+ up large sized z stack images faster!
+ - [
 - In the OME Metadata window
-  - You can double check the pixel size from this window (red arrow)\
-    \*This is just an example screenshot
-  - [
+ - You can double check the pixel size from this window (red arrow)\
+ \*This is just an example screenshot
+ - [
 
 \
 

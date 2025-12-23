@@ -5,112 +5,100 @@ author: Herrington, Kari
 date: Jun 13, 2025
 ---
 
-### Optics 
+### Optics
 
-#### Objectives 
+#### Objectives
 
-1.  Two Nikon CFI Plan Fluor 10x W 0.3 NA water immersion objective lens
-    for illumination
+1. Two Nikon CFI Plan Fluor 10x W 0.3 NA water immersion objective lens
+ for illumination
 
-2.   One Nikon CFI Apo 25x (eff. 50x) W 1.1 NA water immersion objective
-    lens for\
-     detection
+2.  One Nikon CFI Apo 25x (eff. 50x) W 1.1 NA water immersion objective
+ lens for\
+  detection
 
-Tube lens Magnifier for detection objective 
+Tube lens Magnifier for detection objective
 
-1.  0.5 x = Effective Magnification 12.5 x
-2.   1 x  = Effective Magnification 25 x
-3.   1.5 x  = Effective Magnification 37.5 x
-4.   2 x   = Effective Magnification  50 x
+1. 0.5 x = Effective Magnification 12.5 x
+2.  1 x  = Effective Magnification 25 x
+3.  1.5 x  = Effective Magnification 37.5 x
+4.  2 x   = Effective Magnification  50 x
 
 #### Excitation Wavelengths:
 
 - For light sheet
-  - 405nm
-  - 488nm
-  - 515nm
-  - 561nm
-  - 642nm
-  - 685nm
+ - 405nm
+ - 488nm
+ - 515nm
+ - 561nm
+ - 642nm
+ - 685nm
 - For Ablation
-  - 532 Pulsed CryLas
+ - 532 Pulsed CryLas
 
-#### Transmission Light 
+#### Transmission Light
 
 - 880 LED for Bright field
 
-#### Emission Filter Short Camera 
+#### Emission Filter Short Camera
 
-1.  BP 418-462 = Chroma ET 440/40
-2.  LP 498 = Semrock 488LP
-3.  BP 497-554 = Semrock 525/50
-4.  BP 526-564 = Chroma ET 545/40
-5.  BP 580-627 = Chroma ET 605/50
-6.  BP 610-629 = Semrock 620/14 
+1. BP 418-462 = Chroma ET 440/40
+2. LP 498 = Semrock 488LP
+3. BP 497-554 = Semrock 525/50
+4. BP 526-564 = Chroma ET 545/40
+5. BP 580-627 = Chroma ET 605/50
+6. BP 610-629 = Semrock 620/14
 
-#### Emission Filter Long Camera 
+#### Emission Filter Long Camera
 
-1.  LP 498 = Semrock 488LP
-2.  BP 497-554 = Semrock 525/50
-3.  BP 526-564 = Chroma ET 545/40
-4.  BP 580-627 = Chroma ET 605/50
-5.  BP 610-629 = Semrock 620/14
-6.  BP 655-704  = Semrock Brightline 679/41
-7.  LP 656 =  Chroma 655 LP
-8.  LP 696 = Chroma 700LP
-9.  BP 710-749 = Semrock 730/39
+1. LP 498 = Semrock 488LP
+2. BP 497-554 = Semrock 525/50
+3. BP 526-564 = Chroma ET 545/40
+4. BP 580-627 = Chroma ET 605/50
+5. BP 610-629 = Semrock 620/14
+6. BP 655-704  = Semrock Brightline 679/41
+7. LP 656 =  Chroma 655 LP
+8. LP 696 = Chroma 700LP
+9. BP 710-749 = Semrock 730/39
 
 \
 
-#### Dichroics between cameras 
+#### Dichroics between cameras
 
-1.   500LP Camera splitting dichroic
+1.  500LP Camera splitting dichroic
 
-    1.  Splits emission light longer than 500 to one\
-         camera and shorter than 500nm to a second camera
+ 1. Splits emission light longer than 500 to one\
+  camera and shorter than 500nm to a second camera
 
-2.   565LP Camera splitting dichroic
-    1.   Splits emission light longer than 565 to one\
-         camera and shorter than 565nm to a second camera. 
+2.  565LP Camera splitting dichroic
+ 1.  Splits emission light longer than 565 to one\
+  camera and shorter than 565nm to a second camera.
 
-3.  640LP Camera splitting dichroic
-    1.   Splits emission light longer than 640 to one\
-         camera and shorter than 640nm to a second camera.
+3. 640LP Camera splitting dichroic
+ 1.  Splits emission light longer than 640 to one\
+  camera and shorter than 640nm to a second camera.
 
-[(/download/attachments/674609376/Trulive%20diagram.pdf?version=2&modificationDate=1741800065000&api=v2){.confluence-embedded-file
-nice-type="PDF Document"
-file-src="/download/attachments/674609376/Trulive%20diagram.pdf?version=2&modificationDate=1741800065000&api=v2"
-linked-resource-id="698322815" linked-resource-type="attachment"
-linked-resource-container-id="674609376"
-linked-resource-default-alias="Trulive diagram.pdf"
-mime-type="application/pdf" has-thumbnail="true"
-linked-resource-version="2" can-edit="true"
-aria-label="Trulive diagram.pdf"
-draggable="false"}{.companion-edit-button-placeholder
-.edit-button-overlay linked-resource-container-id="674609376"
-linked-resource-id="698322815" template-name="companionEditIcon"
-source-location="embedded-attachment"}
+[(/download/attachments/674609376/Trulive%20diagram.pdf?version=2&modificationDate=1741800065000&api=v2)
 
-### Hardware 
+### Hardware
 
-- Hamamatsu Fire sCmossCamera x2 
+- Hamamatsu Fire sCmossCamera x2
 
 -  MEMS-Based Steering Module for Advanced Beam Control and Destriping
 
 -  Dispersion-free iris-based beam expander module (Tag lens)
 
 -  Temperature control for the MuVi or InVi SPIM sample chamber with gas
-  mixer (Ibidi) for full\
-   control of gas composition (CO2, O2, humidity). Range 18 -- 40°C
-  - Currently set up for CO2 only
+ mixer (Ibidi) for full\
+  control of gas composition (CO2, O2, humidity). Range 18 -- 40°C
+ - Currently set up for CO2 only
 
 - Luxendo MuVi SPIM Laser Switcher
-  -  Switches visible lasers between the light sheet optics and\
-     photomanipulation module.
+ -  Switches visible lasers between the light sheet optics and\
+  photomanipulation module.
 
 -  Ablation Photomanipulation unit for a MuVi SPIM
 
-### Lasers 
+### Lasers
 
 - 405 nm CW diode laser, 40mW before fiber
 - 488 nm CW diode laser, 40mW before fiber
@@ -119,7 +107,7 @@ source-location="embedded-attachment"}
 - 642 nm CW diode laser, 40mW before fiber
 - 685 nm CW diode laser, 40mW before fiber
 - Pulsed 532nm VIS laser, 1.5ns pulse length\
-   Diffraction-limited focal size
+  Diffraction-limited focal size
 
 Neutral density filters for lasers
 
@@ -127,7 +115,7 @@ Neutral density filters for lasers
 - 10%
 - 100%
 
-### PC 
+### PC
 
 - Win pro 11 Verxion 23H2
 
@@ -139,13 +127,13 @@ Neutral density filters for lasers
 
 - Data Drive 30TB, micron MTFDKCC30T7TGH-1BC1ZABYY, R/W speed 7000 MB/s
 
-### Software 
+### Software
 
 - Lux control 5.01
 
 \
 
-### Data Handling 
+### Data Handling
 
 The Data is big! make sure to get on our server, visit the [Data Storage
 and Compute](Data-Storage-and-Compute_685901383.html) page
@@ -154,84 +142,23 @@ and Compute](Data-Storage-and-Compute_685901383.html) page
 Luxendo](Python-Scripts-for-TruLive_698323118.html)
 
 [Luxendo Image Git
-Hub](https://github.com/Luxendo/luxendo-image){.external-link
-rel="nofollow"}
+Hub](https://github.com/Luxendo/luxendo-image)
 
 Read here for the Data structure and opening:
 
-[(/download/attachments/674609376/Data%20Structure%20and%20Opening%20Data_030823.pdf?version=1&modificationDate=1738017364000&api=v2){.confluence-embedded-file
-nice-type="PDF Document"
-file-src="/download/attachments/674609376/Data%20Structure%20and%20Opening%20Data_030823.pdf?version=1&modificationDate=1738017364000&api=v2"
-linked-resource-id="689314278" linked-resource-type="attachment"
-linked-resource-container-id="674609376"
-linked-resource-default-alias="Data Structure and Opening Data_030823.pdf"
-mime-type="application/pdf" has-thumbnail="true"
-linked-resource-version="1" can-edit="true"
-aria-label="Data Structure and Opening Data_030823.pdf"
-draggable="false"}{.companion-edit-button-placeholder
-.edit-button-overlay linked-resource-container-id="674609376"
-linked-resource-id="689314278" template-name="companionEditIcon"
-source-location="embedded-attachment"}
+[(/download/attachments/674609376/Data%20Structure%20and%20Opening%20Data_030823.pdf?version=1&modificationDate=1738017364000&api=v2)
 
 TruLive Manual;
 
 NOTE: Important sections Fiji Set up and import starting on Page 20
 
-[(/download/attachments/674609376/TruLive3D%20Imager%20Manual%2020220720.pdf?version=1&modificationDate=1738017502000&api=v2){.confluence-embedded-file
-nice-type="PDF Document"
-file-src="/download/attachments/674609376/TruLive3D%20Imager%20Manual%2020220720.pdf?version=1&modificationDate=1738017502000&api=v2"
-linked-resource-id="689314280" linked-resource-type="attachment"
-linked-resource-container-id="674609376"
-linked-resource-default-alias="TruLive3D Imager Manual 20220720.pdf"
-mime-type="application/pdf" has-thumbnail="true"
-linked-resource-version="1" can-edit="true"
-aria-label="TruLive3D Imager Manual 20220720.pdf"
-draggable="false"}{.companion-edit-button-placeholder
-.edit-button-overlay linked-resource-container-id="674609376"
-linked-resource-id="689314280" template-name="companionEditIcon"
-source-location="embedded-attachment"}
+[(/download/attachments/674609376/TruLive3D%20Imager%20Manual%2020220720.pdf?version=1&modificationDate=1738017502000&api=v2)
 
 \
 
-### **Photo Manipulation** 
+### **Photo Manipulation**
 
-**[(/download/attachments/674609376/532%20procedure.docx?version=1&modificationDate=1738019524000&api=v2){.confluence-embedded-file
-nice-type="Word Document"
-file-src="/download/attachments/674609376/532%20procedure.docx?version=1&modificationDate=1738019524000&api=v2"
-linked-resource-id="689314369" linked-resource-type="attachment"
-linked-resource-container-id="674609376"
-linked-resource-default-alias="532 procedure.docx"
-mime-type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-has-thumbnail="true" linked-resource-version="1" can-edit="true"
-aria-label="532 procedure.docx"
-draggable="false"}{.companion-edit-button-placeholder
-.edit-button-overlay linked-resource-container-id="674609376"
-linked-resource-id="689314369" template-name="companionEditIcon"
-source-location="embedded-attachment"}[(/download/attachments/674609376/405%20PM%20procedure-KH.docx?version=1&modificationDate=1739235641000&api=v2){.confluence-embedded-file
-nice-type="Word Document"
-file-src="/download/attachments/674609376/405%20PM%20procedure-KH.docx?version=1&modificationDate=1739235641000&api=v2"
-linked-resource-id="689319982" linked-resource-type="attachment"
-linked-resource-container-id="674609376"
-linked-resource-default-alias="405 PM procedure-KH.docx"
-mime-type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-has-thumbnail="true" linked-resource-version="1" can-edit="true"
-aria-label="405 PM procedure-KH.docx"
-draggable="false"}{.companion-edit-button-placeholder
-.edit-button-overlay linked-resource-container-id="674609376"
-linked-resource-id="689319982" template-name="companionEditIcon"
-source-location="embedded-attachment"}[(/download/attachments/674609376/TL3D_Photomanipulation_JCF_021723.docx?version=1&modificationDate=1738019632000&api=v2){.confluence-embedded-file
-nice-type="Word Document"
-file-src="/download/attachments/674609376/TL3D_Photomanipulation_JCF_021723.docx?version=1&modificationDate=1738019632000&api=v2"
-linked-resource-id="689314372" linked-resource-type="attachment"
-linked-resource-container-id="674609376"
-linked-resource-default-alias="TL3D_Photomanipulation_JCF_021723.docx"
-mime-type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-has-thumbnail="true" linked-resource-version="1" can-edit="true"
-aria-label="TL3D_Photomanipulation_JCF_021723.docx"
-draggable="false"}{.companion-edit-button-placeholder
-.edit-button-overlay linked-resource-container-id="674609376"
-linked-resource-id="689314372" template-name="companionEditIcon"
-source-location="embedded-attachment"}**
+**[(/download/attachments/674609376/532%20procedure.docx?version=1&modificationDate=1738019524000&api=v2)[(/download/attachments/674609376/405%20PM%20procedure-KH.docx?version=1&modificationDate=1739235641000&api=v2)[(/download/attachments/674609376/TL3D_Photomanipulation_JCF_021723.docx?version=1&modificationDate=1738019632000&api=v2)**
 
 ## Attachments:
 

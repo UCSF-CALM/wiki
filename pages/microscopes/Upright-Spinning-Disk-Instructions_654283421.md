@@ -5,140 +5,138 @@ author: Herrington, Kari
 date: May 02, 2024
 ---
 
-3.  [Microscopy References and
-    Education](Microscopy-References-and-Education_517178908.html)
+3. [Microscopy References and
+ Education](Microscopy-References-and-Education_517178908.html)
 
-CAMM upright 
+CAMM upright
 
-To Turn on the System For Spinning Disk 
+To Turn on the System For Spinning Disk
 
-1.  First Press the Master Power on the control tower (below the
-    Computer)
-2.  Press the "On" switch on the Black Power Bar to the right of the
-    encloser. (On the air table)
-3.  Toggle the Keys to the Laser stacks behind the  microscope.
-    1.  They should be to the to the right/perpendicular to the ground
-        position. Turn up right, then back to the right/perpendicular to
-        the ground position.
-    2.  [[[
+1. First Press the Master Power on the control tower (below the
+ Computer)
+2. Press the "On" switch on the Black Power Bar to the right of the
+ encloser. (On the air table)
+3. Toggle the Keys to the Laser stacks behind the  microscope.
+ 1. They should be to the to the right/perpendicular to the ground
+ position. Turn up right, then back to the right/perpendicular to
+ the ground position.
+ 2. [[[
 
-For Spinning disk 
+For Spinning disk
 
-**Open Software and Save file** 
+**Open Software and Save file**
 
-1.  Open software: Desk top icon version Slidebook 2023- Confocal 
-2.  [[[
-    1.  Save Slide file  
+1. Open software: Desk top icon version Slidebook 2023- Confocal
+2. [[[
+ 1. Save Slide file
 
-    <!-- -->
+ <!-- -->
 
-    1.  This will be the over all file that contains all images 
+ 1. This will be the over all file that contains all images
 
-    <!-- -->
+ <!-- -->
 
-    1.  A "New Slide" opens when the software opens 
-3.  To save this Go to File\>Save As Then Save Under
-    DATA(F:)/Data/\[your folder\] 
+ 1. A "New Slide" opens when the software opens
+3. To save this Go to File\>Save As Then Save Under
+ DATA(F:)/Data/\[your folder\]
 
 **[[The Focus Window**
 
 **[[[[[**
 
-In this window you will 
+In this window you will
 
-- Change light path 
-- Program settings 
-- See histogram 
-- Set up tiling  
-- Set up Z 
+- Change light path
+- Program settings
+- See histogram
+- Set up tiling
+- Set up Z
 
- 
+**Changing Light path -\> turning on widefield**
 
-**Changing Light path -\> turning on widefield** 
-
-Go to Filter Set -\> Select Widefield 
+Go to Filter Set -\> Select Widefield
 
 \
 
 [[[
 
 [[[[Then choose the color/filter and "open Fluor to the right to see the
-channel"[ 
+channel"[
 
 [[[[[[
 
 To see by Eye there is a push Bar on the physical microscope, push in tp
-see by eye, pull out to see on the computer 
+see by eye, pull out to see on the computer
 
 **REMEMBER TO PULL THE PUSH BAR (to the right of the eye pieces) OUT
-WHEN GOING TO CONFOCAL** 
+WHEN GOING TO CONFOCAL**
 
-**Changing Light path -\> turning on Confocal** 
+**Changing Light path -\> turning on Confocal**
 
-Under the filter set **Select confocal** 
+Under the filter set **Select confocal**
 
 [
 
-Click on Filter/Channel that you want to image 
+Click on Filter/Channel that you want to image
 
-Then Click on Live button (shows as stop in the picture) 
+Then Click on Live button (shows as stop in the picture)
 
-"Open Alt" should change to "Close Alt"  
+"Open Alt" should change to "Close Alt"
 
 [[[
 
-Image should appear on screen 
+Image should appear on screen
 
 To change laser Power (lower right in focus window) or Exposure (above
 the filter set in focus window) you can adjust these in this window,
-HOWEVER, they are NOT automatically remembered per channel. 
+HOWEVER, they are NOT automatically remembered per channel.
 
 - To be separated Per channel that needs to be done in the Capture
-  window
+ window
 
 [[[[[
 
 \
 
 [[[[[In the capture window, select the [wavelength[ then set
-exposure and then the current/laser power[ 
+exposure and then the current/laser power[
 
 [[[[[[[
 
-**Histogram** 
+**Histogram**
 
-Is in the focus window under the "Camera" tab 
+Is in the focus window under the "Camera" tab
 
 [[[
 
-**Setting Z stacks** 
+**Setting Z stacks**
 
-Select 3D in Capture type in Capture window 
+Select 3D in Capture type in Capture window
 
-Then under 3D Capture,  
+Then under 3D Capture,
 
-- If you want Relative Z choose  
+- If you want Relative Z choose
 
 <!-- -->
 
-- Current for where you are currently 
-- Reference will Call on XY tab 
+- Current for where you are currently
+- Reference will Call on XY tab
 - NOTE- for both of these remember to set the range or number of planes
-  to the right side  
+ to the right side
 
 <!-- -->
 
-- If you want Absolute choose use top and bottom 
+- If you want Absolute choose use top and bottom
 
 <!-- -->
 
-- Make sure to set top and bottom in focus window 
+- Make sure to set top and bottom in focus window
 
-Absolute/top and Bottom Z in Focus Window 
+Absolute/top and Bottom Z in Focus Window
 
-- Click on the Z tab in the focus window 
-- Use the Analog Voltage Z stage to move up and down 
-- Set top and bottom with the buttons 
+- Click on the Z tab in the focus window
+- Use the Analog Voltage Z stage to move up and down
+- Set top and bottom with the buttons
 
 [[[[[[[[[
 
@@ -147,22 +145,9 @@ Absolute/top and Bottom Z in Focus Window 
 [[[[[[[[Current PDF version with all of Kari\'s Glorious Typos! If you
 find fixes and would like to contribute to updateing them please email
 Kari at
-[kari.herrington@ucsf.edu](mailto:kari.herrington@ucsf.edu){.external-link
-rel="nofollow"}
+[kari.herrington@ucsf.edu](mailto:kari.herrington@ucsf.edu)
 
-[[[[[[[[[(/download/attachments/654283421/Upright%20instructions.pdf?version=1&modificationDate=1714682742000&api=v2){.confluence-embedded-file
-nice-type="PDF Document"
-file-src="/download/attachments/654283421/Upright%20instructions.pdf?version=1&modificationDate=1714682742000&api=v2"
-linked-resource-id="654283441" linked-resource-type="attachment"
-linked-resource-container-id="654283421"
-linked-resource-default-alias="Upright instructions.pdf"
-mime-type="application/pdf" has-thumbnail="true"
-linked-resource-version="1" can-edit="true"
-aria-label="Upright instructions.pdf"
-draggable="false"}{.companion-edit-button-placeholder
-.edit-button-overlay linked-resource-container-id="654283421"
-linked-resource-id="654283441" template-name="companionEditIcon"
-source-location="embedded-attachment"}
+[[[[[[[[[(/download/attachments/654283421/Upright%20instructions.pdf?version=1&modificationDate=1714682742000&api=v2)
 
 ## Attachments:
 

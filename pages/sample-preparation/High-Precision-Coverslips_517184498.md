@@ -8,25 +8,20 @@ Microscope objectives, in general, are designed to work with 0.17 mm
 coverslips. You will get the best image quality using coverslips of
 exactly this thickness. Using coverslips of the wrong thickness will
 induce [spherical
-aberration](http://en.wikipedia.org/wiki/Spherical_aberration "http://en.wikipedia.org/wiki/Spherical_aberration"){.external-link
-rel="nofollow"}.
+aberration](http://en.wikipedia.org/wiki/Spherical_aberration "http://en.wikipedia.org/wiki/Spherical_aberration").
 
 There are now a number of sources for high precision (0.17 +/- 0.005 mm)
 coverslips:
 
 - [Azer
-  Scientific](https://www.azerscientific.com/life-sciences/glassware-plasticware/cover-glasses/specialty?page=1){.external-link
-  rel="nofollow"} - A variety of coverslip sizes are available.
+ Scientific](https://www.azerscientific.com/life-sciences/glassware-plasticware/cover-glasses/specialty?page=1) - A variety of coverslip sizes are available.
 
-- [Zeiss](https://www.micro-shop.zeiss.com/en/de/shop/search/Cover%20glasses,%20high%20performance,){.external-link
-  rel="nofollow"}
+- [Zeiss](https://www.micro-shop.zeiss.com/en/de/shop/search/Cover%20glasses,%20high%20performance,)
 
 - [Applied
-  Microarrays](http://www.appliedmicroarrays.com/index.php?option=com_virtuemart&view=category&virtuemart_category_id=8&Itemid=155){.external-link
-  rel="nofollow"}
+ Microarrays](http://www.appliedmicroarrays.com/index.php?option=com_virtuemart&view=category&virtuemart_category_id=8&Itemid=155)
 
-- [Ibidi](https://ibidi.com/92-coverslips-and-foils){.external-link
-  rel="nofollow"} - GLASS COVERSLIPS ONLY!! FOR SUPER RESOLUTION!
+- [Ibidi](https://ibidi.com/92-coverslips-and-foils) - GLASS COVERSLIPS ONLY!! FOR SUPER RESOLUTION!
 
 Suppliers (these don\'t sell direct, but might be useful for finding
 other distributors:

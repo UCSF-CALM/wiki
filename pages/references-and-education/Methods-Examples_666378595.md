@@ -5,7 +5,7 @@ author: Herrington, Kari
 date: Feb 11, 2025
 ---
 
-## Brightfield Imaging with Large imaging 
+## Brightfield Imaging with Large imaging
 
 [Brightfield images were captured on an inverted Nikon TiE microscope
 (Nikon) run using NIS-Elements 5.21.03 (b1489_64bit) that was equipped
@@ -30,8 +30,7 @@ Weinberger. "Comparative Analysis between Single-Cell RNA-Seq and
 Single-Molecule RNA FISH Indicates That the Pyrimidine Nucleobase
 Idoxuridine (IdU) Globally Amplifies Transcriptional Noise." *bioRxiv*,
 March 15, 2023, 2023.03.14.532632.
-[https://doi.org/10.1101/2023.03.14.532632](https://doi.org/10.1101/2023.03.14.532632){.external-link
-rel="nofollow"}.
+[https://doi.org/10.1101/2023.03.14.532632](https://doi.org/10.1101/2023.03.14.532632).
 
 \
 
@@ -54,16 +53,14 @@ MicroManager Citations
 Mark A Tsuchida, Nenad Amodaj, Henry Pinkard, Ronald D Vale, and Nico
 Stuurman (2014), Advanced methods of microscope control using μManager
 software. **Journal of Biological Methods** 2014
-1(2):e11 [\<doi:10.14440/jbm.2014.36\>](http://dx.doi.org/10.14440/jbm.2014.36){.external-link
-rel="nofollow"}
+1(2):e11 [\<doi:10.14440/jbm.2014.36\>](http://dx.doi.org/10.14440/jbm.2014.36)
 
 Arthur Edelstein, Nenad Amodaj, Karl Hoover, Ron Vale, and Nico Stuurman
 (2010), Computer Control of Microscopes Using μManager. **Current
 Protocols in Molecular Biology** 14.20.1-14.20.17
 
 Page on Citing Micromanager:
-[https://micro-manager.org/Citing_Micro-Manager](https://micro-manager.org/Citing_Micro-Manager){.external-link
-rel="nofollow"}
+[https://micro-manager.org/Citing_Micro-Manager](https://micro-manager.org/Citing_Micro-Manager)
 
 \
 
@@ -75,15 +72,13 @@ Touhara, Kouki K., Nathan D. Rossen, Fei Deng, Tifany Chu, Andrea M.
 Harrington, Sonia Garcia Caraballo, Mariana Brizuela, et al. "Crypt and
 Villus Enterochromaffin Cells Are Distinct Stress Sensors in the Gut."
 bioRxiv, April 25, 2024.
-[https://doi.org/10.1101/2024.02.06.579180](https://doi.org/10.1101/2024.02.06.579180){.external-link
-rel="nofollow"}.
+[https://doi.org/10.1101/2024.02.06.579180](https://doi.org/10.1101/2024.02.06.579180).
 
 \
 
 Confocal images were captured on an inverted Nikon Ti microscope run
 using Micro Manager 2.0 Gamma
-(*[54](https://www.biorxiv.org/content/10.1101/2024.02.06.579180v2.full#ref-54){.external-link
-rel="nofollow"}*), equipped with a Zyla 4.2 CMOS camera (Andor), piezo
+(*[54](https://www.biorxiv.org/content/10.1101/2024.02.06.579180v2.full#ref-54)*), equipped with a Zyla 4.2 CMOS camera (Andor), piezo
 XYZ stage (ASI), CSU-W1 Spinning Disk with Borealis upgrade
 (Yokogowa/Andor), Spectra-X (Lumencor), ILE 4 line Laser Launch
 (405/488/561/640 nm; Andor). Images were taken using a Plan Apo λ 20x /
@@ -93,16 +88,15 @@ projections were generated in Fiji v2.14.
 
 \
 
-## Crest-V2 spinning disk 
+## Crest-V2 spinning disk
 
-Excerpt from 
+Excerpt from
 
 Zhong, Xiaofang, Qiongyu Li, Benjamin J Polacco, Trupti Patil, Aaron
 Marley, Helene Foussard, Prachi Khare, et al. "A Proximity Proteomics
 Pipeline with Improved Reproducibility and Throughput." *Molecular
 Systems Biology* 20, no. 8 (August 2, 2024): 952--71.
-[https://doi.org/10.1038/s44320-024-00049-2](https://doi.org/10.1038/s44320-024-00049-2){.external-link
-rel="nofollow"}.
+[https://doi.org/10.1038/s44320-024-00049-2](https://doi.org/10.1038/s44320-024-00049-2).
 
 \
 
@@ -114,11 +108,9 @@ respectively (Lumencor), Piezo stage (Mad City Labs), and a Prime 95B
 25 mm CMOS camera (Photometrics) using a Plan Apo VC 100x/1.4 Oil
 (Nikon). The data was captured with NIS-Elements software (v. 5.41.01
 build 1709, Nikon) and processed in Fiji/ImageJ2 (Schindelin et
-al, ][2012](https://www.embopress.org/doi/full/10.1038/s44320-024-00049-2#core-CR62){.external-link
-style="text-decoration: underline;"
-rel="nofollow"}[).]
+al, ][2012](https://www.embopress.org/doi/full/10.1038/s44320-024-00049-2#core-CR62)[).]
 
-## Crest-V2 Spinning Disk with FRAP 
+## Crest-V2 Spinning Disk with FRAP
 
 Adapted after a preprint
 
@@ -154,7 +146,7 @@ arrays.
 
 \
 
-## [CVRI Spinning disk 
+## [CVRI Spinning disk
 
 [Adapted after preprint
 
@@ -172,7 +164,7 @@ ET525/50m[[[[, FF01-609/57,
 
 \
 
-## [[[[CSU-22 
+## [[[[CSU-22
 
 [[[[Written for Fixed slides
 
@@ -184,21 +176,18 @@ ET460/50m, ET525/50m, ET610/60m, ET700/75m in a filter wheel controlled
 by a Lambda 10-3B (Sutter)  for channels DAPI/GFP/RFP/Cy5 respectively.
 Images were captured using a Plan Apo VC 60x/1.4 Oil (Nikon) and a 1.7x
 relay lens in front of the Photometrics Evolve Delta EMCCD Camera
-(154nm/pixel). 
+(154nm/pixel).
 
 \
 
 OMX
 
 Here was text used by Rose for methods
-([https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190530#sec003](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190530#sec003){.external-link
-linkindex="0" auth="NotApplicable" rel="nofollow"}) 
+([https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190530#sec003](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190530#sec003))
 
-### Microscopy acquisition and analysis 
+### Microscopy acquisition and analysis
 
-SIM data was acquired on a DeltaVision [OMX]{.markimdbsark1
-style="color: inherit;" markjs="true" ogac="" ogab="" ogsc=""
-ogsb=""} SR microscope (GE Healthcare) using a 60x/1.42 NA oil immersion
+SIM data was acquired on a DeltaVision [OMX] SR microscope (GE Healthcare) using a 60x/1.42 NA oil immersion
 PSF objective and three sCMOS cameras. Immersion oil with a refractive
 index of 1.514 was used to match with the refractive index of the
 sample. Z stacks of 9μm thickness were collected with 0.125μm step-sizes
@@ -206,15 +195,12 @@ using 5 phases and 3 angles per image. Reconstructions were preformed
 using SoftWorx 6.5.2 (GE Healthcare) with a 0.003 Wiener filter for the
 Alexa Fluor 488 channel and 0.002 Wiener filter for Alexa Fluor 555 as
 suggested by analysis using the ImageJ plugin SIMcheck
-\[[22](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190530#pone.0190530.ref022){.external-link
-linkindex="1" auth="NotApplicable" rel="nofollow"}\]. Channel specific
+\[[22](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190530#pone.0190530.ref022)\]. Channel specific
 optical transfer functions were used for
-reconstructions. [Alignment]{.mark6847w2bt0 style="color: inherit;"
-markjs="true" ogac="" ogab="" ogsc="" ogsb=""}, averaging and
+reconstructions. [Alignment], averaging and
 calculation of the radial distribution were performed using custom
 python scripts previously described
-\[[5](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190530#pone.0190530.ref005){.external-link
-linkindex="2" auth="NotApplicable" rel="nofollow"}\]. Monomeric CM2 data
+\[[5](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190530#pone.0190530.ref005)\]. Monomeric CM2 data
 was fit with an additional central Guassian to distinguish the central
 intensity from the ring distribution.
 

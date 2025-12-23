@@ -14,18 +14,18 @@ sample preparation and imaging.
 ### Labeling Method
 
 - Fluorescent proteins, SNAP-tags, other genetically encodable
-  molecules.
+ molecules.
 
 - Indirect immunofluorescence: The added bulk of two antibodies attached
-  to your protein of interest has been shown to degrade the effective
-  resolution.
+ to your protein of interest has been shown to degrade the effective
+ resolution.
 
 - Direct immunofluorescence: Direct immunofluorescence, ideally with Fab
-  fragments or nanobodies, results in your dyes being much closer to
-  your protein of interest and thereby giving higher resolution images.
+ fragments or nanobodies, results in your dyes being much closer to
+ your protein of interest and thereby giving higher resolution images.
 
 - Vital dyes: Mitotracker, ER-tracker, and DiI, among others, have
-  recently been shown to photoswitch. See Shim et. al. 2012.
+ recently been shown to photoswitch. See Shim et. al. 2012.
 
 ### Dye Choice
 
@@ -35,40 +35,39 @@ led to a large number of different experimental designs in the
 literature. Here we highlight a few commonly used approaches.
 
 - Photoactivatible fluorescent proteins: This is the method that was
-  originally described as PALM and FPALM. A fluorescent protein that can
-  be switched from off to on or from green to red is used. One of the
-  most commonly used proteins is mEos or tdEos, but a large number of
-  photoswitchable and photoconvertible proteins can be used. We have put
-  together [a table of some of the more commonly used fluorescent
-  proteins for
-  superresolution](Fluorescent-Proteins-for-Localization-Microscopy_517197198.html).
+ originally described as PALM and FPALM. A fluorescent protein that can
+ be switched from off to on or from green to red is used. One of the
+ most commonly used proteins is mEos or tdEos, but a large number of
+ photoswitchable and photoconvertible proteins can be used. We have put
+ together [a table of some of the more commonly used fluorescent
+ proteins for
+ superresolution](Fluorescent-Proteins-for-Localization-Microscopy_517197198.html).
 
 - Stochastic switching of small molecule dyes: often called direct STORM
-  (dSTORM) or GSDIM (ground-state depletion with individual molecule
-  return). High power excitation of a number of small molecule dyes in a
-  buffer containing an oxygen scavenging system and a thiol results in
-  there reversible conversion to a dark state. This then stochatically
-  return to the emitting state and are localized. Typically they cycle
-  between the on and off states many times before photobleaching.
-  Alexa647 or Cy5 have the best performance in this imaging modality,
-  but Atto488 and Cy3B can be used for multicolor imaging. The paper by
-  Dempsey et al. extensively characterizes 26 dyes in this imaging
-  modality.
+ (dSTORM) or GSDIM (ground-state depletion with individual molecule
+ return). High power excitation of a number of small molecule dyes in a
+ buffer containing an oxygen scavenging system and a thiol results in
+ there reversible conversion to a dark state. This then stochatically
+ return to the emitting state and are localized. Typically they cycle
+ between the on and off states many times before photobleaching.
+ Alexa647 or Cy5 have the best performance in this imaging modality,
+ but Atto488 and Cy3B can be used for multicolor imaging. The paper by
+ Dempsey et al. extensively characterizes 26 dyes in this imaging
+ modality.
 
 - Combined reporter/activator dyes: classic STORM imaging. This uses the
-  Alexa647 reporter above, but instead of waiting for spontaneous return
-  from the dark state, it is paired with an activator dye (typically
-  Alexa405, Alexa488, or Alexa568). Excitation of the activator dye
-  triggers the return of nearby Alexa647 molecules to the on state.
-  Using this method requires labeling your own antibodies with the
-  activator/reporter combination.
+ Alexa647 reporter above, but instead of waiting for spontaneous return
+ from the dark state, it is paired with an activator dye (typically
+ Alexa405, Alexa488, or Alexa568). Excitation of the activator dye
+ triggers the return of nearby Alexa647 molecules to the on state.
+ Using this method requires labeling your own antibodies with the
+ activator/reporter combination.
 
 - Caged / Photoswitchable small molecule dyes: Stefan Hell\'s group has
-  developed sets of caged dyes and photoswitchable dyes that start in a
-  non-fluorescent state but that can be converted to a fluorescent state
-  (see papers below). These are commercially available from
-  [Abberior](https://abberior-labels.com/products/cage/){.external-link
-  rel="nofollow"}.
+ developed sets of caged dyes and photoswitchable dyes that start in a
+ non-fluorescent state but that can be converted to a fluorescent state
+ (see papers below). These are commercially available from
+ [Abberior](https://abberior-labels.com/products/cage/).
 
 ### Sample Prep
 
@@ -76,48 +75,46 @@ In order to collect good STORM imaging data sample prep is key. Below
 are important aspects to optimize and consider.
 
 - Fixation protocol. Proper fixation to preserve sample ultrastructure
-  is critical for good super-resolution imaging. A recent paper
-  characterized the effect of different fixation protocols on STORM
-  image quality and has optimized protocols for the best image quality.
-  See [Whelan et al.
-  2015](http://www.nature.com/articles/srep07924 "http://www.nature.com/articles/srep07924"){.external-link
-  rel="nofollow"}.
+ is critical for good super-resolution imaging. A recent paper
+ characterized the effect of different fixation protocols on STORM
+ image quality and has optimized protocols for the best image quality.
+ See [Whelan et al.
+ 2015](http://www.nature.com/articles/srep07924 "http://www.nature.com/articles/srep07924").
 
 <!-- -->
 
 - Signal-to-Noise Ratio: High background and/or weak signal makes it
-  significantly harder to obtain molecule localizations.
+ significantly harder to obtain molecule localizations.
 
-  - Optimize your fixation and staining to reduce background and
-    increase signal. The use of techniques such as reduction with Sodium
-    Borohydride can greatly reduce some of the autofluorescence
-    associated with fixation
+ - Optimize your fixation and staining to reduce background and
+ increase signal. The use of techniques such as reduction with Sodium
+ Borohydride can greatly reduce some of the autofluorescence
+ associated with fixation
 
-  - Pick the best dye/protein to do the job. The paper by Dempsey et al.
-    (see link below) characterizes 26 dyes, make sure the dye you have
-    picked will work well for your application.
+ - Pick the best dye/protein to do the job. The paper by Dempsey et al.
+ (see link below) characterizes 26 dyes, make sure the dye you have
+ picked will work well for your application.
 
 <!-- -->
 
 - Dishes vs. Slides: If at all possible we recommend that you prepare
-  your samples for imaging in glass-bottomed petri dishes.
+ your samples for imaging in glass-bottomed petri dishes.
 
-  - Allows for easy exchange of imaging buffer. In order to use
-    stochastic switching of small molecule dyes for STORM imaging a
-    special imaging buffer is required (see protocols below) that needs
-    to be added fresh right before imaging.
+ - Allows for easy exchange of imaging buffer. In order to use
+ stochastic switching of small molecule dyes for STORM imaging a
+ special imaging buffer is required (see protocols below) that needs
+ to be added fresh right before imaging.
 
-  - Allows for the use Perfect Focus to help prevent z-drift during
-    imaging.
+ - Allows for the use Perfect Focus to help prevent z-drift during
+ imaging.
 
 ## Protocols
 
 - Nikon N-STORM sample preparation
-  manual (attachment)
+ manual (attachment)
 
 - [These protocols for GSDIM sample prep from Leica may also be
-  useful.](http://www.leica-microsystems.com/science-lab/sample-preparation-for-gsdim-localization-microscopy-protocols-and-tips/ "http://www.leica-microsystems.com/science-lab/sample-preparation-for-gsdim-localization-microscopy-protocols-and-tips/"){.external-link
-  rel="nofollow"}
+ useful.](http://www.leica-microsystems.com/science-lab/sample-preparation-for-gsdim-localization-microscopy-protocols-and-tips/ "http://www.leica-microsystems.com/science-lab/sample-preparation-for-gsdim-localization-microscopy-protocols-and-tips/")
 
 ## References
 
@@ -148,8 +145,7 @@ Methods. 2012 Apr
 of a single chain antibody (nanobody) against GFP for STORM imaging of
 GFP tagged proteins, by binding an Alexa 647 labeled nanobody to
 GFP-tagged proteins. The nanobody is commercially available from here:
-[http://www.chromotek.com/](http://www.chromotek.com/){.external-link
-rel="nofollow"}
+[http://www.chromotek.com/](http://www.chromotek.com/)
 
 Lew MD, Lee SF, Ptacin JL, Lee MK, Twieg RJ, Shapiro L, Moerner WE.
 Three-dimensional superresolution colocalization of intracellular
@@ -185,7 +181,7 @@ photoactivatible fluorescent proteins for localization microscopy as of
 
 Whelan DR, Bell TD. Image artifacts in Single Molecule Localization
 Microscopy: why optimization of sample preparation protocols matters.
-Scientific Reports. 2015 .
+Scientific Reports. 2015.
 10.1038/srep07924. (attachment) A critical exploration of how
 sample preparation affects image quality. Has optimized fixation
 protocols for STORM imaging.
@@ -242,8 +238,7 @@ fluorophores with a single wavelength. Biophys J. 2010 Oct
 488, Alexa 514, Atto 532, and Cy3 in PVA-embedded samples at the
 relatively high laser power of 10 kW/cm2.
 
-(http://nic.ucsf.edu/dokuwiki/lib/exe/fetch.php?media=reductivecaging.pdf "reductivecaging.pdf (540.4 KB)"){.external-link
-rel="nofollow"}Vaughan JC, Jia S, Zhuang X. Ultrabright
+(http://nic.ucsf.edu/dokuwiki/lib/exe/fetch.php?media=reductivecaging.pdf "reductivecaging.pdf (540.4 KB)")Vaughan JC, Jia S, Zhuang X. Ultrabright
 photoactivatable fluorophores created by reductive caging. Nat Methods.
 2012 Oct 28. doi:
 10.1038/nmeth.2214. (attachment) Conversion of Atto488, Cy3,
@@ -276,8 +271,7 @@ blinking to controlled photoswitching. Chem Soc Rev. 2013 Aug
 Sub-Diffraction-Limit Resolution with Stochastic Optical Reconstruction
 Microscopy. In Handbook of Single-Molecule Biophysics, Hinterdorfer and
 Van Oijen,
-eds.](http://books.google.com/books?id=pT3WaiL5YNkC&pg=PA96&dq=storm+microscopy&hl=en&sa=X&ei=pLbfT4nuJoq42wWr_tCyCg&ved=0CEcQ6AEwAg#v=onepage&q&f=false){.external-link
-rel="nofollow"}
+eds.](http://books.google.com/books?id=pT3WaiL5YNkC&pg=PA96&dq=storm+microscopy&hl=en&sa=X&ei=pLbfT4nuJoq42wWr_tCyCg&ved=0CEcQ6AEwAg#v=onepage&q&f=false)
 
 ## Attachments:
 

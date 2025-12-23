@@ -4,11 +4,11 @@ title: CVRI Nikon Epifluorescence Microscope
 author: Delaine Larsen
 ---
 
-## **[FPBASE](https://www.fpbase.org/microscope/QH6gEQqaM6fdq7SymCsoaH/){.external-link rel="nofollow"}** 
+## **[FPBASE](https://www.fpbase.org/microscope/QH6gEQqaM6fdq7SymCsoaH/)**
 
-### Optics 
+### Optics
 
-#### Objectives 
+#### Objectives
 
 - Plan Apo 4x/0.2
 - Plan Fluor 10x/0.3
@@ -16,21 +16,20 @@ author: Delaine Larsen
 - Plan Apo 20X/0.45 ELWD
 - Plan Apo VC 60x/1.4
 
-#### Filter Turret  
+#### Filter Turret
 
 - DAPI
-- FITC 
-- TRITC(https://wiki.library.ucsf.edu/pages/resumedraft.action?draftId=517182070&draftShareId=912a68bc-f67b-4c10-8924-2374e8362705&){.toolbar-trigger
-  rel="nofollow"}
-- Cy5 
-- mCherry-LP 
+- FITC
+- TRITC(https://wiki.library.ucsf.edu/pages/resumedraft.action?draftId=517182070&draftShareId=912a68bc-f67b-4c10-8924-2374e8362705&)
+- Cy5
+- mCherry-LP
 
 \
 
-### Hardware 
+### Hardware
 
 - Nikon Ti  Inverted Microscope
-- Andor Clara Interline CCD (USB, Left port) 
+- Andor Clara Interline CCD (USB, Left port)
 - In Vivo Scientific Cage incubator
 - Oko CO2 Mixer
 - Sola Light Engine Gen III 350-680nm(COM 4, Baud rate Auto)
@@ -38,7 +37,7 @@ author: Delaine Larsen
 
 \
 
-### PC 
+### PC
 
 - Windows 10 64-bit
 
@@ -56,7 +55,7 @@ author: Delaine Larsen
 
 - Ti-E V.5.1
 
-### Software 
+### Software
 
 - Nikon Elements 5.02 build 1266
 

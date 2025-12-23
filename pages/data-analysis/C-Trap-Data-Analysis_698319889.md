@@ -7,23 +7,21 @@ date: Mar 05, 2025
 
 \
 
-# Installation instructions 
+# Installation instructions
 
-## Install Lakeview 
+## Install Lakeview
 
 - download [Lakeview
-  installer](https://lumicks.com/lakeview-data-analysis/#get-lakeview){.external-link
-  rel="nofollow"}
+ installer](https://lumicks.com/lakeview-data-analysis/#get-lakeview)
 - Run the installer
 - Enter license only when needed (ask CALM if you think you need a
-  license)\
-   
+ license)\
 
-## Install Python packages 
+## Install Python packages
 
-###  [Install uv (Python package manager)](https://docs.astral.sh/uv/getting-started/installation/){.external-link rel="nofollow"}
+### [Install uv (Python package manager)](https://docs.astral.sh/uv/getting-started/installation/)
 
-How to do this depends on your Operating System. 
+How to do this depends on your Operating System.
 
 On Windows:
 
@@ -35,34 +33,33 @@ On Mac OS:
 
 In a terminal execute:
 
-    curl -LsSf https://astral.sh/uv/install.sh | sh
+ curl -LsSf https://astral.sh/uv/install.sh | sh
 
-###  Create a virtual environment for pylake (needed only the first time)
+### Create a virtual environment for pylake (needed only the first time)
 
 - Open a terminal (on Windows, I use [git
-  bash](https://git-scm.com/downloads/win){.external-link
-  rel="nofollow"})
+ bash](https://git-scm.com/downloads/win))
 - In a directory of your choice (I like the directory \"Projects\", to
-  create this directory type \`mkdir Projects\`, then \`cd Projects\`)
-  run
+ create this directory type \`mkdir Projects\`, then \`cd Projects\`)
+ run
 
 <!-- -->
 
-    uv venv pylake
+ uv venv pylake
 
-###  Activate the virtual environment (needed each session)
+### Activate the virtual environment (needed each session)
 
 - cd to the directory with the venv (\`cd Projects\` if you followed the
-  instructions above) and enter:
+ instructions above) and enter:
 
 <!-- -->
 
-    source pylake/Scripts/activate
+ source pylake/Scripts/activate
 
-###  Install the needed packaged (needed only first time):
+### Install the needed packaged (needed only first time):
 
-    uv pip install lumicks.pylake
-    uv pip install jupyter
+ uv pip install lumicks.pylake
+ uv pip install jupyter
 
 \
 
@@ -70,21 +67,21 @@ It may be needed to install jupyter extensions:
 
 \
 
-    jupyter labextension install jupyter-matplotlib
+ jupyter labextension install jupyter-matplotlib
 
 \
 
 ### Launch Jupyter by typing (needed each session)
 
-    jupyter notebook
+ jupyter notebook
 
 ### Startup during daily use. Open a terminal, type:
 
 \
 
-    cd Projects
-    source pylake/Scripts/activate
-    jupyter notebook
+ cd Projects
+ source pylake/Scripts/activate
+ jupyter notebook
 
 \
 
@@ -92,7 +89,7 @@ It may be needed to install jupyter extensions:
 
 **Jupyter notebook**
 
-``` {.syntaxhighlighter-pre syntaxhighlighter-params="brush: py; gutter: false; first-line: 1"}
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import lumicks.pylake as lk
@@ -113,4 +110,4 @@ hf_downsampled.plot()
 plt.show()
 ```
 
-###   Script sharing website  [http://harbor.lumicks.com/](https://github.com/lumicks/harbor){.external-link rel="nofollow"}
+### Script sharing website [http://harbor.lumicks.com/](https://github.com/lumicks/harbor)

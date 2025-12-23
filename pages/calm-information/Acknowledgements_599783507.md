@@ -12,14 +12,14 @@ reproducible data!  We have some examples of methods reporting of
 microscopes: [Examples of Microscope
 Methods](Examples-of-Microscope-Methods_641107539.html)**
 
-## **CALM-NIC** 
+## **CALM-NIC**
 
 Data for this study were acquired at the Center for Advanced Light
 Microscopy at UCSF
 
-## Microscope Specific Acknowledgements with grant data 
+## Microscope Specific Acknowledgements with grant data
 
-OMX 
+OMX
 
 Data for this study were acquired at the Center for Advanced Light
 Microscopy at UCSF on an OMX-SR obtained using grants from the NIH
@@ -44,9 +44,9 @@ Data for this study were acquired at the Center for Advanced Light
 Microscopy at UCSF on CREST/C2 Confocal obtained using grants from
 the [[ the UCSF Program for Breakthrough Biomedical Research funded in
 part by the Sandler Foundation and the UCSF Research Resource Fund
-Award.[ 
+Award.[
 
-## **CVRI  Facility** 
+## **CVRI  Facility**
 
 [[Funding for the [CVRI [microscopes to be acknowledged: UCSF Research Evaluation
 and Allocation Committee, the Gross Fund, and the Heart Anonymous
@@ -63,14 +63,14 @@ Heart Anonymous Fund]]
 
 \
 
-## **[CAMM]** 
+## **[CAMM]**
 
 [Data were collected at the Center for Advanced Multiphoton Microscopy
 with support from the Kavali Institute]
 
 \
 
-## **Weill building microscopes** 
+## **Weill building microscopes**
 
 [Data for this study were acquired on Microscopes of the Innovation Core
 at the Weill Institute, part of the UCSF Center for Advanced Light

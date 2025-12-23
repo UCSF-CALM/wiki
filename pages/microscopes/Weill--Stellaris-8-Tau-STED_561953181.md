@@ -12,27 +12,27 @@ it can be used to image a wide variety of fluorophores and is capable of
 separating fluorophores spectrally
 close.]
 
-### Optics 
+### Optics
 
-#### Objectives Installed 
+#### Objectives Installed
 
-1.  \-
-2.  HC PL APO 86x/1.20 W motCORR STED W (Calibrated for Pos 2, occupies
-    2 positions)
-3.  HC PL APO 10x/0.4 NA CS2
-4.   HC PL APO 20x/0.75 NA CS2
-5.   HC PL APO 40x/1.30 Oil CS2
-6.  HC PL APO 100x/1.40 OIL STED W (Calibrated for Pos 6)
+1. \-
+2. HC PL APO 86x/1.20 W motCORR STED W (Calibrated for Pos 2, occupies
+ 2 positions)
+3. HC PL APO 10x/0.4 NA CS2
+4.  HC PL APO 20x/0.75 NA CS2
+5.  HC PL APO 40x/1.30 Oil CS2
+6. HC PL APO 100x/1.40 OIL STED W (Calibrated for Pos 6)
 
-#### Objectives Stored off the microscope 
+#### Objectives Stored off the microscope
 
-1.  HC PL APO 63x/1.40 OIL CS2 (Move to SD)
-2.  HC FLUOTAR L 25x/0.95 W VISIR
-3.  HC PL APO 93x/1.30 GLYC motC STED W (Calibrated for Pos 4, occupies
-    2 positions)
-4.  HC PL APO 40x/0.95 CORR
+1. HC PL APO 63x/1.40 OIL CS2 (Move to SD)
+2. HC FLUOTAR L 25x/0.95 W VISIR
+3. HC PL APO 93x/1.30 GLYC motC STED W (Calibrated for Pos 4, occupies
+ 2 positions)
+4. HC PL APO 40x/0.95 CORR
 
-### Hardware 
+### Hardware
 
 - Leica DMi8 Inverted Microscope
 - Leica Adaptive Focus Control (AFC)
@@ -41,28 +41,28 @@ close.]
 - Water Immersion micro dispenser
 - 8kHz Tandem Scanner STELLARIS 8 (galvo and resonant)
 - HyD detectors
-  - HyD S (pos 1 and pos 3)
-  - HyD X (pos 2 and pos 4)
-  - HyD R (pos 5)
+ - HyD S (pos 1 and pos 3)
+ - HyD X (pos 2 and pos 4)
+ - HyD R (pos 5)
 
 \
 
-### **Light Source** 
+### **Light Source**
 
 - Leica LED 3 (390-680nm) with 3mm LLG
 
 \
 
-### **Excitation Filters** 
+### **Excitation Filters**
 
 - Widefield
-  - LED 405 filter cube
-  - CFP/YFP filter cube
-  - GFP filter cube (not installed?, doesn't show up in list on scope)
-  - Rhod LP filter cube
-  - DA/FI/TX filter cube
+ - LED 405 filter cube
+ - CFP/YFP filter cube
+ - GFP filter cube (not installed?, doesn't show up in list on scope)
+ - Rhod LP filter cube
+ - DA/FI/TX filter cube
 
-### Lasers 
+### Lasers
 
 - 405nm
 - White Light Laser  (pulsed, 440 to 790 nm)
@@ -89,39 +89,39 @@ close.]
 - NF 775
 - NF 660
 
-### Detector 
+### Detector
 
 \
 
 +-----------+----------+------------+----------+----------+----------+
-| \         | Detector | Dead Times | Peak PDE | Photon   | Tau STED |
-|           |          |            |          | count    | using    |
-|           |          |            |          | rates    |          |
-|           |          |            |          | for STED | Power    |
-|           |          |            |          |          | counting |
-|           |          |            |          |          | mode     |
+| \ | Detector | Dead Times | Peak PDE | Photon | Tau STED |
+| | | | | count | using  |
+| | | | | rates | |
+| | | | | for STED | Power |
+| | | | | | counting |
+| | | | | | mode |
 +-----------+----------+------------+----------+----------+----------+
-| STELLARIS | HyD S    | \<1.3 ns   | \> 58% @ | 300 Mcps | \        |
-|           |          |            | 500nm    |          |          |
+| STELLARIS | HyD S | \<1.3 ns | \> 58% @ | 300 Mcps | \ |
+| | | | 500nm | | |
 +-----------+----------+------------+----------+----------+----------+
-|           | HyD X    | \<1.6 ns   | \> 46% @ | 300 Mcps | 100 Mcps |
-| STELLARIS |          |            | 500nm    |          |          |
-|           |          |            |          |          |          |
+|   | HyD X | \<1.6 ns | \> 46% @ | 300 Mcps | 100 Mcps |
+| STELLARIS | | | 500nm | | |
+|   | | | | | |
 +-----------+----------+------------+----------+----------+----------+
-| STELLARIS | HyD R    | \<1.6 n    | \> 26% @ | 300 Mcps | 100Mcps  |
-|           |          |            | 635 nm   |          |          |
+| STELLARIS | HyD R | \<1.6 n | \> 26% @ | 300 Mcps | 100Mcps |
+| | | | 635 nm | | |
 +-----------+----------+------------+----------+----------+----------+
 
-### Interface Requirements 
+### Interface Requirements
 
 - \
 
-### Firmware 
+### Firmware
 
-### PC 
+### PC
 
 - \
 
-### Software 
+### Software
 
 - \

@@ -4,30 +4,30 @@ title: Fluorescent Proteins for Localization Microscopy
 author: Herrington, Kari
 ---
 
-4.  [STORM sample preparation and
-    imaging](STORM-sample-preparation-and-imaging_517184503.html)
+4. [STORM sample preparation and
+ imaging](STORM-sample-preparation-and-imaging_517184503.html)
 
 \
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Protein      λex   λem   Contrast Ratio   Nphotons (median)  Notes                               Reference
-  ----------- ----- ----- ---------------- ------------------- ----------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  PS-CFP2      490   511        2000               260         Cyan-to-green photoswitchable       6, [Evrogen](http://www.evrogen.com/products/PS-CFP2/PS-CFP2_Detailed_description.shtml "http://www.evrogen.com/products/PS-CFP2/PS-CFP2_Detailed_description.shtml"){.external-link rel="nofollow"}
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Protein λex λem Contrast Ratio Nphotons (median) Notes Reference
+ ----------- ----- ----- ---------------- ------------------- ----------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ PS-CFP2 490 511 2000 260 Cyan-to-green photoswitchable 6, [Evrogen](http://www.evrogen.com/products/PS-CFP2/PS-CFP2_Detailed_description.shtml "http://www.evrogen.com/products/PS-CFP2/PS-CFP2_Detailed_description.shtml")
 
-  mGeos-M      503   514         \                 387         Reversibly photoswitchable          7
+ mGeos-M 503 514 \ 387 Reversibly photoswitchable 7
 
-  PATagRFP     562   596        540               500?         Photoactivatible                    8, [Evrogen](http://www.evrogen.com/products/PA-TagRFP/PA-TagRFP.shtml "http://www.evrogen.com/products/PA-TagRFP/PA-TagRFP.shtml"){.external-link rel="nofollow"}
+ PATagRFP 562 596 540 500? Photoactivatible 8, [Evrogen](http://www.evrogen.com/products/PA-TagRFP/PA-TagRFP.shtml "http://www.evrogen.com/products/PA-TagRFP/PA-TagRFP.shtml")
 
-  PAmCherry    564   595        4000               348         Photoactivatible                    1
+ PAmCherry 564 595 4000 348 Photoactivatible 1
 
-  tdEos        569   581         \                 499         Green-to-red photoswitchable        3,4,5
+ tdEos 569 581 \ 499 Green-to-red photoswitchable 3,4,5
 
-  mEos2        573   584         \                 379         Green-to-red photoswitchable        3,4
+ mEos2 573 584 \ 379 Green-to-red photoswitchable 3,4
 
-  mEos3.2      572   580         \                 482         Green-to-red photoswitchable        3
+ mEos3.2 572 580 \ 482 Green-to-red photoswitchable 3
 
-  PSmOrange    631   662       10700               337         Orange-to-far red photoswitchable   2
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ PSmOrange 631 662 10700 337 Orange-to-far red photoswitchable 2
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 \
 
