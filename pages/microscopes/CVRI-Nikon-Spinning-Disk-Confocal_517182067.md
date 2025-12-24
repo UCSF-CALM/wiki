@@ -1,10 +1,10 @@
 ---
 layout: default
-title: CVRI Nikon Spinning Disk Confocal
+title: CVRI Nikon Spinning Disk Confocal '# 1'
 author: Delaine Larsen
 ---
 
-# CVRI Nikon Spinning Disk Confocal
+# CVRI Nikon Spinning Disk Confocal # 1
 
 ## [FPBASE](https://www.fpbase.org/microscope/K6fHR5wykr55kxU99i3fhY/)
 
