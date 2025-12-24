@@ -46,8 +46,7 @@ navigation:
         link: ./pages/microscopes/C-Trap-Optical-Tweezers_698319820.html
       - name: CVRI Microscopes
         link: ./pages/microscopes/CVRI-Nikon-Spinning-Disk-Confocal_517182067.html
-      - name: Weill Microscopes
-        link: ./pages/microscopes/Weill--CSU-W1-SoRA-Spinning-Disk-Confocal_561953513.html
+   
   - name: Data Analysis
     link: ./pages/data-analysis/Data-Analysis_517182106.html
     sublist:
