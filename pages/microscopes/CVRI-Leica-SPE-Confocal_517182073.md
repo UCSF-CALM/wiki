@@ -5,6 +5,7 @@ author: Delaine Larsen
 ---
 
 # CVRI Leica SPE Confocal
+## This microscope is being retired because the lasers do not turn on reliably.
 
 ## Optics
 ### Objectives

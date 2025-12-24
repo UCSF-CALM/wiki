@@ -6,8 +6,8 @@ author: Stuurman, Nico
 
 # C-Trap Optical Tweezers
 
-[
 
+## About
 The C-Trap is an easy to use optical trap made by
 [ Lumicks](https://lumicks.com/our-products/).  Our current configuration has Microfluidics with two
 laser traps and confocal imaging. Specifics below:
@@ -40,7 +40,7 @@ Automatic Fluidics Control (AFL)
 
 5 fluidic channels + Waste (6 total)
 
-[
+
 
 
 ## Data Analysis
