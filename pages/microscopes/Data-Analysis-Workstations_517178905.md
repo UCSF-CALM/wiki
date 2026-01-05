@@ -38,7 +38,7 @@ Software installed:
 
  - - Nikon Elements
  - Fiji
- - Cell Profiler\
+ - Cell Profiler
 
 ### Analysis Workstation 4
 
