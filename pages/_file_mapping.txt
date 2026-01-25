@@ -1,7 +1,7 @@
 # File mapping: filename -> title
 517178903.md	TIRF/N-STORM
 517182052.md	N-SIM (Decomissioned)
-517182054.md	CSU-W1 Spinning Disk/High Speed Widefield
+CSU-W1.md	CSU-W1 Spinning Disk/High Speed Widefield
 517182081.md	CAMM #1- VIVO Multiphoton Upright
 517182083.md	CAMM #2- VIVO Multiphoton Movable Objective with Phasor
 517182143.md	Books, Websites, Etc

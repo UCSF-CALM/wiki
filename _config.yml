@@ -35,7 +35,7 @@ navigation:
       - name: Crest LFOV/C2
         link: ./pages/microscopes/522589638.html
       - name: CSU-W1
-        link: ./pages/microscopes/517182054.html
+        link: ./pages/microscopes/CSU-W1.html
       - name: AZ100 Light Sheet
         link: ./pages/microscopes/AZ100-Light-Sheet_517182060.html
       - name: OMX-SR

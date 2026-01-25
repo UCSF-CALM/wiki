@@ -34,7 +34,7 @@ details](6D_517182048.html)
 
 # Examples for CSU-W1
 
-[See CSU-W1/Highspeed hardware specifications here](517182054.html) for
+[See CSU-W1/Highspeed hardware specifications here](CSU-W1.html) for
 more details
 
 ## Set up: CSU-W1, sCMOS Camera, 100X lens, 3 channel images - Red, green, blue
