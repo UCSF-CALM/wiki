@@ -121,8 +121,7 @@ and a TB 355-405-473 dichroic mirror)
 <iframe src="https://docs.google.com/viewer?url={{ site.url }}{{ '/assets/pdf/microscope/W1/W1 board wiring copy.pdf' | relative_url }}&embedded=true" width="100%" height="600px" frameborder="0"></iframe>
 
 </details>
-
-
+<br>
 
 ## Firmware / Software
 
