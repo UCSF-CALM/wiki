@@ -13,7 +13,7 @@ including technical details and information for end users.
 ### Microscopes in Nikon Imaging Center, Genentech Hall S252
 
 - [Spinning Disk Confocal](Spinning-Disk-Confocal_517178889.html) (CSU-22)
-- [TIRF/STORM](517178903.html)
+- [TIRF/STORM](TIRF-STORM.html)
 - [Time Lapse](Time-Lapse_517182042.html) widefield
 - [6D](6D_517182048.html) widefield
 - [Crest LFOV Spinning Disk/ C2 Confocal ](522589638.html)
@@ -25,7 +25,7 @@ including technical details and information for end users.
 - [C-trap optical tweezers](C-Trap-Optical-Tweezers_698319820.html)
 - [Snouty High NA Single Objective Light Sheet ](711464117.html)
 - [Other equipment and objectives](Other-Equipment-and-Objectives_517182065.html)
-- [N-SIM (Decomissioned)](517182052.html) (Decommissioned)
+- [N-SIM (Decomissioned)](N-SIM.html) (Decommissioned)
 
 
 

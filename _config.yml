@@ -27,7 +27,7 @@ navigation:
       - name: Spinning Disk Confocal
         link: ./pages/microscopes/Spinning-Disk-Confocal_517178889.html
       - name: TIRF/N-STORM
-        link: ./pages/microscopes/517178903.html
+        link: ./pages/microscopes/TIRF-STORM.html
       - name: Time Lapse
         link: ./pages/microscopes/Time-Lapse_517182042.html
       - name: 6D
