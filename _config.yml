@@ -31,9 +31,9 @@ navigation:
       - name: Time Lapse
         link: ./pages/microscopes/Time-Lapse_517182042.html
       - name: 6D
-        link: ./pages/microscopes/6D_517182048.html
+        link: ./pages/microscopes/6D.html
       - name: Crest LFOV/C2
-        link: ./pages/microscopes/522589638.html
+        link: ./pages/microscopes/Crest-C2.html
       - name: CSU-W1
         link: ./pages/microscopes/CSU-W1.html
       - name: AZ100 Light Sheet

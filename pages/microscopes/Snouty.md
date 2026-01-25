@@ -28,7 +28,7 @@ date: Sep 26, 2025
 2. ND Filter OD 2.0 (1.0% of the light through)
 3. ND Filter OD 1.5 (3.16% of the light through)
 4. ND Filter OD 1.0 (10% of the light through)
-5.  ND Filter OD 0.5 (31.6% of the light through)
+5. ND Filter OD 0.5 (31.6% of the light through)
 6. ND Filter OD 0.0  (100% of the light through)
 
 ### Dichroic

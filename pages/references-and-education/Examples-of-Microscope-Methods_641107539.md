@@ -13,7 +13,7 @@ components (i.e. the lenses, channels used, DIC, etc..)
 # Examples for 6D microscope
 
 [See 6D microscope hardware specifications here for more
-details](6D_517182048.html)
+details](6D.html)
 
 ## Set up: Fluorescent and Brightfield imaging using a 10X lens
 
@@ -55,7 +55,7 @@ more details
 # Examples for CREST/C2
 
 [See CREST/C2 hardware specifications here for more
-details](522589638.html)
+details](Crest-C2.html)
 
 Set up: CREST, 100X
 

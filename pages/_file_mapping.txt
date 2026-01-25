@@ -9,10 +9,10 @@ CSU-W1.md	CSU-W1 Spinning Disk/High Speed Widefield
 517197331.md	Principles and Practices of Light Microscopy (Spring 2013)
 517198168.md	2013 QB3/UCSF Course in Biological Light Microscopy
 517198186.md	2014 QB3/UCSF Course in Biological Light Microscopy
-522589638.md	Crest LFOV Spinning Disk/ C2 Confocal
+Crest-C2.md	Crest LFOV Spinning Disk/ C2 Confocal
 689319159.md	ATP/ADP PercevalHR Reporter
-6D_517182048.md	6D
-711464117.md	Snouty High NA Single Objective Light Sheet (coming soon!)
+6D.md	6D
+Snouty.md	Snouty High NA Single Objective Light Sheet (coming soon!)
 720372404.md	Remote Access to the Workstations
 Acknowledgements_599783507.md	Acknowledgements
 Add-a-scale-bar-in-Fiji_634298063.md	Add a scale bar in Fiji
