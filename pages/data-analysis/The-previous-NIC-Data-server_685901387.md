@@ -9,8 +9,7 @@ author: Stuurman, Nico
 ## Accessing the previous NIC Server
 
 
-Note: this server will soon be de-commissioned.   Use the newer server
-(with much more space and faster access) instead.
+### Note: this server will soon be de-commissioned.   [Use the newer server (with much more space and faster access) instead.](Data-Storage-and-Compute_685901383.md)
 
 
 The NIC maintains an 8 TB file server for temporary storage of data
@@ -31,8 +30,7 @@ From Mac:
 
 1. In the Finder go to Go → Connect to Sever
 
-2. Enter
- [smb://nicdata.ucsf.edu/data](smb://nicdata.ucsf.edu/data){rel="nofollow"}
+2. Enter: smb://nicdata.ucsf.edu/data
 
 3. Enter CAMPUS in the Workgroup/Domain field and the nicuser username
  and password.

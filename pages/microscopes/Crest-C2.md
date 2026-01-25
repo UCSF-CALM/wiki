@@ -58,10 +58,10 @@ author: Delaine Larsen
 
 C2 Confocal
 
-- 405 nm,
-- 488 nm,
-- 561 nm,
-- 640 nm,
+- 405 nm
+- 488 nm
+- 561 nm
+- 640 nm
 
 Crest Confocal (Lumencor Celeste Light engine)
 

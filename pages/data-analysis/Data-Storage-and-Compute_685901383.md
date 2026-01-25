@@ -27,44 +27,30 @@ Moreover, data older than 3 months will be automatically deleted. **
 
 
 Before your can use the server, **your PI needs to give approval** by
-taking this [this
-survey.](https://ucsf.co1.qualtrics.com/jfe/form/SV_exhElckuEg2gi2i)  Then, request access
-from [nico.stuurman@ucsf.edu](mailto:nico.stuurman@ucsf.edu).  Please send your short UCSF user name (for me, that is
-"nstuurman").
+taking this [this survey.](https://ucsf.co1.qualtrics.com/jfe/form/SV_exhElckuEg2gi2i)  Then, request access from [nico.stuurman@ucsf.edu](mailto:nico.stuurman@ucsf.edu).  Please send your short UCSF user name (for me, that is "nstuurman").
 
 
 The server can only be used from within the UCSF network.  When you are
 outside, connect through VPN first.
 
-To mount the server from a Windows computer, open a File Explorer, and
-find "This PC"
+To mount the server from a Windows computer:
 
+1. open a File Explorer, and find "This PC"
 
-[
+2. Right click and Select "Map Network Drive".
 
+3. For "Folder" enter "mic.ucsf.edu\yourShortUserName"
 
-Right click and Select "Map Network Drive".
-
-For "Folder" enter
-\\\\[mic.ucsf.edu](http://mic.ucsf.edu)\\yourShortUserName
-
-Uncheck "Reconnect at sign-in, and check "Connect using different
+4. Uncheck "Reconnect at sign-in, and check "Connect using different
 credentials".
 
-
-[
-
-
-On the next screen, for "User name" type: "campus\\yourShortUserName",
+5. On the next screen, for "User name" type: "campus\yourShortUserName",
 and your UCSF password. Make sure that "Remember my credentials" is not
 checked (on shared computers).
 
-[
-
 
 Note that you have your own personal space here.  As long as you are
-within the UCSF network you can reach the
-[mic.ucsf.edu](http://mic.ucsf.edu)  file
+within the UCSF network you can reach the mic.ucsf.edu file
 server.
 
 **Please disconnect the drive when you are done using it, especially on
