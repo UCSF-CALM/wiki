@@ -40,6 +40,9 @@ Automatic Fluidics Control (AFL)
 
 5 fluidic channels + Waste (6 total)
 
+![microfluidics]({{ '/assets/img/C-trap/microfluidics.png' | relative_url }})
+*microfluidics*
+
 
 
 
@@ -51,8 +54,37 @@ Analysis](C-Trap-Data-Analysis_698319889.html)
 
 ## Manuals
 
+<details>
+<summary><strong>📄 C-Trap User Manual V4 2024</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-[(/download/attachments/698319820/C_Trap_User_Manual_V4_2024%201%20%281%29.pdf?version=1&modificationDate=1741286143000&api=v2)[(/download/attachments/698319820/Dymo_Confocal_guide%20%282%29.pdf?version=1&modificationDate=1741285976000&api=v2)[(/download/attachments/698319820/UCSF%20operator%20training%20%282%29.pdf?version=1&modificationDate=1741285982000&api=v2)[(/download/attachments/698319820/CTrap_DyMo_software_training_UCSF.pdf?version=1&modificationDate=1741652804000&api=v2)
+<details>
+<summary><strong>📄 UCSF Operator Training</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+<details>
+<summary><strong>📄 DyMo Confocal Guide</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+<details>
+<summary><strong>📄 C-Trap DyMo Software Training (UCSF)</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
 ## Troubleshooting Tips:
 
