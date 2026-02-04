@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Other Equipment and Objectives
-author: Delaine Larsen
 ---
 
 # Other Equipment and Objectives
@@ -21,10 +20,7 @@ author: Delaine Larsen
 ### Other Equipment
 
 - [CellASIC
- ONIX](http://www.cellasic.com/ONIX.html "http://www.cellasic.com/ONIX.html")
-
-- [ASI 400 Air Stream
- Incubator](http://www.nevtek.com/incubatr.htm "http://www.nevtek.com/incubatr.htm")
-
+ ONIX](https://www.sigmaaldrich.com/US/en/campaigns/cellasic-onix2-microfluidic-system "https://www.sigmaaldrich.com/US/en/campaigns/cellasic-onix2-microfluidic-system")
+- [Optics11 Chairo Nanoindentor] (https://www.optics11life.com/products/chiaro-nanoindenter/ "https://www.optics11life.com/products/chiaro-nanoindenter/")
 - A Nikon Darkfield Condensor
 - A Nikon 1.4NA Oil DIC Condensor
