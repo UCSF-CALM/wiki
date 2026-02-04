@@ -102,61 +102,118 @@ Collaboration required for QLIPP please contact the Core
 
 [https://pubmed.ncbi.nlm.nih.gov/32716843/](https://pubmed.ncbi.nlm.nih.gov/32716843/)
 
-**How to Setup and Calibrate QLIPP Nanoindentor probe**
+## User Manuals & Documentation
 
-[(/download/attachments/621616516/QLIPP%20Timelapse%20with%20Nanoindentor%20setup.pdf?version=1&modificationDate=1719875418000&api=v2)
+<details>
+<summary><strong>📄 Chiaro User Manual v3.4</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Chiaro User Manual v3.4.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Chiaro User Manual v3.4.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-## Nanoindentor Information
+<details>
+<summary><strong>📄 DataViewer User Manual V1.3</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/DataViewer user manual V1.3.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/DataViewer user manual V1.3.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
+## Quick Start Guides
 
-[(/download/attachments/621616516/Chiaro%20User%20Manual%20v3.4.pdf?version=1&modificationDate=1718323340000&api=v2)[(/download/attachments/621616516/Cleaning%20Protocol_v1.3.pdf?version=1&modificationDate=1718323345000&api=v2)[(/download/attachments/621616516/DataViewer%20user%20manual%20V1.3.pdf?version=1&modificationDate=1718323353000&api=v2)[(/download/attachments/621616516/Find_surface_old_hardware.pdf?version=1&modificationDate=1718323353000&api=v2)[(/download/attachments/621616516/Guidelines_indentation_Chapter2.pdf?version=1&modificationDate=1718323354000&api=v2)[(/download/attachments/621616516/Live%20calibration_v1.1.pdf?version=1&modificationDate=1718323355000&api=v2)[(/download/attachments/621616516/Live%20calibration_v1.pdf?version=1&modificationDate=1718323356000&api=v2)[(/download/attachments/621616516/MEMS%20information_V1_0-25%20to%200-5%20and%203-5.pdf?version=1&modificationDate=1718323356000&api=v2)[(/download/attachments/621616516/Organoid%20preparation.pdf?version=1&modificationDate=1718323357000&api=v2)[(/download/attachments/621616516/Probe_calibration_V1.pdf?version=1&modificationDate=1718323364000&api=v2)[(/download/attachments/621616516/Probes_2023-05-04.pdf?version=1&modificationDate=1718323365000&api=v2)[(/download/attachments/621616516/Quick%20startup%20of%20indentation_Chiaro%20V4.pdf?version=1&modificationDate=1718323366000&api=v2)[(/download/attachments/621616516/Sample_Preparation_V4.pdf?version=1&modificationDate=1718323366000&api=v2)[(/download/attachments/621616516/Tip%20selection%20guidelines_v1.3.pdf?version=1&modificationDate=1718323367000&api=v2)[(/download/attachments/621616516/Probe%20selection%20calculator_v7.1.xlsx?version=1&modificationDate=1718323371000&api=v2)
+<details>
+<summary><strong>📄 Quick Startup of Indentation - Chiaro V4</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Quick startup of indentation_Chiaro V4.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Quick startup of indentation_Chiaro V4.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
+<details>
+<summary><strong>📄 Guidelines for Indentation (Chapter 2)</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Guidelines_indentation_Chapter2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Guidelines_indentation_Chapter2.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
+## Calibration & Setup
 
-## Attachments:
+<details>
+<summary><strong>📄 Live Calibration v1.1</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Live calibration_v1.1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Live calibration_v1.1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
- [Chiaro User
-Manual v3.4.pdf](attachments/621616516/660504890.pdf) (application/pdf)\
- [Cleaning
-Protocol_v1.3.pdf](attachments/621616516/660504891.pdf)
-(application/pdf)\
- [DataViewer user
-manual V1.3.pdf](attachments/621616516/660504892.pdf) (application/pdf)\
+<details>
+<summary><strong>📄 Probe Calibration V1</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probe_calibration_V1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probe_calibration_V1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-[Find_surface_old_hardware.pdf](attachments/621616516/660504893.pdf)
-(application/pdf)\
+<details>
+<summary><strong>📄 Find Surface (Old Hardware)</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Find_surface_old_hardware.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Find_surface_old_hardware.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-[Guidelines_indentation_Chapter2.pdf](attachments/621616516/660504894.pdf)
-(application/pdf)\
- [Live
-calibration_v1.1.pdf](attachments/621616516/660504895.pdf)
-(application/pdf)\
- [Live
-calibration_v1.pdf](attachments/621616516/660504896.pdf)
-(application/pdf)\
- [MEMS
-information_V1_0-25 to 0-5 and
-3-5.pdf](attachments/621616516/660504897.pdf) (application/pdf)\
- [Organoid
-preparation.pdf](attachments/621616516/660504898.pdf) (application/pdf)\
+## Probes & Tips
 
-[Probe_calibration_V1.pdf](attachments/621616516/660504899.pdf)
-(application/pdf)\
+<details>
+<summary><strong>📄 Probes Information (2023-05-04)</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probes_2023-05-04.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probes_2023-05-04.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-[Probes_2023-05-04.pdf](attachments/621616516/660504900.pdf)
-(application/pdf)\
- [Quick startup
-of indentation_Chiaro V4.pdf](attachments/621616516/660504901.pdf)
-(application/pdf)\
+<details>
+<summary><strong>📄 Tip Selection Guidelines v1.3</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Tip selection guidelines_v1.3.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Tip selection guidelines_v1.3.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-[Sample_Preparation_V4.pdf](attachments/621616516/660504902.pdf)
-(application/pdf)\
- [Tip selection
-guidelines_v1.3.pdf](attachments/621616516/660504903.pdf)
-(application/pdf)\
- [Probe selection
-calculator_v7.1.xlsx](attachments/621616516/660504904.xlsx)
-(application/vnd.openxmlformats-officedocument.spreadsheetml.sheet)\
- [QLIPP Timelapse
-with Nanoindentor setup.pdf](attachments/621616516/662702045.pdf)
-(application/pdf)\
+<details>
+<summary><strong>📄 MEMS Information (V1 0-25 to 0-5 and 3-5)</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/MEMS information_V1_0-25 to 0-5 and 3-5.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/MEMS information_V1_0-25 to 0-5 and 3-5.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+## Sample Preparation
+
+<details>
+<summary><strong>📄 Sample Preparation V4</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Sample_Preparation_V4.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Sample_Preparation_V4.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+<details>
+<summary><strong>📄 Organoid Preparation</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Organoid preparation.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Organoid preparation.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+## Maintenance
+
+<details>
+<summary><strong>📄 Cleaning Protocol v1.3</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Cleaning Protocol_v1.3.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Cleaning Protocol_v1.3.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
