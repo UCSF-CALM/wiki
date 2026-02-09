@@ -51,7 +51,7 @@ and a TB 355-405-473 dichroic mirror)
 2. 525/50
 3. 607/36
 4. 685/40
-5. empty
+5. 5FF01-835/70-25
 6. empty
 7. empty
 8. empty
