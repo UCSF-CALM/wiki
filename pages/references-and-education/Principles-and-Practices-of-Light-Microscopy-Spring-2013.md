@@ -37,10 +37,10 @@ filmed.](http://lecture.ucsf.edu/ETS/Catalog/Full/fb6f6e88696444d4b34d5d2c010b43
 ### Books
 
 - [Fundamentals of Light Microscopy and Electronic
- Imaging](http://www.amazon.com/Fundamentals-Light-Microscopy-Electronic-Imaging/dp/047169214X/ "http://www.amazon.com/Fundamentals-Light-Microscopy-Electronic-Imaging/dp/047169214X/")
+ Imaging](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118382905 "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118382905")
 
 - [Handbook of Biological Confocal
- Microscopy](http://www.amazon.com/Handbook-Biological-Confocal-Microscopy-Pawley/dp/038725921X/ "http://www.amazon.com/Handbook-Biological-Confocal-Microscopy-Pawley/dp/038725921X/")
+ Microscopy](https://link.springer.com/book/10.1007/978-0-387-45524-2 "https://link.springer.com/book/10.1007/978-0-387-45524-2")
 
 ## Lectures
 

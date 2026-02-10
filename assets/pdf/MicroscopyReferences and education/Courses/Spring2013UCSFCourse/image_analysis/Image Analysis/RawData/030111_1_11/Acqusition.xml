@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="org">
+      <map/>
+      <node name="micromanager">
+        <map/>
+        <node name="AcquistionSettings">
+          <map>
+            <entry key="enableMultiFrame" value="false"/>
+            <entry key="enableMultiChannels" value="true"/>
+            <entry key="acqNumframes" value="1"/>
+            <entry key="acqInterval" value="600000.0"/>
+            <entry key="acqTimeInit" value="2"/>
+            <entry key="acqZbottom" value="-4.0"/>
+            <entry key="acqZtop" value="4.0"/>
+            <entry key="acqZstep" value="0.2"/>
+            <entry key="enableSliceSettings" value="true"/>
+            <entry key="enableMultiPosition" value="false"/>
+            <entry key="acqZValues" value="0"/>
+            <entry key="acqSaveFiles" value="true"/>
+            <entry key="acqDirName" value="030111_1"/>
+            <entry key="acqRootName" value="C:\Data\Susanne\030111"/>
+            <entry key="sliceMode" value="1"/>
+            <entry key="acqDisplayMode" value="0"/>
+            <entry key="positionMode" value="1"/>
+            <entry key="autofocus_enabled" value="false"/>
+            <entry key="autofocusSkipInterval" value="0"/>
+            <entry key="acqChannelsKeepShutterOpen" value="false"/>
+            <entry key="acqStackKeepShutterOpen" value="false"/>
+            <entry key="acqChannelGroup" value="ChannelInt"/>
+            <entry key="acqNumchannels" value="2"/>
+            <entry key="acqChannelName0" value="RFP_new 15"/>
+            <entry key="acqChannelExp0" value="100.0"/>
+            <entry key="acqChannelDoZStack0" value="true"/>
+            <entry key="acqChannelZOffset0" value="0.0"/>
+            <entry key="acqChannel8ContrastMin0" value="0.0"/>
+            <entry key="acqChannel8ContrastMax0" value="255.0"/>
+            <entry key="acqChannel16ContrastMin0" value="0.0"/>
+            <entry key="acqChannel16ContrastMax0" value="65535.0"/>
+            <entry key="acqChannelColorR0" value="255"/>
+            <entry key="acqChannelColorG0" value="0"/>
+            <entry key="acqChannelColorB0" value="51"/>
+            <entry key="acqSkip0" value="0"/>
+            <entry key="acqChannelName1" value="BF"/>
+            <entry key="acqChannelExp1" value="100.0"/>
+            <entry key="acqChannelDoZStack1" value="true"/>
+            <entry key="acqChannelZOffset1" value="0.0"/>
+            <entry key="acqChannel8ContrastMin1" value="0.0"/>
+            <entry key="acqChannel8ContrastMax1" value="255.0"/>
+            <entry key="acqChannel16ContrastMin1" value="0.0"/>
+            <entry key="acqChannel16ContrastMax1" value="65535.0"/>
+            <entry key="acqChannelColorR1" value="255"/>
+            <entry key="acqChannelColorG1" value="255"/>
+            <entry key="acqChannelColorB1" value="255"/>
+            <entry key="acqSkip1" value="0"/>
+            <entry key="column_width0" value="69"/>
+            <entry key="column_order0" value="0"/>
+            <entry key="column_width1" value="69"/>
+            <entry key="column_order1" value="1"/>
+            <entry key="column_width2" value="69"/>
+            <entry key="column_order2" value="2"/>
+            <entry key="column_width3" value="68"/>
+            <entry key="column_order3" value="3"/>
+            <entry key="column_width4" value="69"/>
+            <entry key="column_order4" value="4"/>
+            <entry key="column_width5" value="68"/>
+            <entry key="column_order5" value="5"/>
+          </map>
+        </node>
+      </node>
+    </node>
+  </root>
+</preferences>

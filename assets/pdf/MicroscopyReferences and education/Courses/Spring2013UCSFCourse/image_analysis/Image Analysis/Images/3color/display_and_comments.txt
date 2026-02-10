@@ -1,0 +1,26 @@
+{
+  "Channels": [
+    {
+      "Name": "Rhodamine",
+      "Max": 13957,
+      "Gamma": 1,
+      "Min": 588,
+      "Color": -65485
+    },
+    {
+      "Name": "DAPI",
+      "Max": 13440,
+      "Gamma": 1,
+      "Min": 791,
+      "Color": -16750849
+    },
+    {
+      "Name": "FITC",
+      "Max": 10545,
+      "Gamma": 1,
+      "Min": 882,
+      "Color": -13369549
+    }
+  ],
+  "Comments": {"Summary": ""}
+}
