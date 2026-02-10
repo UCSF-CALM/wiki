@@ -22,14 +22,14 @@ navigation:
   - name: Home
     link: ./index.html
   - name: Microscopes
-    link: ./pages/microscopes/Microscopes_517178884.html
+    link: ./pages/microscopes/Microscopes.html
     sublist:
       - name: Spinning Disk Confocal
-        link: ./pages/microscopes/Spinning-Disk-Confocal_517178889.html
+        link: ./pages/microscopes/Spinning-Disk-Confocal.html
       - name: TIRF/N-STORM
         link: ./pages/microscopes/TIRF-STORM.html
       - name: Time Lapse
-        link: ./pages/microscopes/Time-Lapse_517182042.html
+        link: ./pages/microscopes/Time-Lapse.html
       - name: 6D
         link: ./pages/microscopes/6D.html
       - name: Crest LFOV/C2
@@ -37,55 +37,55 @@ navigation:
       - name: CSU-W1
         link: ./pages/microscopes/CSU-W1.html
       - name: AZ100 Light Sheet
-        link: ./pages/microscopes/AZ100-Light-Sheet_517182060.html
+        link: ./pages/microscopes/AZ100-Light-Sheet.html
       - name: OMX-SR
-        link: ./pages/microscopes/OMX-SR_517182062.html
+        link: ./pages/microscopes/OMX-SR.html
       - name: TruLive3D Light Sheet
-        link: ./pages/microscopes/TruLive3D-Light-Sheet_674609376.html
+        link: ./pages/microscopes/TruLive3D-Light-Sheet.html
       - name: C-Trap Optical Tweezers
-        link: ./pages/microscopes/C-Trap-Optical-Tweezers_698319820.html
+        link: ./pages/microscopes/C-Trap-Optical-Tweezers.html
       - name: CVRI Microscopes
-        link: ./pages/microscopes/CVRI-Nikon-Spinning-Disk-Confocal_517182067.html
+        link: ./pages/microscopes/CVRI-Nikon-Spinning-Disk-Confocal.html
    
   - name: Data Analysis
-    link: ./pages/data-analysis/Data-Analysis_517182106.html
+    link: ./pages/data-analysis/Data-Analysis.html
     sublist:
       - name: Workstations
-        link: ./pages/data-analysis/Data-Analysis-Workstations_517178905.html
+        link: ./pages/data-analysis/Data-Analysis-Workstations.html
       - name: Storage & Compute
-        link: ./pages/data-analysis/Data-Storage-and-Compute_685901383.html
+        link: ./pages/data-analysis/Data-Storage-and-Compute.html
       - name: Fiji/ImageJ
-        link: ./pages/data-analysis/ImageJ-and-Variants_517184301.html
+        link: ./pages/data-analysis/ImageJ-and-Variants.html
       - name: Huygens
-        link: ./pages/data-analysis/Huygens_517184442.html
+        link: ./pages/data-analysis/Huygens.html
       - name: MATLAB
-        link: ./pages/data-analysis/MATLAB_517184427.html
+        link: ./pages/data-analysis/MATLAB.html
   - name: Sample Preparation
-    link: ./pages/sample-preparation/Sample-Preparation_517182102.html
+    link: ./pages/sample-preparation/Sample-Preparation.html
     sublist:
       - name: Dyes & Proteins
-        link: ./pages/sample-preparation/Fluorescent-Proteins-for-Localization-Microscopy_517197198.html
+        link: ./pages/sample-preparation/Fluorescent-Proteins-for-Localization-Microscopy.html
       - name: Protocols
-        link: ./pages/sample-preparation/Clearing-methods_517184494.html
+        link: ./pages/sample-preparation/Clearing-methods.html
       - name: Materials
-        link: ./pages/sample-preparation/High-Precision-Coverslips_517184498.html
+        link: ./pages/sample-preparation/High-Precision-Coverslips.html
   - name: References & Education
-    link: ./pages/references-and-education/Microscopy-References-and-Education_517178908.html
+    link: ./pages/references-and-education/Microscopy-References-and-Education.html
     sublist:
       - name: Courses
-        link: ./pages/references-and-education/Microscopy-Courses_517182136.html
+        link: ./pages/references-and-education/Microscopy-Courses.html
       - name: Books & Websites
-        link: ./pages/references-and-education/517182143.html
+        link: ./pages/references-and-education/Books-Websites-etc.html
       - name: Methods Examples
-        link: ./pages/references-and-education/Examples-of-Microscope-Methods_641107539.html
+        link: ./pages/references-and-education/Examples-of-Microscope-Methods.html
   - name: CALM Information
-    link: ./pages/calm-information/Other-CALM-Information_517182095.html
+    link: ./pages/calm-information/Other-CALM-Information.html
     sublist:
       - name: Quick Start Guides
-        link: ./pages/calm-information/User-Quick-Start-Guides_517182146.html
+        link: ./pages/calm-information/User-Quick-Start-Guides.html
       - name: iLab
-        link: ./pages/calm-information/iLab_701465591.html
+        link: ./pages/calm-information/iLab.html
       - name: Acknowledgements
-        link: ./pages/calm-information/Acknowledgements_599783507.html
+        link: ./pages/calm-information/Acknowledgements.html
   - name: Miscellaneous
-    link: ./pages/miscellaneous/Miscellaneous_517182118.html
+    link: ./pages/miscellaneous/Miscellaneous.html

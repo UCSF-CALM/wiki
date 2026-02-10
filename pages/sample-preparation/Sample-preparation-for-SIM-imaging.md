@@ -12,7 +12,7 @@ proper reconstruction), you need to minimize spherical aberration. This
 means:
 
 - You should use [high precision 0.17 mm
- coverslips](High-Precision-Coverslips_517184498.html)
+ coverslips](High-Precision-Coverslips.html)
 
 - You should mount in an appropriate mounting medium. Nikon recommends
  mounting either in

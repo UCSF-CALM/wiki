@@ -7,7 +7,7 @@ author: Herrington, Kari
 # Monthly Microscopy Users Meeting
 
 3. [Microscopy References and
- Education](Microscopy-References-and-Education_517178908.html)
+ Education](Microscopy-References-and-Education.html)
 
 In order to try and build a sense of community among the microscopists
 at UCSF and catalyze the exchange of information between the various

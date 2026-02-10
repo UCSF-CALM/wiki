@@ -24,21 +24,23 @@ author: Delaine Larsen
 2. GFP/mRFP1
 3. CFP/YFP (86002bs Chroma)
 4. Analyzer
-5. empty
+5. QLIPP analyzer (Circular Polarizer for 532nm, Right-handed (ThorLabs
+ CP1R532))
+
 6. FURA2 (Emission Filter within Cube)
 
 ### Excitation from Lambda 421
 
 
- |LED wavelength | Filter in front of LED |
- |---------------- | ------------------------ |
- | 340 nm | FF01-340/26-25-STR |
- | 380 nm | FF01-389/38-25-STR |
- | 440 nm | FF01-445/40-25-STR |
- | 480 nm | FF01-480/40-25-STR |
- | 530 nm | FF01-504/12-STR |
- | 561 nm | FF01-562/40-25-STR |
- | 630 nm | FF01-630/38-25-STR |
+ LED wavelength Filter in front of LED
+ ---------------- ------------------------
+ 340 nm FF01-340/26-25-STR
+ 380 nm FF01-389/38-25-STR
+ 440 nm FF01-445/40-25-STR
+ 480 nm FF01-480/40-25-STR
+ 530 nm FF01-504/12-STR
+ 561 nm FF01-562/40-25-STR
+ 630 nm FF01-630/38-25-STR
 
 ### Emission Wheel
 
@@ -61,6 +63,7 @@ author: Delaine Larsen
 - Sutter Lambda 421 LED light source with NIDAQ interface
 - Sutter Emission wheel (wheel C) controlled by Lambda 10-B (COM7, 128k
  Baud Rate)
+
 - Hamamatsu Flash 4.0 (Right port)
 - OkoLab incubator and CO2 control
 - QLIPP components above condenser
@@ -74,6 +77,9 @@ author: Delaine Larsen
 
 - 1 serial port for 10-3
 - 3 USB connectors
+
+<!-- -->
+
 - 10-B  COM7 (USB)
 - NI PCI 6723 board
 
@@ -99,7 +105,6 @@ author: Delaine Larsen
 - NIS-Elements 5.21.03 (Build 1489)
 
 ### Excitation Wheel (filters if you used Lambda XL lamp for earlier experiments)
-Please note the Lambda XL was retired from this system in 2018
 
 1. ET340x Fura-2 (79000 Ex1)
 2. ET380x Fura-2 (79000 Ex2)

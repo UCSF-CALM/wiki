@@ -7,7 +7,7 @@ author: Delaine Larsen
 # Presentations
 
 3. [Microscopy References and
- Education](Microscopy-References-and-Education_517178908.html)
+ Education](Microscopy-References-and-Education.html)
 
 ### Kari\'s 2020 Webinars (box links)
 
@@ -24,7 +24,7 @@ author: Delaine Larsen
 ### Microscopy Users Meeting
 
 [Microscopy Users Meeting
-Schedule](Monthly-Microscopy-Users-Meeting_520586430.html)
+Schedule](Monthly-Microscopy-Users-Meeting.html)
 
 ### 2011 Microscopy Bootcamp Lectures
 

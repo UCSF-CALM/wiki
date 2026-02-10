@@ -49,7 +49,7 @@ Automatic Fluidics Control (AFL)
 ## Data Analysis
 
 For C-Trap data analysis instructions, see [C-Trap Data
-Analysis](C-Trap-Data-Analysis_698319889.html)
+Analysis](C-Trap-Data-Analysis.html)
 
 
 ## Manuals

@@ -8,10 +8,10 @@ author: Delaine Larsen
 
 ### How do I\...
 
-- [Find my Pixel size?](Finding-your-pixel-size_634298046.html)
-- [Add a scale bar](Add-a-scale-bar-in-Fiji_634298063.html)
+- [Find my Pixel size?](Finding-your-pixel-size.html)
+- [Add a scale bar](Add-a-scale-bar-in-Fiji.html)
 - [View Orthangonal Slices
- (Fiji)](Fiji--Viewing-orthagonal-slices_701468027.html)
+ (Fiji)](Fiji--Viewing-orthagonal-slices.html)
 - Brightness & Contrast Tips
  (Fiji) (attachment)
 - Look-Up Tables LUTs)/Channel Colors Tips
@@ -20,9 +20,9 @@ author: Delaine Larsen
 ### Protocols
 
 - [How to stitch images acquired in
- Micro-Manager](Stitching-Images-Acquired-in-Micro-Manager_517182166.html)
+ Micro-Manager](Stitching-Images-Acquired-in-Micro-Manager.html)
 - [How to Acquire Flat Field
- correction](How-to-Acquire-Flat-Field-correction_517182172.html)
+ correction](How-to-Acquire-Flat-Field-correction.html)
 - [C-Trap Data Analysis - Getting
  started](https://wiki.library.ucsf.edu/display/CMW/C-Trap+Data+Analysis){rel="nofollow"}
 
@@ -31,17 +31,17 @@ author: Delaine Larsen
 - [NIS-Elements](https://www.microscope.healthcare.nikon.com/products/software/nis-elements) - Nikon\'s image acquisition and analysis software.
  The same software we use to run most of the microscopes, this is also
  an easy-to-use tool for routine data analysis.
-- [MATLAB](MATLAB_517184427.html) - A popular commercial programming
+- [MATLAB](MATLAB.html) - A popular commercial programming
  language and interactive environment for data analysis. Useful links
  to microscopy tools for Matlab are collected here.
-- [Huygens](Huygens_517184442.html) - Huygens is a powerful and easy to
+- [Huygens](Huygens.html) - Huygens is a powerful and easy to
  use deconvolution program.
 - [Slidebook](https://www.intelligent-imaging.com/slidebook) - 3i commercial software package for image acquisition
  and analysis.
 
 ### Free Software
 
-- [ImageJ and Variants](ImageJ-and-Variants_517184301.html) - One of the
+- [ImageJ and Variants](ImageJ-and-Variants.html) - One of the
  most commonly used free image analysis programs. Has a large and
  active development community.
 - [Nikon
@@ -80,7 +80,7 @@ author: Delaine Larsen
 
 ### Specific analysis
 
-- [Cilia](Cilia-Analysis_689317093.html)
+- [Cilia](Cilia-Analysis.html)
 
 ## Attachments:
 

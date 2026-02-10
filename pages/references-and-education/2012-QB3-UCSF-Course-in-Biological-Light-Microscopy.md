@@ -8,7 +8,7 @@ date: Sep 17, 2020
 # 2012 QB3/UCSF Course in Biological Light Microscopy
 
 3. [Microscopy References and
- Education](Microscopy-References-and-Education_517178908.html)
+ Education](Microscopy-References-and-Education.html)
 
 
 Monday:

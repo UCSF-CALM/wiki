@@ -42,7 +42,7 @@ literature. Here we highlight a few commonly used approaches.
  photoswitchable and photoconvertible proteins can be used. We have put
  together [a table of some of the more commonly used fluorescent
  proteins for
- superresolution](Fluorescent-Proteins-for-Localization-Microscopy_517197198.html).
+ superresolution](Fluorescent-Proteins-for-Localization-Microscopy.html).
 
 - Stochastic switching of small molecule dyes: often called direct STORM
  (dSTORM) or GSDIM (ground-state depletion with individual molecule

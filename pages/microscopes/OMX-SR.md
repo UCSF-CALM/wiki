@@ -56,7 +56,7 @@ highest quality images you need to minimize spherical aberration. This
 means:
 
 - You should use [high precision 0.17 mm
- coverslips](High-Precision-Coverslips_517184498.html)
+ coverslips](High-Precision-Coverslips.html)
 
 - You should mount only a single coverslip in the center of the slide.
 - You should mount in an appropriate mounting medium. Fixed samples

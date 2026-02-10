@@ -8,9 +8,9 @@ date: Jan 03, 2025
 # Data Storage and Compute
 
 [The previous NIC Data
-server](The-previous-NIC-Data-server_685901387.html)
+server](The-previous-NIC-Data-server.html)
 
-[NIC Analysis workstations](NIC-Analysis-workstations_685901416.html)
+[NIC Analysis workstations](NIC-Analysis-workstations.html)
 
 
 The CALM file server at

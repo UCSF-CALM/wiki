@@ -66,7 +66,7 @@ date: Sep 26, 2025
  - Adapters for 96 Well plate, standard slide (25mm x 75mm), 35mm Dish,
  and Lab-Tek II Chambered Coverslips
  - See slide and dish recommendations here: [Plates and dishes for
- imaging](Plates-and-dishes-for-imaging_517184496.html), Note Must be
+ imaging](Plates-and-dishes-for-imaging.html), Note Must be
  No. 1.5 Coverslip equivialant
 
 - Hamamatsu Orca-Quest 2 Camera

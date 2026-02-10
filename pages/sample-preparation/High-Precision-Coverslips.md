@@ -34,4 +34,4 @@ other distributors:
 
 Some vendors also make glass bottom dishes and plates with these
 coverslips - please see our [list of dish
-vendors](Plates-and-dishes-for-imaging_517184496.html).
+vendors](Plates-and-dishes-for-imaging.html).

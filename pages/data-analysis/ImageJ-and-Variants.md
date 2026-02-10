@@ -49,7 +49,7 @@ your data.
  Reports 5, Article number: 15915
  (2015)](https://www.nature.com/articles/srep15915)
 
-[ClearVolume](ClearVolume_701467993.html) - 3D volume viewer. the easy
+[ClearVolume](ClearVolume.html) - 3D volume viewer. the easy
 install is listed here along with the quick fix for the rendering
 issue.
 

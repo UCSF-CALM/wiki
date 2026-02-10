@@ -7,7 +7,7 @@ author: Herrington, Kari
 # 2014 QB3/UCSF Course in Biological Light Microscopy
 
 3. [Microscopy References and
- Education](Microscopy-References-and-Education_517178908.html)
+ Education](Microscopy-References-and-Education.html)
 
 ## Talks
 
