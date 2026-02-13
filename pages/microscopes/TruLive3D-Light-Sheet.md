@@ -76,7 +76,7 @@ Tube lens Magnifier for detection objective
  1.  Splits emission light longer than 640 to one\
   camera and shorter than 640nm to a second camera.
 
-[(/download/attachments/674609376/Trulive%20diagram.pdf?version=2&modificationDate=1741800065000&api=v2)
+[Trulive diagram.pdf](attachments/674609376/698322817.pdf)
 
 ### Hardware
 
@@ -136,18 +136,18 @@ Hub](https://github.com/Luxendo/luxendo-image)
 
 Read here for the Data structure and opening:
 
-[(/download/attachments/674609376/Data%20Structure%20and%20Opening%20Data_030823.pdf?version=1&modificationDate=1738017364000&api=v2)
+[Data Structure and Opening Data_030823.pdf](attachments/674609376/689314278.pdf)
 
 TruLive Manual;
 
 NOTE: Important sections Fiji Set up and import starting on Page 20
 
-[(/download/attachments/674609376/TruLive3D%20Imager%20Manual%2020220720.pdf?version=1&modificationDate=1738017502000&api=v2)
+[TruLive3D Imager Manual 20220720.pdf](attachments/674609376/689314280.pdf)
 
 
 ### **Photo Manipulation**
 
-**[(/download/attachments/674609376/532%20procedure.docx?version=1&modificationDate=1738019524000&api=v2)[(/download/attachments/674609376/405%20PM%20procedure-KH.docx?version=1&modificationDate=1739235641000&api=v2)[(/download/attachments/674609376/TL3D_Photomanipulation_JCF_021723.docx?version=1&modificationDate=1738019632000&api=v2)**
+**[532 procedure.docx](attachments/674609376/689314369.docx)  [405 PM procedure-KH.docx](attachments/674609376/689319982.docx)  [TL3D_Photomanipulation_JCF_021723.docx](attachments/674609376/689314372.docx)**
 
 ## Attachments:
 

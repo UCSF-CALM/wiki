@@ -57,33 +57,45 @@ Analysis](C-Trap-Data-Analysis.html)
 <details>
 <summary><strong>📄 C-Trap User Manual V4 2024</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 UCSF Operator Training</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 DyMo Confocal Guide</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 C-Trap DyMo Software Training (UCSF)</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 ## Troubleshooting Tips:

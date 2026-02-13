@@ -43,17 +43,23 @@ author: Delaine Larsen
 <details>
 <summary><strong>📄 AZ100 Large Cuvette</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/Az100-Largecuvette.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/Az100-Largecuvette.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/Az100-Largecuvette.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/Az100-Largecuvette.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/Az100-Largecuvette.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Light Sheet Custom Cuvette</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/LS custom cuvette.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/LS custom cuvette.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/LS custom cuvette.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/LS custom cuvette.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/LS custom cuvette.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 
@@ -64,9 +70,12 @@ author: Delaine Larsen
 <details>
 <summary><strong>📄 AZ100 Characterization</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/AZ100_Characterization.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/AZ100_Characterization.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/AZ100_Characterization.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/AZ100_Characterization.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/AZ100_Characterization.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 
@@ -78,49 +87,67 @@ author: Delaine Larsen
 <details>
 <summary><strong>📄 Building a Lightsheet Microscope Around an AZ100, Part 1</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Building a Lightsheet Microscope Around an AZ100, Part 1 (Comments)</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1-com.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1-com.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1-com.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1-com.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/Building a Lightsheet microscope aroung and Az100, pt 1-com.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Building a Light Sheet Microscope Around an AZ100, Part 2</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Building a Light Sheet Microscope Around an AZ100, Part 2 (Comments)</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2-com.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2-com.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2-com.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2-com.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/Building a light sheet microscope around an AZ100 microscope, part 2-com.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Kurt's Blog - AZ100 Part 1</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/kurtblog-Az100part1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/kurtblog-Az100part1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/kurtblog-Az100part1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/kurtblog-Az100part1.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/kurtblog-Az100part1.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Kurt's Blog - AZ100 Part 2a</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/Kurtblog-Az100Part2a.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/Kurtblog-Az100Part2a.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/Kurtblog-Az100Part2a.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/Kurtblog-Az100Part2a.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/Kurtblog-Az100Part2a.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 ## Image Processing- Destriping Plugin
@@ -128,17 +155,23 @@ author: Delaine Larsen
 <details>
 <summary><strong>📄 VSNR Documentation (Fiji Plugin)</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/Documentation_VSNR_V2_Fiji.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/Documentation_VSNR_V2_Fiji.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/Documentation_VSNR_V2_Fiji.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/Documentation_VSNR_V2_Fiji.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/Documentation_VSNR_V2_Fiji.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 VSNR IEEE Paper</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/Az100/IEEEIP_VSNR_VersionFinale.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/Az100/IEEEIP_VSNR_VersionFinale.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/Az100/IEEEIP_VSNR_VersionFinale.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/Az100/IEEEIP_VSNR_VersionFinale.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/Az100/IEEEIP_VSNR_VersionFinale.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 ## Optics

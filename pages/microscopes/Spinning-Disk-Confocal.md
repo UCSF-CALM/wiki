@@ -101,7 +101,7 @@ author: Delaine Larsen
 
 ### Quick guides
 
-[(/download/attachments/517178889/CSU-22%20Epi%20fluorescence.pdf?version=1&modificationDate=1720489989000&api=v2)
+[CSU-22 Epi fluorescence.pdf](attachments/517178889/663990548.pdf)
 
 ## Attachments:
 

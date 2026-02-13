@@ -13,7 +13,7 @@ double-sided tape?
 Here is an example of making a simple flow chamber with double-sided
 tape, a razor blade (to cut tape), a coverslip, and a slide.
 
-[(/download/attachments/689313954/flow%20chamber.pdf?version=2&modificationDate=1738000702000&api=v2)
+[flow chamber.pdf](attachments/689313954/689314006.pdf)
 
 Video example:
 

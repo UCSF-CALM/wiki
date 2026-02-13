@@ -82,7 +82,7 @@ olk-copy-source="MessageBody"}
 olk-copy-source="MessageBody"}
 
 
-[[[maxintensity_raw_easygui_0403224_dualcolor.py](/download/attachments/698323118/maxintensity_raw_easygui_0403224_dualcolor.py?version=1&modificationDate=1741825480000&api=v2)[[[maxintensity_raw_easygui_121522.py](/download/attachments/698323118/maxintensity_raw_easygui_121522.py?version=1&modificationDate=1741825458000&api=v2)
+[maxintensity_raw_easygui_0403224_dualcolor.py](attachments/698323118/698323199.py)  [maxintensity_raw_easygui_121522.py](attachments/698323118/698323198.py)
 
 
 ### [[Max_intensity_raw_030525 STEP 1]]{style="color: inherit;" olk-copy-source="MessageBody"}
@@ -115,7 +115,7 @@ olk-copy-source="MessageBody"}
  channel)]]{style="color: inherit;"
  olk-copy-source="MessageBody"}
 
-[[[step1_maxintensity_raw_030525.py](/download/attachments/698323118/step1_maxintensity_raw_030525.py?version=1&modificationDate=1741825392000&api=v2)
+[step1_maxintensity_raw_030525.py](attachments/698323118/698323196.py)
 
 ### **[[Video_030525 Step 2]]{style="color: inherit;" olk-copy-source="MessageBody"}**
 
@@ -135,7 +135,7 @@ olk-copy-source="MessageBody"}
 mirrorors]]{style="color: inherit;"
 olk-copy-source="MessageBody"}
 
-[[[step2_video_030525.py](/download/attachments/698323118/step2_video_030525.py?version=1&modificationDate=1741825403000&api=v2)
+[step2_video_030525.py](attachments/698323118/698323197.py)
 
 
 

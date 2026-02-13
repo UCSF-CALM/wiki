@@ -35,13 +35,13 @@ including technical details and information for end users.
  Confocal #1](CVRI-Nikon-Spinning-Disk-Confocal.html)
 - [Nikon Spinning Disk Confocal #2](CVRI-NikonSpinningDiskConfocal2.html)
 - [Nikon Epifluorescence
- Microscope](CVRI-Nikon-Epifluorescence-Microscope_517182069.html) (Decomissioned)
+ Microscope](CVRI-Nikon-Epifluorescence-Microscope.html) (Decommissioned)
 - [Leica SPE
  Confocal](CVRI-Leica-SPE-Confocal.html)(Decomissioned)
 
 
 
-### [Data Analysis Workstations](Data-Analysis-Workstations_517178905.htlm)
+### [Data Analysis Workstations](Data-Analysis-Workstations.html)
 
 
 ### [Other equipment and objectives](Other-Equipment-and-Objectives.html)

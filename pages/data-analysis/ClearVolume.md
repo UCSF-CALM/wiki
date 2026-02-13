@@ -42,7 +42,7 @@ This was an issue found by Tanner Fadero and fixed by Nico Stuurman
  file ]
 2. [Replace it with the
  [clearvolume-1.0-SNAPSHOT.jar](https://forum.image.sc/uploads/short-url/sQ5spHwMw66xI8Y98uQlC3V9jHm.jar) ]
-3. [ [[[clearvolume-1.0-SNAPSHOT.jar](/download/attachments/701467993/clearvolume-1.0-SNAPSHOT.jar?version=1&modificationDate=1743017583000&api=v2)]
+3. [clearvolume-1.0-SNAPSHOT.jar](attachments/701467993/701468001.jar)
 
 ## [Other known issue]
 

@@ -54,7 +54,7 @@ same on any microscope.
 ## CAMM Microscope Quickstart with Slidebook
 
 - [Upright Spinning Disk
- Instructions](Upright-Spinning-Disk-Instructions_654283421.html)
+ Instructions](Upright-Spinning-Disk-Instructions.html)
 
 ## Attachments:
 

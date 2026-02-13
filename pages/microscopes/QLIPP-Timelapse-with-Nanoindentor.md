@@ -107,17 +107,23 @@ Collaboration required for QLIPP please contact the Core
 <details>
 <summary><strong>📄 Chiaro User Manual v3.4</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Chiaro User Manual v3.4.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Chiaro User Manual v3.4.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Chiaro User Manual v3.4.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Chiaro User Manual v3.4.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Chiaro User Manual v3.4.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 DataViewer User Manual V1.3</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/DataViewer user manual V1.3.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/DataViewer user manual V1.3.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/DataViewer user manual V1.3.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/DataViewer user manual V1.3.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/DataViewer user manual V1.3.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 ## Quick Start Guides
@@ -125,17 +131,23 @@ Collaboration required for QLIPP please contact the Core
 <details>
 <summary><strong>📄 Quick Startup of Indentation - Chiaro V4</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Quick startup of indentation_Chiaro V4.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Quick startup of indentation_Chiaro V4.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Quick startup of indentation_Chiaro V4.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Quick startup of indentation_Chiaro V4.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Quick startup of indentation_Chiaro V4.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Guidelines for Indentation (Chapter 2)</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Guidelines_indentation_Chapter2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Guidelines_indentation_Chapter2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Guidelines_indentation_Chapter2.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Guidelines_indentation_Chapter2.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Guidelines_indentation_Chapter2.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 ## Calibration & Setup
@@ -143,25 +155,34 @@ Collaboration required for QLIPP please contact the Core
 <details>
 <summary><strong>📄 Live Calibration v1.1</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Live calibration_v1.1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Live calibration_v1.1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Live calibration_v1.1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Live calibration_v1.1.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Live calibration_v1.1.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Probe Calibration V1</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probe_calibration_V1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probe_calibration_V1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probe_calibration_V1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probe_calibration_V1.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probe_calibration_V1.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Find Surface (Old Hardware)</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Find_surface_old_hardware.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Find_surface_old_hardware.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Find_surface_old_hardware.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Find_surface_old_hardware.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Find_surface_old_hardware.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 ## Probes & Tips
@@ -169,25 +190,34 @@ Collaboration required for QLIPP please contact the Core
 <details>
 <summary><strong>📄 Probes Information (2023-05-04)</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probes_2023-05-04.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probes_2023-05-04.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probes_2023-05-04.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probes_2023-05-04.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Probes_2023-05-04.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Tip Selection Guidelines v1.3</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Tip selection guidelines_v1.3.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Tip selection guidelines_v1.3.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Tip selection guidelines_v1.3.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Tip selection guidelines_v1.3.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Tip selection guidelines_v1.3.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 MEMS Information (V1 0-25 to 0-5 and 3-5)</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/MEMS information_V1_0-25 to 0-5 and 3-5.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/MEMS information_V1_0-25 to 0-5 and 3-5.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/MEMS information_V1_0-25 to 0-5 and 3-5.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/MEMS information_V1_0-25 to 0-5 and 3-5.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/MEMS information_V1_0-25 to 0-5 and 3-5.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 ## Sample Preparation
@@ -195,17 +225,23 @@ Collaboration required for QLIPP please contact the Core
 <details>
 <summary><strong>📄 Sample Preparation V4</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Sample_Preparation_V4.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Sample_Preparation_V4.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Sample_Preparation_V4.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Sample_Preparation_V4.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Sample_Preparation_V4.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Organoid Preparation</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Organoid preparation.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Organoid preparation.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Organoid preparation.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Organoid preparation.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Organoid preparation.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 ## Maintenance
@@ -213,7 +249,10 @@ Collaboration required for QLIPP please contact the Core
 <details>
 <summary><strong>📄 Cleaning Protocol v1.3</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Cleaning Protocol_v1.3.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Cleaning Protocol_v1.3.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Cleaning Protocol_v1.3.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Cleaning Protocol_v1.3.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/QLIPP-Timelaps/Cleaning Protocol_v1.3.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>

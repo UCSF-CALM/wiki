@@ -97,33 +97,45 @@ and a TB 355-405-473 dichroic mirror)
 <details>
 <summary><strong>📄 Triggering a Device from Multiple Cameras (Arduino Setup)</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/W1/W1 set up-arduino.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/W1/W1 set up-arduino.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/W1/W1 set up-arduino.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/W1/W1 set up-arduino.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/W1/W1 set up-arduino.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 Interlocking Multiple Devices on a Microscope</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/W1/W1-interlocking-multiple devices.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/W1/W1-interlocking-multiple devices.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/W1/W1-interlocking-multiple devices.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/W1/W1-interlocking-multiple devices.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/W1/W1-interlocking-multiple devices.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 BNC Breakout Board Images</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/W1/w1-board-wiringpicitre.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/W1/w1-board-wiringpicitre.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/W1/w1-board-wiringpicitre.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/W1/w1-board-wiringpicitre.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/W1/w1-board-wiringpicitre.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 <details>
 <summary><strong>📄 BNC Breakout Board Wiring Diagram</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/W1/W1 board wiring copy.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/W1/W1 board wiring copy.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/W1/W1 board wiring copy.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/W1/W1 board wiring copy.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/W1/W1 board wiring copy.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
 ## Firmware / Software
@@ -179,8 +191,11 @@ Laser powers measured out of 10x objective, each laser at 50 mW power
 <details>
 <summary><strong>📄 FRAP Guide</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/W1/FRAP Set up W1-v2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/microscope/W1/FRAP Set up W1-v2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/microscope/W1/FRAP Set up W1-v2.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/microscope/W1/FRAP Set up W1-v2.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/W1/FRAP Set up W1-v2.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
 </details>
 
