@@ -12,12 +12,12 @@ date: Sep 23, 2020
 
 # Videotaped lectures
 
-These are [posted at this link as they are
-filmed.](http://lecture.ucsf.edu/ETS/Catalog/Full/fb6f6e88696444d4b34d5d2c010b434221 "http://lecture.ucsf.edu/ETS/Catalog/Full/fb6f6e88696444d4b34d5d2c010b434221") (UCSF login required)
+These are [posted at this link as they are
+filmed.](http://lecture.ucsf.edu/ETS/Catalog/Full/fb6f6e88696444d4b34d5d2c010b434221 "http://lecture.ucsf.edu/ETS/Catalog/Full/fb6f6e88696444d4b34d5d2c010b434221") (UCSF login required)
 
 ## Useful background reading
 
-### Mike Davidson\'s Websites
+### Mike Davidson's Websites
 
 - [Molecular
  Expressions](http://micro.magnet.fsu.edu/ "http://micro.magnet.fsu.edu/")
@@ -48,155 +48,228 @@ Lectures are held in Rock Hall 102 from 10-11:30 am on Tuesdays and
 Thursdays. Schedule (subject to change; slides will be linked here as
 they become available):
 
-1. April
- 2:  (attachment) Lecture 1: What is light;
- the transmitted light microscope (Kurt
- Thorn) (attachment)
+### Lecture 1 - April 2: What is light; the transmitted light microscope (Kurt Thorn)
 
-2. April 4: Lecture 2: Resolution and objective corrections (Kurt
- Thorn) (attachment)
+<details>
+<summary><strong>📄 Lecture 1 - Microscopy I</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-2-microscopy_i_new.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-2-microscopy_i_new.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-2-microscopy_i_new.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-3. April
- 9:  (attachment)Brightfield contrasting;
- Phase / DIC (Orion
- Weiner) (attachment)
+### Lecture 2 - April 4: Resolution and objective corrections (Kurt Thorn)
 
-4. April 11: Fluorescence and fluorescence optics (Nico
- Stuurman) (attachment)
+<details>
+<summary><strong>📄 Lecture 2 - Microscopy II</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-4-microscopy_ii_new.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-4-microscopy_ii_new.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-4-microscopy_ii_new.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-5. April
- 16:  (attachment)Cameras, detectors, and light
- sources (Nico
- Stuurman (attachment)) (attachment)
+### Lecture 3 - April 9: Brightfield contrasting; Phase / DIC (Orion Weiner)
 
-6. April 18: PSF, resolution, and fourier optics (Kurt
- Thorn) (attachment)
+<details>
+<summary><strong>📄 Lecture 3 - Phase Contrast and DIC</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-9-weinerdicphase2012.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-9-weinerdicphase2012.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-9-weinerdicphase2012.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-7. April 23: Immunofluorescence, small molecule dyes, Qdots, etc.
- (Kurt
- Thorn) (attachment)
+### Lecture 4 - April 11: Fluorescence and fluorescence optics (Nico Stuurman)
 
-8. April 25: Fluorescent proteins (Kurt
- Thorn) (attachment)
+<details>
+<summary><strong>📄 Lecture 4 - Fluorescence</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-11-fluorescence_ucsf_mcourse_2013.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-11-fluorescence_ucsf_mcourse_2013.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-11-fluorescence_ucsf_mcourse_2013.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-9. April 30: Optical sectioning: Confocal (Kurt
- Thorn) (attachment)
+### Lecture 5 - April 16: Cameras, detectors, and light sources (Nico Stuurman)
 
-10. May 2: Optical sectioning: TIRF, 2p and SPIM (Kurt
- Thorn) (attachment)
+<details>
+<summary><strong>📄 Lecture 5 - Detectors and Light Sources</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-16-ucsf_mcourse_2013_detectors_lightsources.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-16-ucsf_mcourse_2013_detectors_lightsources.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-16-ucsf_mcourse_2013_detectors_lightsources.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-11. May 7: Special techniques: FRAP, FRET, FLIM, etc. (Holly Aaron)
+### Lecture 6 - April 18: PSF, resolution, and fourier optics (Kurt Thorn)
 
-12. May 9: Optical sectioning: Deconvolution (David
- Agard) (attachment)
+<details>
+<summary><strong>📄 Lecture 6 - Microscopy III</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-18-microscopy_iii_new.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-18-microscopy_iii_new.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-18-microscopy_iii_new.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-13. May 14: Super-resolution: STED and SIM (Bo
- Huang) (attachment)
+### Lecture 7 - April 23: Immunofluorescence, small molecule dyes, Qdots, etc. (Kurt Thorn)
 
-14. May 16: Super-resolution: Localization Microscopy (Bo
- Huang) (attachment)
+<details>
+<summary><strong>📄 Lecture 7 - Fluorescence and Small Molecule Probes</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-23-fluorescence_-_small_molecule_probes.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-23-fluorescence_-_small_molecule_probes.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-23-fluorescence_-_small_molecule_probes.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-15. May 21: Fluorescent reporters and probes (Mark von Zastrow)
+### Lecture 8 - April 25: Fluorescent proteins (Kurt Thorn)
 
-16. May 23: Live Cell Imaging and Phototoxicity (Kurt
- Thorn) (attachment)
+<details>
+<summary><strong>📄 Lecture 8 - Genetically Encoded Tags</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-25-genetically_encoded_tags.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-25-genetically_encoded_tags.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-25-genetically_encoded_tags.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-17. May 28: Optical Control of Living systems (Orion Weiner)
+### Lecture 9 - April 30: Optical sectioning: Confocal (Kurt Thorn)
 
-18. May 30: Intravital microscopy and 2 photon (Max Krummel)
+<details>
+<summary><strong>📄 Lecture 9 - Confocal</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-30-confocal.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-30-confocal.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/April-30-confocal.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-19. June 4: Image Analysis (Nico Stuurman)
+### Lecture 10 - May 2: Optical sectioning: TIRF, 2p and SPIM (Kurt Thorn)
 
-20. June 6: Electron Microscopy (Yifan Cheng)
+<details>
+<summary><strong>📄 Lecture 10 - TIRF, 2-Photon, and SPIM</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-2-tirf_2p_spim.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-2-tirf_2p_spim.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-2-tirf_2p_spim.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
+
+### Lecture 11 - May 7: Special techniques: FRAP, FRET, FLIM, etc. (Holly Aaron)
+
+*(No slides available)*
+
+### Lecture 12 - May 9: Optical sectioning: Deconvolution (David Agard)
+
+<details>
+<summary><strong>📄 Lecture 12 - Deconvolution</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-9-deonvolutionclass.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-9-deonvolutionclass.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-9-deonvolutionclass.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
+
+### Lecture 13 - May 14: Super-resolution: STED and SIM (Bo Huang)
+
+<details>
+<summary><strong>📄 Lecture 13 - Super-resolution by Patterned Illumination</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-14-super-resolution_by_patterned_illumination.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-14-super-resolution_by_patterned_illumination.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-14-super-resolution_by_patterned_illumination.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
+
+### Lecture 14 - May 16: Super-resolution: Localization Microscopy (Bo Huang)
+
+<details>
+<summary><strong>📄 Lecture 14 - Super-resolution by Single-Molecule Switching</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-16-super-resolution_by_single-molecule_switching.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-16-super-resolution_by_single-molecule_switching.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-16-super-resolution_by_single-molecule_switching.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
+
+### Lecture 15 - May 21: Fluorescent reporters and probes (Mark von Zastrow)
+
+*(No slides available)*
+
+### Lecture 16 - May 23: Live Cell Imaging and Phototoxicity (Kurt Thorn)
+
+<details>
+<summary><strong>📄 Lecture 16 - Live Cell Imaging</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-23-live_cell_imaging.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-23-live_cell_imaging.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/May-23-live_cell_imaging.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
+
+### Lecture 17 - May 28: Optical Control of Living systems (Orion Weiner)
+
+*(No slides available)*
+
+### Lecture 18 - May 30: Intravital microscopy and 2 photon (Max Krummel)
+
+*(No slides available)*
+
+### Lecture 19 - June 4: Image Analysis (Nico Stuurman)
+
+*(No slides available)*
+
+### Lecture 20 - June 6: Electron Microscopy (Yifan Cheng)
+
+*(No slides available)*
 
 ## Image Analysis Lab
 
 For the image analysis lab, you will need to download and install
-the [Fiji](http://fiji.sc/ "http://fiji.sc/") distribution of ImageJ. Fiji is free and available for
-both Macs and PCs. The download the manual and files below.
+the [Fiji](http://fiji.sc/ "http://fiji.sc/") distribution of ImageJ. Fiji is free and available for
+both Macs and PCs. Download the manual and files below.
 
-- Lab
- manual (attachment)
+<details>
+<summary><strong>📄 Image Analysis Lab Manual</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/image_analysis_lab.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/image_analysis_lab.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/Spring2013UCSFCourse/image_analysis_lab.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
 - [Image analysis
  files](https://ucsfonline-my.sharepoint.com/:f:/g/personal/kari_herrington_ucsf_edu/EmTyr8eZL9hDm2tT8-t8xBQBiGPLnhG6Q1FYDbFJ5gnSYA?e=QLbEeF)
-
-## Attachments:
-
-[microscopy_i_new.pptx](attachments/517197331/517197346.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[microscopy_ii_new.pptx](attachments/517197331/517197347.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[weinerdicphase2012.pdf](attachments/517197331/517197350.pdf)
-(application/pdf)\
-
-[April-11-fluorescence_ucsf_mcourse_2013.ppt](attachments/517197331/517197399.ppt)
-(application/vnd.ms-powerpoint)\
-
-[April-16-ucsf_mcourse_2013_detectors_lightsources.ppt](attachments/517197331/517197400.ppt)
-(application/vnd.ms-powerpoint)\
-
-[april18-microscopy_ii_new.pptx](attachments/517197331/517197371.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April-23-fluorescence\_-\_small_molecule_probes.pptx](attachments/517197331/517197402.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April-25-genetically_encoded_tags.pptx](attachments/517197331/517197405.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April30-confocal.pptx](attachments/517197331/517197376.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April30-confocal.pptx](attachments/517197331/517197374.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April-2-microscopy_i_new.pptx](attachments/517197331/517197395.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April-4-microscopy_ii_new.pptx](attachments/517197331/517197397.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April-9-weinerdicphase2012.pdf](attachments/517197331/517197398.pdf)
-(application/pdf)\
-
-[April-11-fluorescence_ucsf_mcourse_2013.ppt](attachments/517197331/517197368.ppt)
-(application/vnd.ms-powerpoint)\
-
-[April-16-ucsf_mcourse_2013_detectors_lightsources.ppt](attachments/517197331/517197369.ppt)
-(application/vnd.ms-powerpoint)\
-
-[April-18-microscopy_iii_new.pptx](attachments/517197331/517197401.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April-23-fluorescence\_-\_small_molecule_probes.pptx](attachments/517197331/517197372.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April-25-genetically_encoded_tags.pptx](attachments/517197331/517197373.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[April-30-confocal.pptx](attachments/517197331/517197407.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[May-9-deonvolutionclass.pdf](attachments/517197331/517197417.pdf)
-(application/pdf)\
-
-[May-14-super-resolution_by_patterned_illumination.pdf](attachments/517197331/517197418.pdf)
-(application/pdf)\
-
-[May-16-super-resolution_by_single-molecule_switching.pdf](attachments/517197331/517197419.pdf)
-(application/pdf)\
-
-[May-23-live_cell_imaging.pptx](attachments/517197331/517197420.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[May-2-tirf_2p_spim.pdf](attachments/517197331/517197426.pdf)
-(application/pdf)\
-
-[image_analysis_lab.pdf](attachments/517197331/517197433.pdf)
-(application/pdf)\
-
-[3color.7z](attachments/517197331/517197459.7z)
-(application/octet-stream)\

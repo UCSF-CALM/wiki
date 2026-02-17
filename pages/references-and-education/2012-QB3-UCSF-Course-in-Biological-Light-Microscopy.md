@@ -13,70 +13,118 @@ date: Sep 17, 2020
 
 Monday:
 
-- Kurt: Introduction, Microscope optical
- path (attachment)
+<details>
+<summary><strong>📄 Kurt: Introduction, Microscope optical path</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Kurt-IntroMicroscopeOpt2012-QB3UCSFcourse.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Kurt-IntroMicroscopeOpt2012-QB3UCSFcourse.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Kurt-IntroMicroscopeOpt2012-QB3UCSFcourse.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Bo: Fluorescence
- Optics (attachment)
+<details>
+<summary><strong>📄 Bo: Fluorescence Optics</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Bo-fluorescence_optics-2012-QB3UCSFcourse.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Bo-fluorescence_optics-2012-QB3UCSFcourse.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Bo-fluorescence_optics-2012-QB3UCSFcourse.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
 Tuesday:
 
-- Nico: Cameras and
- detectors (attachment)
+<details>
+<summary><strong>📄 Nico: Cameras and detectors</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Nico-UCSF_2012_03_detectors.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Nico-UCSF_2012_03_detectors.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Nico-UCSF_2012_03_detectors.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Kurt: PSF, Resolution,
- abberations (attachment)
+<details>
+<summary><strong>📄 Kurt: PSF, Resolution, aberrations</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Kurt-2012-PSF-Resolution-abberationsmicroscopy_ii.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Kurt-2012-PSF-Resolution-abberationsmicroscopy_ii.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Kurt-2012-PSF-Resolution-abberationsmicroscopy_ii.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Bo: Fluorescent
- Dyes (attachment)
+<details>
+<summary><strong>📄 Bo: Fluorescent Dyes</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Bo-fluorescence_Dyes-2012-QB3UCSFcourse.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Bo-fluorescence_Dyes-2012-QB3UCSFcourse.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Bo-fluorescence_Dyes-2012-QB3UCSFcourse.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
 Thursday:
 
-- Regan: Light
- Sources (attachment)
+<details>
+<summary><strong>📄 Regan: Light Sources</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Regan-2012qb3talk_-_light_sources.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Regan-2012qb3talk_-_light_sources.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Regan-2012qb3talk_-_light_sources.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Rachit:
- EMCCDs (attachment)
+<details>
+<summary><strong>📄 Rachit: EMCCDs</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Rachit-2012photometrics_-_qb3_presentation_-_emccds.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Rachit-2012photometrics_-_qb3_presentation_-_emccds.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Rachit-2012photometrics_-_qb3_presentation_-_emccds.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Orla:
- sCMOS (attachment)
+<details>
+<summary><strong>📄 Orla: sCMOS</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Orla-2012scmos_ucsf.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Orla-2012scmos_ucsf.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Orla-2012scmos_ucsf.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
 Friday:
 
-- Nico: Image
- Analysis (attachment)
+<details>
+<summary><strong>📄 Nico: Image Analysis</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/NicoUCSF_2012_03_digitalImages.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/NicoUCSF_2012_03_digitalImages.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/NicoUCSF_2012_03_digitalImages.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Bo: Super-resolution
- microscopy (attachment)
-
-## Attachments:
-
-[Kurt-IntroMicroscopeOpt2012-QB3UCSFcourse.pptx](attachments/517193525/517193530.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Bo-fluorescence_optics-2012-QB3UCSFcourse.pdf](attachments/517193525/517193543.pdf)
-(application/pdf)\
-
-[Nico-UCSF_2012_03_detectors.ppt](attachments/517193525/517193552.ppt)
-(application/vnd.ms-powerpoint)\
-
-[Kurt-2012-PSF-Resolution-abberationsmicroscopy_ii.pptx](attachments/517193525/517193553.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Bo-fluorescence_Dyes-2012-QB3UCSFcourse.pdf](attachments/517193525/517193554.pdf)
-(application/pdf)\
-
-[Regan-2012qb3talk\_-\_light_sources.ppt](attachments/517193525/517193558.ppt)
-(application/vnd.ms-powerpoint)\
-
-[Rachit-2012photometrics\_-\_qb3_presentation\_-\_emccds.pptx](attachments/517193525/517193559.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Orla-2012scmos_ucsf.pptx](attachments/517193525/517193561.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Bo-super-resolution_optical_microscopy-2012.pdf](attachments/517193525/517193562.pdf)
-(application/pdf)\
-
-[NicoUCSF_2012_03_digitalImages.ppt](attachments/517193525/517193563.ppt)
-(application/vnd.ms-powerpoint)\
+<details>
+<summary><strong>📄 Bo: Super-resolution microscopy</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Bo-super-resolution_optical_microscopy-2012.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Bo-super-resolution_optical_microscopy-2012.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2012-OB3-UCSFCourse/Bo-super-resolution_optical_microscopy-2012.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>

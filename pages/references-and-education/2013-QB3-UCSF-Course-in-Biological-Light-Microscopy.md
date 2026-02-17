@@ -13,73 +13,129 @@ author: Herrington, Kari
 
 ### Monday
 
-- Bo Huang - What is
- Light (attachment)
+<details>
+<summary><strong>📄 Bo Huang - What is Light</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Monday-Bo-what_is_light.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Monday-Bo-what_is_light.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Monday-Bo-what_is_light.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Kurt Thorn - Introduction to
- Microscopy (attachment)
+<details>
+<summary><strong>📄 Kurt Thorn - Introduction to Microscopy</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Mon-Kurt-2013_microscopy_i.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Mon-Kurt-2013_microscopy_i.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Mon-Kurt-2013_microscopy_i.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Ryan McGorty - Phase Contrast and
- DIC (attachment)
+<details>
+<summary><strong>📄 Ryan McGorty - Phase Contrast and DIC</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Mon-Ryan-phasecontrastanddic_small.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Mon-Ryan-phasecontrastanddic_small.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Mon-Ryan-phasecontrastanddic_small.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Bo Huang - Fluorescence
- Optics (attachment)
+<details>
+<summary><strong>📄 Bo Huang - Fluorescence Optics</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Mon-Bo-fluorescence_optics.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Mon-Bo-fluorescence_optics.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Mon-Bo-fluorescence_optics.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
 ### Tuesday
 
-- Ryan McGorty -
- Cameras (attachment)
+<details>
+<summary><strong>📄 Ryan McGorty - Cameras</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Tues-Ryan-cameralecture_2013-03-26_rjm.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Tues-Ryan-cameralecture_2013-03-26_rjm.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Tues-Ryan-cameralecture_2013-03-26_rjm.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Kurt Thorn - Resolution, PSFs, and Fourier
- Optics (attachment)
+<details>
+<summary><strong>📄 Kurt Thorn - Resolution, PSFs, and Fourier Optics</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Tues-Kurt-microscopy_ii.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Tues-Kurt-microscopy_ii.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Tues-Kurt-microscopy_ii.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Bo Huang - Fluorescent
- Dyes (attachment)
+<details>
+<summary><strong>📄 Bo Huang - Fluorescent Dyes</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Tues-Bo-fluorescence_dyes.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Tues-Bo-fluorescence_dyes.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Tues-Bo-fluorescence_dyes.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
 ### Wednesday
 
-- Max Krummel - 2-photon
- microscopy (attachment)
+<details>
+<summary><strong>📄 Max Krummel - 2-photon microscopy</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Wed-max_-_2p_principles.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Wed-max_-_2p_principles.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Wed-max_-_2p_principles.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Jennifer Fung - Live cell
- imaging (attachment)
+<details>
+<summary><strong>📄 Jennifer Fung - Live cell imaging</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Wed-Jenniferlecture_in_vivo_microscopy.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Wed-Jenniferlecture_in_vivo_microscopy.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Wed-Jenniferlecture_in_vivo_microscopy.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
 ### Friday
 
-- Kurt Thorn- Image
- Analysis (attachment)
+<details>
+<summary><strong>📄 Kurt Thorn - Image Analysis</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Fri-Kurtimage_analysis.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Fri-Kurtimage_analysis.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Fri-Kurtimage_analysis.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
-- Bo Huang -
- Super-resolution (attachment)
-
-## Attachments:
-
-[Mon-Bo-fluorescence_optics.pdf](attachments/517198168/517198169.pdf)
-(application/pdf)\
-
-[Mon-Kurt-2013_microscopy_i.pptx](attachments/517198168/517198170.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Monday-Bo-what_is_light.pdf](attachments/517198168/517198171.pdf)
-(application/pdf)\
-
-[Mon-Ryan-phasecontrastanddic_small.pptx](attachments/517198168/517198173.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Tues-Ryan-cameralecture_2013-03-26_rjm.pptx](attachments/517198168/517198174.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Tues-Kurt-microscopy_ii.pptx](attachments/517198168/517198176.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Tues-Bo-fluorescence_dyes.pdf](attachments/517198168/517198177.pdf)
-(application/pdf)\
-
-[Wed-Jenniferlecture_in_vivo_microscopy.pptx](attachments/517198168/517198178.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Fri-Kurtimage_analysis.pptx](attachments/517198168/517198179.pptx)
-(application/vnd.openxmlformats-officedocument.presentationml.presentation)\
-
-[Fri-bo-super-resolution_optical_microscopy.pdf](attachments/517198168/517198180.pdf)
-(application/pdf)\
+<details>
+<summary><strong>📄 Bo Huang - Super-resolution</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Fri-bo-super-resolution_optical_microscopy.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Fri-bo-super-resolution_optical_microscopy.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Courses/2013-QB3-UCSFCourse/Fri-bo-super-resolution_optical_microscopy.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
