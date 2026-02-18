@@ -7,7 +7,7 @@ date: Sep 23, 2020
 
 # Principles and Practices of Light Microscopy (Spring 2013)
 
-3. [Microscopy References and
+##### [Microscopy References and
  Education](Microscopy-References-and-Education.html)
 
 # Videotaped lectures

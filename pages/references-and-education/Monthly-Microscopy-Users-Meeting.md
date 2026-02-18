@@ -6,7 +6,7 @@ author: Herrington, Kari
 
 # Monthly Microscopy Users Meeting
 
-3. [Microscopy References and
+#### [Microscopy References and
  Education](Microscopy-References-and-Education.html)
 
 In order to try and build a sense of community among the microscopists

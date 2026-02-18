@@ -21,10 +21,7 @@ author: Delaine Larsen
 - [Figure
  Making](https://ucsf.box.com/v/FigureMakingWorkshop050820)
 
-### Microscopy Users Meeting
 
-[Microscopy Users Meeting
-Schedule](Monthly-Microscopy-Users-Meeting.html)
 
 ### 2011 Microscopy Bootcamp Lectures
 

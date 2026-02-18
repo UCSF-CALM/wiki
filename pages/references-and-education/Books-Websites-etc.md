@@ -6,7 +6,7 @@ author: Delaine Larsen
 
 # Books, Websites, Etc
 
-3. [Microscopy References and
+#### [Microscopy References and
  Education](Microscopy-References-and-Education.html)
 
 #### General Microscopy
