@@ -6,8 +6,21 @@ author: Delaine Larsen
 
 # Presentations
 
-3. [Microscopy References and
+#### [Microscopy References and
  Education](Microscopy-References-and-Education.html)
+
+### Introduction to Light Microscopy Class
+
+<details>
+<summary><strong>📄 Introduction to Light Microscopy at CALM</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/presentations/IntroductionToLightMicroscopyatCALM-kariorder.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
+</div>
+<p style="margin-top: 0.5em;">
+  <a href="{{ '/assets/pdf/presentations/IntroductionToLightMicroscopyatCALM-kariorder.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
+  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/presentations/IntroductionToLightMicroscopyatCALM-kariorder.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
+</p>
+</details>
 
 ### Kari's 2020 Webinars (box links)
 
@@ -428,3 +441,5 @@ author: Delaine Larsen
   &nbsp;|&nbsp; <a href="{{ '/assets/pdf/MicroscopyReferences and education/Presentations/AlicePresentationSamplePrep/sample_prep-newest_version_3_.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
 </p>
 </details>
+
+
