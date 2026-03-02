@@ -126,10 +126,10 @@ Neutral density filters for lasers
 ### Data Handling
 
 The Data is big! make sure to get on our server, visit the [Data Storage
-and Compute](Data-Storage-and-Compute.html) page
+and Compute](../data-analysis/Data-Storage-and-Compute.html) page
 
 [Python scripts page for
-Luxendo](Python-Scripts-for-TruLive.html)
+Luxendo](../data-analysis/Python-Scripts-for-TruLive.html)
 
 [Luxendo Image Git
 Hub](https://github.com/Luxendo/luxendo-image)

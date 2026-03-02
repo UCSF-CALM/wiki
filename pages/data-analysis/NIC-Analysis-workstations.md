@@ -10,7 +10,7 @@ author: Stuurman, Nico
 
 The following Analysis workstations have high speed (10Gb) access to the
 mic.ucsf.edu file server and can be booked through
-[iLabs](Miscellaneous.html).
+[iLabs](../calm-information/iLab.html).
 
 ### NIC-Analysis-2
 

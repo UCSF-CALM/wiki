@@ -51,7 +51,7 @@ navigation:
     link: ./pages/data-analysis/Data-Analysis.html
     sublist:
       - name: Workstations
-        link: ./pages/data-analysis/Data-Analysis-Workstations.html
+        link: ./pages/data-analysis/NIC-Analysis-workstations.html
       - name: Storage & Compute
         link: ./pages/data-analysis/Data-Storage-and-Compute.html
       - name: Fiji/ImageJ

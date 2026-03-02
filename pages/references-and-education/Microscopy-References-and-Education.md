@@ -13,4 +13,4 @@ date: Aug 31, 2020
 
 ##### [Books, Websites, Etc](Books-Websites-etc.html)
 
-##### [User Quick Start Guides](User-Quick-Start-Guides.html)
+##### [User Quick Start Guides](../calm-information/User-Quick-Start-Guides.html)

@@ -116,4 +116,4 @@ author: Delaine Larsen
 
  ## Information For Imaging
 
- [STORM resources](STORM-sample-preparation-and-imaging.html)
+ [STORM resources](../sample-preparation/STORM-sample-preparation-and-imaging.html)

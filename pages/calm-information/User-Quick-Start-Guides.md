@@ -7,7 +7,7 @@ author: Delaine Larsen
 # User Quick Start Guides
 
 3. [Microscopy References and
- Education](Microscopy-References-and-Education.html)
+ Education](../references-and-education/Microscopy-References-and-Education.html)
 
 
 # Color and bright field imaging quick guides:

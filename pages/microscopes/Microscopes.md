@@ -47,7 +47,7 @@ including technical details and information for end users.
 ### [Other equipment and objectives](Other-Equipment-and-Objectives.html)
 
 
-### **[Acknowledgments](Acknowledgements.html)**
+### **[Acknowledgments](../calm-information/Acknowledgements.html)**
 
 
-### **[Methods Examples](Methods-Examples.html)**
+### **[Methods Examples](../references-and-education/Methods-Examples.html)**

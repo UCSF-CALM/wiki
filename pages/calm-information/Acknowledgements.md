@@ -12,7 +12,7 @@ date: Feb 09, 2024
 **Please also remember to include information about your microscopes for
 reproducible data!  We have some examples of methods reporting of
 microscopes: [Examples of Microscope
-Methods](Examples-of-Microscope-Methods.html)**
+Methods](../references-and-education/Examples-of-Microscope-Methods.html)**
 
 ## **CALM-NIC**
 

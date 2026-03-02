@@ -13,7 +13,7 @@ components (i.e. the lenses, channels used, DIC, etc..)
 # Examples for 6D microscope
 
 [See 6D microscope hardware specifications here for more
-details](6D.html)
+details](../microscopes/6D.html)
 
 ## Set up: Fluorescent and Brightfield imaging using a 10X lens
 
@@ -34,7 +34,7 @@ details](6D.html)
 
 # Examples for CSU-W1
 
-[See CSU-W1/Highspeed hardware specifications here](CSU-W1.html) for
+[See CSU-W1/Highspeed hardware specifications here](../microscopes/CSU-W1.html) for
 more details
 
 ## Set up: CSU-W1, sCMOS Camera, 100X lens, 3 channel images - Red, green, blue
@@ -55,7 +55,7 @@ more details
 # Examples for CREST/C2
 
 [See CREST/C2 hardware specifications here for more
-details](Crest-C2.html)
+details](../microscopes/Crest-C2.html)
 
 Set up: CREST, 100X
 
