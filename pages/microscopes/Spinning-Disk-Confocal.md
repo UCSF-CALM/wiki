@@ -59,6 +59,7 @@ author: Delaine Larsen
 - Nikon XY stage
 - Mad City Lab Piezo Stage (100um)
 - Okolab enclosure and Bold Line incubator
+- NI PXI-1033 Controller; 5 Slot PXI Xchassis with Integrated MXIController
 
 ### Lasers
 
@@ -85,12 +86,15 @@ author: Delaine Larsen
 
 ### PC
 
-- Windows 10 Enterprise
-- Core i7 3.4GHz
-- 16 GB RAM
-- NVidia GTX550Ti
+- Windows 11
+- HP Z4
+- Intel Xeon 3.6 GHzprocessor (4 cores)
+- 32 GB RAM DDR4 2666 Mhz
+- NVIDIA RTX 4000 8GB
+- 512GBTurbo M.2 OS drive
 - 240GB SSD
-- 2TB Hard drive (RAID 1)
+- 2x2TB HDD storage
+
 
 ### Software
 
@@ -99,12 +103,3 @@ author: Delaine Larsen
 - Micro-Manager 1.4 (20170102)
 
 
-### Quick guides
-
-[CSU-22 Epi fluorescence.pdf](attachments/517178889/663990548.pdf)
-
-## Attachments:
-
- [CSU-22 Epi
-fluorescence.pdf](attachments/517178889/663990548.pdf)
-(application/pdf)\

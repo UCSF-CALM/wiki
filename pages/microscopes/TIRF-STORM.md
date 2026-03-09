@@ -101,12 +101,13 @@ author: Delaine Larsen
 
 ### PC
 
-- Intel(R) Xeon(R) W-2245 CPU @ 3.90GHz, 3912 Mhz, 8 Core(s)
-- 64 GB RAM
-- 64 bit Windows 10 Pro
-- NVidia RTX 4000
-- 500GB C: Hard drive
-- 1TB D: Hard drive (RAID 1)
+- HP Z4 
+- Intel Xeon 3.7 GHzprocessor (8 cores),
+- 64GB DDR4 2666 Mhz RA
+- NVIDIA RTX4000 8GB
+- 512GBM.2 Turbo SSD O/S drive
+- 1TB M.2 Turbo SSD data drive
+- 12TB datastorage
 
 ### Software
 
