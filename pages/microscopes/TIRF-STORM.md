@@ -38,6 +38,8 @@ author: Delaine Larsen
 5. Empty
 6. Empty
 
+### FRAP unit  v
+
 ### Emission Wheel (Andor Du897)
 
 1. ET455/50m
@@ -82,13 +84,9 @@ author: Delaine Larsen
 ### Interface Requirements
 
 - Camera link board- Orca Flash 4 PCIe- 1x-CLD-2PE8
-- [CCI-24 ]PCIe[ controller ]card-
- Andor DU897
-
-- [NI PCI 6723 board connected though PXI box -Agilent Lasers MLC
- 400B ]
- - [Custom board added for FRAP
- integration]
+- CCI-24- PCIe controller card-Andor DU897
+- NI PCI 6723 board connected though PXI box -Agilent Lasers MLC 400B 
+- Custom board added for FRAPintegration
 - USB for Sutter 10-B
 - USB Oko lab bold line
 - USB - Nikon Ti
@@ -115,6 +113,7 @@ author: Delaine Larsen
 - how to cite Micro
  Manager: https://micro-manager.org/Citing_Micro-Manager
 
- ## Information For Imaging
+## Information For Imaging
 
  [STORM resources](../sample-preparation/STORM-sample-preparation-and-imaging.html)
+ [Lab Rigger TIRF Teaching materials](http://labrigger.com/blog/2011/11/12/tirf-teaching-materials/)

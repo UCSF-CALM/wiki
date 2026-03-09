@@ -24,23 +24,21 @@ author: Delaine Larsen
 2. GFP/mRFP1
 3. CFP/YFP (86002bs Chroma)
 4. Analyzer
-5. QLIPP analyzer (Circular Polarizer for 532nm, Right-handed (ThorLabs
- CP1R532))
-
+5. Empty
 6. FURA2 (Emission Filter within Cube)
 
-### Excitation from Lambda 421
+### Excitation from Lambda 821
 
 
- LED wavelength Filter in front of LED
- ---------------- ------------------------
- 340 nm FF01-340/26-25-STR
- 380 nm FF01-389/38-25-STR
- 440 nm FF01-445/40-25-STR
- 480 nm FF01-480/40-25-STR
- 530 nm FF01-504/12-STR
- 561 nm FF01-562/40-25-STR
- 630 nm FF01-630/38-25-STR
+ |LED wavelength | Filter in front of LED |
+ |---------------- | ------------------------ |
+ | 340 nm | FF01-340/26-25-STR |
+ | 380 nm | FF01-389/38-25-STR |
+ | 440 nm | FF01-445/40-25-STR |
+ | 480 nm | FF01-480/40-25-STR |
+ | 530 nm | FF01-504/12-STR |
+ | 561 nm | FF01-562/40-25-STR |
+ | 630 nm | FF01-630/38-25-STR |
 
 ### Emission Wheel
 
@@ -77,9 +75,6 @@ author: Delaine Larsen
 
 - 1 serial port for 10-3
 - 3 USB connectors
-
-<!-- -->
-
 - 10-B  COM7 (USB)
 - NI PCI 6723 board
 
@@ -91,18 +86,18 @@ author: Delaine Larsen
 ### PC
 
 - NIC-HighSpeed2
-- Intel Core i7 4770K (3.50 GHz)
+- i9-10900X 3.70GHz
 - 32 GB RAM
 - Windows 10 Enterprise 64bit
-- 238 GB SSD Hard drive
-- 1 TB SSD Hard drive array (Raid 0)
-- 2 TB Hard drive (RAID 1)
-- NVIDA GeForce GTX 550Ti
-- Active Silicon FireBird Card
+- NVIDIA T660 (4GB)
+- 894GB SSD
+-  5.46TB HDD
+- Active Silicon FireBird Card (currently not in use for the Hammamstsu camera)
 
 ### Software
 
-- NIS-Elements 5.21.03 (Build 1489)
+- ~~NIS-Elements 5.21.03 (Build 1489)~~
+- MicroManager 2.0 (how to cite Micro- Manager: https://micro-manager.org/Citing_Micro-Manager)
 
 ### Excitation Wheel (filters if you used Lambda XL lamp for earlier experiments)
 
