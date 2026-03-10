@@ -87,3 +87,4 @@ Vortran laser launch
 ### Software
 
 - Nikon Elements 5.02 build 1266
+- MicroManager 2.0 (how to cite Micro- Manager: https://micro-manager.org/Citing_Micro-Manager)

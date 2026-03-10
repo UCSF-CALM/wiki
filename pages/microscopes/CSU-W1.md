@@ -9,15 +9,18 @@ author: Delaine Larsen
 ## [FPBASE](https://www.fpbase.org/microscope/rEXNDBCjfs9NtpVz8Z9dfj/)
 
 ## Objectives
-
-1. Plan Apo λ 10x / 0.45
-2. Plan Apo λ 20x / 0.75
-3. Apo LWD 40x / 1.15 WI
-4. Plan Apo 60x / 1.27 WI
-5. Plan Apo VC 100x / 1.4 Oil
-6. Apo TIRF 100x / 1.49 Oil
+|Objectve| Zyla nm/pixel | EMCCD HighRes nm/pixel|EMCCD LOV nm/pixel|
+ |---------------- | -------------- |-------------- |-------------- |
+| 1. Plan Apo λ 10x / 0.45| 649.3|667.1|1029|
+| 2. Plan Apo λ 20x / 0.75| 325.1|334.1|649.2|
+| 3. Apo LWD 40x / 1.15 WI| 163.9|169.1|328.6|
+| 4. Plan Flour 60x / 1.3 Oil| 163.9|169.1|328.6|
+| 5. Plan Apo VC 60x / 1.4 Oil|108.3| 111.9|217.5|
+| 6. Apo TIRF 100x / 1.49 Oil|64.6| 66.8|130.0|
 
 (only 10x and 20x are installed on Microscope; others are in cabinet)
+
+Note: EMCCD "High Res" has a 2X magnifier to make it a simular pixel size as the Zyla
 
 ## Filter Turret (top)
 

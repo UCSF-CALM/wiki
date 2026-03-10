@@ -9,29 +9,29 @@ author: Herrington, Kari
 ## Optics
 ### Objectives
 
-- PLAN APO [[λ 10X/0.45 NA]
-- [[PLAN FLUOR Ph1 10x/0.3 NA]
-- [[PLAN APO 40/X.0.95 NA]
-- [[Other objectives available in cabinet]
+- PLAN APO λ 10X/0.45 NA
+- PLAN FLUOR Ph1 10x/0.3 NA
+- PLAN APO 40/X.0.95 NA
+- Other objectives available in cabinet
 
 ### Filter Turret
 
 1. Analyzer
 2. QLIPP
 3. 89000 - Sedat Quad - ET
- 1. 425 to 466 nm
- 2. 503 to 542 nm
- 3. 571 to 628 nm
- 4. 661 to 728 nm
+    - 425 to 466 nm
+   - 503 to 542 nm
+   - 571 to 628 nm
+   - 661 to 728 nm
 4. Empty
 5. 89006 - CFP/YFP/mCherry - ET
- 1. 454 to 486 nm
- 2. 518 to 559 nm
- 3. 597 to 667 nm
+   - 454 to 486 nm
+   - 518 to 559 nm
+   - 597 to 667 nm
 6. 89006 - CFP/YFP/mCherry -ET
- 1. 454 to 486 nm
- 2. 518 to 559 nm
- 3. 597 to 667 nm
+   - 454 to 486 nm
+   - 518 to 559 nm
+   - 597 to 667 nm
 
 ### Excitation Wavelengths Spectra X
 

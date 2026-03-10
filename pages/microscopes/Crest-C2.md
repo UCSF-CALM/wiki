@@ -11,11 +11,12 @@ author: Delaine Larsen
 ## Optics
 ### Objectives
 
-1. CFI Plan Apo Lambda 10x /0.45
-2. CFI Plan Apo Lambda 20x/0.75
-3. CFI Plan Apo Lambda 40x/0.95 Corr
-4. CFI Plan Apo Lambda S 40x/1.25 Corr (Silicone)
-5. CFI Plan Apo Lambda 60x/1.4
+1. CFI Plan Apo Lambda 10x /0.45 - 1,132 nm/pixel
+2. CFI Plan Apo Lambda 20x/0.75 - 567 nm/pixel
+3. CFI Plan Apo Lambda 40x/0.95 Corr - 285 nm/pixel
+4. CFI Plan Apo Lambda S 40x/1.25 Corr (Silicone) - 285 nm/pixel
+5. CFI Plan Apo Lambda 60x/1.4 (Oil) - 187 nm/pixel
+6. CFI Pla Apo VC 100x/1.4 (Oil) - 114 nm/pixel
 
 ### Filter Turret 1
 

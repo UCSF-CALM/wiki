@@ -54,49 +54,7 @@ Analysis](../data-analysis/C-Trap-Data-Analysis.html)
 
 ## Manuals
 
-<details>
-<summary><strong>📄 C-Trap User Manual V4 2024</strong></summary>
-<div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
-</div>
-<p style="margin-top: 0.5em;">
-  <a href="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
-  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/C-trap/C_Trap_User_Manual_V4_2024 1.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
-</p>
-</details>
-
-<details>
-<summary><strong>📄 UCSF Operator Training</strong></summary>
-<div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
-</div>
-<p style="margin-top: 0.5em;">
-  <a href="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
-  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/C-trap/UCSF operator training.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
-</p>
-</details>
-
-<details>
-<summary><strong>📄 DyMo Confocal Guide</strong></summary>
-<div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
-</div>
-<p style="margin-top: 0.5em;">
-  <a href="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
-  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/C-trap/Dymo_Confocal_guide.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
-</p>
-</details>
-
-<details>
-<summary><strong>📄 C-Trap DyMo Software Training (UCSF)</strong></summary>
-<div class="embed-container">
-<iframe src="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" width="100%" height="600px" style="border: none;" loading="lazy"></iframe>
-</div>
-<p style="margin-top: 0.5em;">
-  <a href="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" target="_blank"><strong>↗ Open PDF in new tab</strong></a>
-  &nbsp;|&nbsp; <a href="{{ '/assets/pdf/microscope/C-trap/CTrap_DyMo_software_training_UCSF.pdf' | relative_url }}" download><strong>⬇ Download PDF</strong></a>
-</p>
-</details>
+Lumicks Manuals and documentation are only allowed to be shared internally per Lumicks guidlines. Please email the Core if you need access.
 
 ## Troubleshooting Tips:
 
@@ -138,19 +96,3 @@ Analysis](../data-analysis/C-Trap-Data-Analysis.html)
 
 
 
-## Attachments:
-
-[image-2025-3-6_10-32-14.png](attachments/698319820/698320527.png)
-(image/png)\
-
-[Dymo_Confocal_guide (2).pdf](attachments/698319820/698320529.pdf)
-(application/pdf)\
- [UCSF operator
-training (2).pdf](attachments/698319820/698320530.pdf)
-(application/pdf)\
-
-[C_Trap_User_Manual_V4_2024 1
-(1).pdf](attachments/698319820/698320537.pdf) (application/pdf)\
-
-[CTrap_DyMo_software_training_UCSF.pdf](attachments/698319820/698322107.pdf)
-(application/pdf)\

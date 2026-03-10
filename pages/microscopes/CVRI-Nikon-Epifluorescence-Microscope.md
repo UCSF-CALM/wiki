@@ -5,7 +5,7 @@ author: Delaine Larsen
 ---
 
 # CVRI Nikon Epifluorescence Microscope
-
+### <span style="color:red">**This microscope is no longer Operational! This page is being left up for historical information.**</span>
 **This microscope has been decommissioned.**
 
 ## [FPBASE](https://www.fpbase.org/microscope/QH6gEQqaM6fdq7SymCsoaH/)
