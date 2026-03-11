@@ -23,22 +23,7 @@ author: Delaine Larsen
  - Fiji
  - Cell Profiler
 
-### Analysis Workstation 3
 
-- - Windows 11 Pro
- - HP Z4 with Xeon 4.2G processor-6 core,
- - 128 GB RAM
- - 1TB M.2 DDS
- - 12TB SATA Drive
- - Navidia RTX A4000 16GB  GPU
-
-<!-- -->
-
-##### Software Installed
-
- - Nikon Elements
- - Fiji
- - Cell Profiler
 
 ### Analysis Workstation 4
 
@@ -55,6 +40,7 @@ author: Delaine Larsen
  - Nikon Elements
  - Fiji
  - Cell Profiler
+ - NIS- Elements 6.02
 
 
 ### OMX Stand-alone workstation
