@@ -36,39 +36,35 @@ after a training session.
 
 - ### BUA
 
- - One of the starred regions is not filled out (most often the BUA
+ - One of the starred regions is not filled out (most often the BUA)
 
- - [
 
 
 - ### The form has not been saved
 
  - If the is not complete or hasn\'t been fully saved, it will appear
  red
- - [
 
 <!-- -->
 
 - - Tor Fix open up the form and go to the bottom of the form and click
  \"save completed form\"
- - [
-
+ 
 
 - ### No Payment information/No Speedtype
 
  - The cost is 0, but you still need to select the speed type you would
  like to use under payment information.
+ - For any fee that will be added we will discuss with you before adding or applying
 
 <!-- -->
-
-- - [
 
 
 - ### The form was saved, but the request at the bottom was not clicked
 
  - There are two different save buttons! Please remember to click
  submit request to core at the bottom!
- - [
+ 
 
 ### To get back into your requar to check
 
@@ -76,41 +72,8 @@ after a training session.
  things by clicking on the blue arrow next to the request.
 
 
-[
-
 The only thing that will now change is the selection of the speed type
 will happen after you select the submit button, which is now at the top
 if that is the problem
 
 
-[
-
-
-## Attachments:
-
-[image-2025-3-20_17-46-24.png](attachments/701465591/701465809.png)
-(image/png)\
-
-[image-2025-3-20_17-46-24-1.png](attachments/701465591/701465810.png)
-(image/png)\
-
-[image-2025-3-20_17-46-24-2.png](attachments/701465591/701465811.png)
-(image/png)\
-
-[image-2025-3-20_17-46-24-3.png](attachments/701465591/701465812.png)
-(image/png)\
-
-[image-2025-3-20_17-46-24-4.png](attachments/701465591/701465813.png)
-(image/png)\
-
-[image-2025-3-20_17-46-24-5.png](attachments/701465591/701465814.png)
-(image/png)\
-
-[image-2025-3-20_17-46-24-6.png](attachments/701465591/701465815.png)
-(image/png)\
-
-[image-2025-3-20_17-46-24-7.png](attachments/701465591/701465816.png)
-(image/png)\
-
-[image-2025-3-20_17-46-24-8.png](attachments/701465591/701465817.png)
-(image/png)\
