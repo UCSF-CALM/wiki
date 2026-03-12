@@ -28,7 +28,6 @@ author: Herrington, Kari
  workstation you have booked, and on the right view plane, click
  Jump!
 
-[
 
 
 ## Tips
@@ -38,21 +37,4 @@ VPN will lead to remote access NOT working.
 Pay attention to the top icons to have higher quality. and be able to
 see the actual size of the screen!
 
-[
 
-[
-
-
-## Attachments:
-
-[image-2025-7-11_17-26-10.png](attachments/720372404/720372405.png)
-(image/png)\
-
-[image-2025-7-11_17-27-54.png](attachments/720372404/720372406.png)
-(image/png)\
-
-[image-2025-7-11_17-28-54.png](attachments/720372404/720372407.png)
-(image/png)\
-
-[image-2025-7-11_17-29-9.png](attachments/720372404/720372408.png)
-(image/png)\

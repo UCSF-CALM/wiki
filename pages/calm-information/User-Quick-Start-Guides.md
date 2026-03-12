@@ -10,80 +10,96 @@ author: Delaine Larsen
  Education](../references-and-education/Microscopy-References-and-Education.html)
 
 
-# Color and bright field imaging quick guides:
+# Color and Bright Field Imaging Quick Guides
 
 Note: These are geared towards bright field color imaging on the 6D
 microscope running NIS Elements 5.21. The steps for Kohler will be the
 same on any microscope.
 
-- Setting up Kohler on the Nikon
- TiE (attachment)
-- Setting up white balance in
- E (attachment)lements (attachment)(  (attachment)DS-Ri2 camera)
-- Shading correction for bright
- field (attachment)
-- Setting up and running large image Jobs for
- stitching (attachment)
-- Exporting stitched color
- images (attachment)
+<details>
+<summary><strong>📄 Auto White for Color Imaging in Elements</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/Auto White for Color Imaging in Elements.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Auto White for Color Imaging in Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
+<details>
+<summary><strong>📄 Shading Correction for Color Imaging in Elements</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/Shading Correction for Color Imaging in Elements.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Shading Correction for Color Imaging in Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+<details>
+<summary><strong>📄 Shading Correction for Fluorescence Imaging in Elements</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/Shading Correction for Fluorescence Imaging in Elements.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Shading Correction for Fluorescence Imaging in Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+<details>
+<summary><strong>📄 Taking a Stitched Large Image Using JOBS in Elements</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/Taking a Stitched Large Image Using JOBS in Elements.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Taking a Stitched Large Image Using JOBS in Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+<details>
+<summary><strong>📄 Export Stitched Images from Elements</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/export stiched Images-from elements.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/export stiched Images-from elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
 ## 6D Widefield High Throughput
 
-- Copy a jobs file to make it your own (Large stitch
- example) (attachment)
+<details>
+<summary><strong>📄 Setting Up 6D and Focusing on Sample</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/Setting Up 6D and Focusing on Sample.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Setting Up 6D and Focusing on Sample.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-## CSU-22 Microscope
+## Nikon Ti Base Reference
 
-- Epifluorescence
- Configuration (attachment)
-- Turning on 561 laser (Trouble shooting for no Cy3/red
- channel!!) (attachment)
+<details>
+<summary><strong>📄 Key Buttons on Nikon Ti Base</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/Key Buttons on Nikon Ti Base.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Key Buttons on Nikon Ti Base.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
+## CSU-W1 Spinning Disk
 
-## CSU-W1
+<details>
+<summary><strong>📄 FRAP Set up W1</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/FRAP Set up W1.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/FRAP Set up W1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-- RAPP
- (photomanipulation) (attachment)
+## CVRI Spinning Disk 2
 
-## Workstations
+<details>
+<summary><strong>📄 CVRI SD2 Startup Micro-Manager Info</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/CVRI-SD2-startup_MMinfo.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/CVRI-SD2-startup_MMinfo.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-- Converting images to ND2 from file
- sequence (attachment)
-
-## CAMM Microscope Quickstart with Slidebook
-
-- [Upright Spinning Disk
- Instructions](Upright-Spinning-Disk-Instructions.html)
-
-## Attachments:
-
- [Setting up
-kohler.pdf](attachments/517182146/607459757.pdf) (application/pdf)\
- [setting up
-BF-w-white-balanace.pdf](attachments/517182146/607459759.pdf)
-(application/pdf)\
- [Setting up
-BF-shadingcorrection updated.pdf](attachments/517182146/607459768.pdf)
-(application/pdf)\
- [Setting up
-BF-settingupjob.pdf](attachments/517182146/607459774.pdf)
-(application/pdf)\
- [Stitched
-image-export.pdf](attachments/517182146/607459776.pdf)
-(application/pdf)\
- [CSU-22 Epi
-fluorescence.pdf](attachments/517182146/663990553.pdf)
-(application/pdf)\
- [Convert file
-sequences.pdf](attachments/517182146/663990557.pdf) (application/pdf)\
- [FRAP Set up
-W1.pdf](attachments/517182146/689321843.pdf) (application/pdf)\
- [FRAP Set up
-W1.pdf](attachments/517182146/689321769.pdf) (application/pdf)\
-
-[NOCy3-Csu22.pdf](attachments/517182146/701474513.pdf)
-(application/pdf)\
-
-[CopyJobsFile.pdf](attachments/517182146/701474882.pdf)
-(application/pdf)\
+<details>
+<summary><strong>📄 CVRI SD2 Protocol Visual</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/CVRI_SD2_Protocol_Visual.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/CVRI_SD2_Protocol_Visual.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
