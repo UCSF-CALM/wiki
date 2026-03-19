@@ -21,7 +21,7 @@ author: Herrington, Kari
 1. Go to
  [https://remoteaccess.ucsf.edu/console](https://remoteaccess.ucsf.edu/console)
 2. Select Authenticate Using SAML Credentials → Log In
- 1. This will take you to a page where you will use your My Access
+ - This will take you to a page where you will use your My Access
  Log in
 3. On the Left will be the Jump Groups, select \"UCSF-CALM Remote\"
 4. Then there will be a list of computers to jump to, select the
