@@ -6,7 +6,7 @@ author: Herrington, Kari
 
 # Remote Access to the Workstations
 
-4. [NIC Analysis
+ [NIC Analysis
  workstations](NIC-Analysis-workstations.html)
 
 ## To get remote access, you must email Kari Herrington (Kari.herrington@ucsf.edu) or Micaela (Micaela.lasser@ucsf.edu)
@@ -21,7 +21,7 @@ author: Herrington, Kari
 1. Go to
  [https://remoteaccess.ucsf.edu/console](https://remoteaccess.ucsf.edu/console)
 2. Select Authenticate Using SAML Credentials → Log In
- - This will take you to a page where you will use your My Access
+    - This will take you to a page where you will use your My Access
  Log in
 3. On the Left will be the Jump Groups, select \"UCSF-CALM Remote\"
 4. Then there will be a list of computers to jump to, select the

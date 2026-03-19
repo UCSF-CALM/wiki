@@ -44,9 +44,21 @@ navigation:
         link: ./pages/microscopes/TruLive3D-Light-Sheet.html
       - name: C-Trap Optical Tweezers
         link: ./pages/microscopes/C-Trap-Optical-Tweezers.html
-      - name: CVRI Microscopes
+      - name: QLIPP Timelapse with Nanoindentor
+        link: ./pages/microscopes/QLIPP-Timelapse-with-Nanoindentor.html
+      - name: Snouty Light Sheet
+        link: ./pages/microscopes/Snouty.html
+      - name: CVRI Nikon Spinning Disk #1
         link: ./pages/microscopes/CVRI-Nikon-Spinning-Disk-Confocal.html
-   
+      - name: CVRI Nikon Spinning Disk #2
+        link: ./pages/microscopes/CVRI-NikonSpinningDiskConfocal2.html
+      - name: CVRI Leica SPE Confocal
+        link: ./pages/microscopes/CVRI-Leica-SPE-Confocal.html
+      - name: Other Equipment and Objectives
+        link: ./pages/microscopes/Other-Equipment-and-Objectives.html
+      - name: Data Analysis Workstations
+        link: ./pages/microscopes/Data-Analysis-Workstations.html
+
   - name: Data Analysis
     link: ./pages/data-analysis/Data-Analysis.html
     sublist:
