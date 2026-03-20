@@ -76,7 +76,13 @@ Tube lens Magnifier for detection objective
  1.  Splits emission light longer than 640 to one\
   camera and shorter than 640nm to a second camera.
 
-[Trulive diagram.pdf](attachments/674609376/698322817.pdf)
+<details>
+<summary><strong>📄 Dichroic Diagram</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/Trulive/Dichroic Diagram.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/Trulive/Dichroic Diagram.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
 ### Hardware
 
@@ -136,40 +142,40 @@ Hub](https://github.com/Luxendo/luxendo-image)
 
 Read here for the Data structure and opening:
 
-[Data Structure and Opening Data_030823.pdf](attachments/674609376/689314278.pdf)
+## Documentation
 
-TruLive Manual;
+### Manual
 
-NOTE: Important sections Fiji Set up and import starting on Page 20
+<details>
+<summary><strong>📄 TruLive Manual</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/Trulive/TreLiveManual.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/Trulive/TreLiveManual.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-[TruLive3D Imager Manual 20220720.pdf](attachments/674609376/689314280.pdf)
+### Photo Manipulation
 
+<details>
+<summary><strong>📄 Photomanipulation</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/Trulive/Photomanipulation.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/Trulive/Photomanipulation.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-### **Photo Manipulation**
+<details>
+<summary><strong>📄 Luxendo Photomanipulation</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/Trulive/LuxendoPhotomanipulation.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/Trulive/LuxendoPhotomanipulation.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-**[532 procedure.docx](attachments/674609376/689314369.docx)  [405 PM procedure-KH.docx](attachments/674609376/689319982.docx)  [TL3D_Photomanipulation_JCF_021723.docx](attachments/674609376/689314372.docx)**
-
-## Attachments:
-
- [Data Structure
-and Opening Data_030823.pdf](attachments/674609376/689314278.pdf)
-(application/pdf)\
- [TruLive3D
-Imager Manual 20220720.pdf](attachments/674609376/689314280.pdf)
-(application/pdf)\
- [532
-procedure.docx](attachments/674609376/689314369.docx)
-(application/vnd.openxmlformats-officedocument.wordprocessingml.document)\
- [405 PM
-procedure.docx](attachments/674609376/689314370.docx)
-(application/vnd.openxmlformats-officedocument.wordprocessingml.document)\
-
-[TL3D_Photomanipulation_JCF_021723.docx](attachments/674609376/689314372.docx)
-(application/vnd.openxmlformats-officedocument.wordprocessingml.document)\
- [405 PM
-procedure-KH.docx](attachments/674609376/689319982.docx)
-(application/vnd.openxmlformats-officedocument.wordprocessingml.document)\
- [Trulive
-diagram.pdf](attachments/674609376/698322817.pdf) (application/pdf)\
- [Trulive
-diagram.pdf](attachments/674609376/698322815.pdf) (application/pdf)\
+<details>
+<summary><strong>📄 CryLas Photomanipulation</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/microscope/Trulive/Crylas-Photomanipulation.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/microscope/Trulive/Crylas-Photomanipulation.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
