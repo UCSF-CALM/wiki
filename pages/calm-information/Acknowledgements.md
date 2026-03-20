@@ -21,7 +21,7 @@ Microscopy at UCSF
 
 ## Microscope Specific Acknowledgements with grant data
 
-OMX
+**OMX**
 
 Data for this study were acquired at the Center for Advanced Light
 Microscopy at UCSF on an OMX-SR obtained using grants from the NIH
@@ -30,45 +30,38 @@ funded in part by the Sandler Foundation, the UCSF Research Resource
 Fund Award, and HHMI.
 
 
-CSUW1
+**CSUW1**
 
-[Data for this study were acquired at the Center of Advanced Light
+Data for this study were acquired at the Center of Advanced Light
 Microscopy at UCSF on a W1-CSU Confocal obtained using
-NIH[ [S10 Shared Instrumentation grant
-(1S10OD017993-01A1)\"
+NIH S10 Shared Instrumentation grant
+(1S10OD017993-01A1)
 
 
-Crest-C2
+**Crest-C2**
 
 Data for this study were acquired at the Center for Advanced Light
 Microscopy at UCSF on CREST/C2 Confocal obtained using grants from
-the [[ the UCSF Program for Breakthrough Biomedical Research funded in
+the the UCSF Program for Breakthrough Biomedical Research funded in
 part by the Sandler Foundation and the UCSF Research Resource Fund
-Award.[
+Award.
+
+**Trulive3D**
+Data for this study were acquired at the Center for Advanced Light
+Microscopy at UCSF on TrueLive3D Confocal obtained using grants from PBBR Technologies, Methodologies, and Cores Research Award, along with matching funds from the Lim Lab's ARPA-H project, the Resource Allocation Program PRE IMA  and CAF Award, and contributions from the Dept. of Biochemistry and Biophysics, Dept. Cellular and Molecular Pharmacology, Dept. Of Bioengineering and Therapeutic Science, and the Cardiovascular Research Institute.
+
 
 ## **CVRI  Facility**
 
-[[Funding for the [CVRI [microscopes to be acknowledged: UCSF Research Evaluation
+Funding for the CVRI microscopes to be acknowledged: UCSF Research Evaluation
 and Allocation Committee, the Gross Fund, and the Heart Anonymous
-Fund.]]
+Fund.
 
 
-[[Example Acknowledgment: [Data for this study was acquired at
-the ][Center for Advanced Light
+Example Acknowledgment: Data for this study was acquired at
+the Center for Advanced Light
 Microscopy- CVRI Microscopy core on microscopes purchased though
-the [UCSF
-Research Evaluation and Allocation Committee, the Gross Fund, and the
-Heart Anonymous Fund]]
+the UCSF Research Evaluation and Allocation Committee, the Gross Fund, and the
+Heart Anonymous Fund
 
 
-## **[CAMM]**
-
-[Data were collected at the Center for Advanced Multiphoton Microscopy
-with support from the Kavali Institute]
-
-
-## **Weill building microscopes**
-
-[Data for this study were acquired on Microscopes of the Innovation Core
-at the Weill Institute, part of the UCSF Center for Advanced Light
-Microscopy]
