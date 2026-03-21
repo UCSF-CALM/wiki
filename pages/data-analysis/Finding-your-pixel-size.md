@@ -14,32 +14,26 @@ Prerequisite: Download and open fiji
 ([https://fiji.sc/](https://fiji.sc/))
 
 - Step1: Open the Bio-Format Plugins Shortcut Window
- - [
+
+ ![Bio-Format Plugins Shortcut Window]({{ '/assets/img/DataAnalysis/FindyourPixelSize/634298054.png' | relative_url }})
+
 - Step2: Drag and drop your file on the shortcut window\
  \*Or you can open from Bio-Format Importer
- - [
+
+ ![Drag and drop file]({{ '/assets/img/DataAnalysis/FindyourPixelSize/634298056.png' | relative_url }})
+
 - Step3: Click 'OK' from the window below\
  \*'Display OME XML metadata' will show you the pixel\
  size embedded in the image\
  \*'Use virtual stack' (red arrow) will help with opening\
  up large sized z stack images faster!
- - [
+
+ ![Click OK window]({{ '/assets/img/DataAnalysis/FindyourPixelSize/634298058.png' | relative_url }})
+
 - In the OME Metadata window
  - You can double check the pixel size from this window (red arrow)\
  \*This is just an example screenshot
- - [
+
+ ![OME Metadata window]({{ '/assets/img/DataAnalysis/FindyourPixelSize/634298059.png' | relative_url }})
 
 
-## Attachments:
-
-[image-2024-1-8_13-30-25.png](attachments/634298046/634298054.png)
-(image/png)\
-
-[image-2024-1-8_13-30-44.png](attachments/634298046/634298056.png)
-(image/png)\
-
-[image-2024-1-8_13-30-57.png](attachments/634298046/634298058.png)
-(image/png)\
-
-[image-2024-1-8_13-31-58.png](attachments/634298046/634298059.png)
-(image/png)\

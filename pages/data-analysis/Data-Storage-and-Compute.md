@@ -37,9 +37,15 @@ To mount the server from a Windows computer:
 
 1. open a File Explorer, and find "This PC"
 
+ ![This PC]({{ '/assets/img/DataAnalysis/ServerMaping/ThisPC.png' | relative_url }})
+
 2. Right click and Select "Map Network Drive".
 
+ ![Map Network Drive]({{ '/assets/img/DataAnalysis/ServerMaping/MapNetworkDrive.png' | relative_url }})
+
 3. For "Folder" enter "mic.ucsf.edu\yourShortUserName"
+
+ ![Server address with ID]({{ '/assets/img/DataAnalysis/ServerMaping/ServeraddresswithID.png' | relative_url }})
 
 4. Uncheck "Reconnect at sign-in, and check "Connect using different
 credentials".
@@ -71,22 +77,3 @@ Nico Stuurman, 20241217
 
 
 
-## Attachments:
-
-[image-2025-1-2_11-7-12.png](attachments/685901383/685901392.png)
-(image/png)\
-
-[image-2025-1-2_11-8-7.png](attachments/685901383/685901394.png)
-(image/png)\
-
-[image-2025-1-2_11-8-41.png](attachments/685901383/685901395.png)
-(image/png)\
-
-[image-2025-1-2_11-9-3.png](attachments/685901383/685901396.png)
-(image/png)\
-
-[image-2025-1-2_11-9-32.png](attachments/685901383/685901397.png)
-(image/png)\
-
-[image-2025-1-2_11-32-34.png](attachments/685901383/685901410.png)
-(image/png)\
