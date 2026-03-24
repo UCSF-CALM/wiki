@@ -1,8 +1,3 @@
----
-layout: default
-title: Other CALM Information
-author: Delaine Larsen
----
 
 # Other CALM Information
 

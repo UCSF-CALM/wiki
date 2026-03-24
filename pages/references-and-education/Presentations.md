@@ -1,8 +1,4 @@
----
-layout: default
-title: Presentations
-author: Delaine Larsen
----
+
 
 # Presentations
 
