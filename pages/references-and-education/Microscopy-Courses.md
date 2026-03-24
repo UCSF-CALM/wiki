@@ -1,19 +1,14 @@
----
-layout: default
-title: Microscopy Courses
-author: Delaine Larsen
----
+
 
 # Microscopy Courses
+#### [ Return to Microscopy References and Education](Microscopy-References-and-Education.html)
+
 
 #### UCSF Courses
  - [Biophysics 210: Biological Light Imaging (Spring 2026)](BP210-2026.html)
 
  - [Biochemistry 210: Principles and Practices of Light Microscopy
  (Spring 2013) ](Principles-and-Practices-of-Light-Microscopy-Spring-2013.html)
-
-
-#### [ Return to Microscopy References and Education](Microscopy-References-and-Education.html)
 
 #### Online Courses
  - [iBiology.org Microscopy
@@ -32,13 +27,12 @@ author: Delaine Larsen
  Optics](http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/ "http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/")
 
 
-#### QB3/UCSF Course in Biological Light Microscopy Old wiki had links and
- files
+#### QB3/UCSF Course in Biological Light Microscopy 
  - [2012 QB3/UCSF Course in Biological Light
  Microscopy](2012-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)
  - [2013 QB3/UCSF Course in Biological Light
  Microscopy](2013-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)
  - [2014 QB3/UCSF Course in Biological Light
- Microscopy](2014-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)\
+ Microscopy](2014-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)
 
 
