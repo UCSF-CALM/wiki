@@ -6,6 +6,13 @@ author: Delaine Larsen
 
 # Microscopy Courses
 
+#### UCSF Courses
+ - [Biophysics 210: Biological Light Imaging (Spring 2026)](BP210-2026.html)
+
+ - [Biochemistry 210: Principles and Practices of Light Microscopy
+ (Spring 2013) ](Principles-and-Practices-of-Light-Microscopy-Spring-2013.html)
+
+
 #### [ Return to Microscopy References and Education](Microscopy-References-and-Education.html)
 
 #### Online Courses
@@ -24,11 +31,6 @@ author: Delaine Larsen
  - [MIT 6.006, Demonstrations in Physical
  Optics](http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/ "http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/")
 
-#### UCSF Courses
- - [Biophysics 210: Biological Light Imaging (Spring 2026)](BP210-2026.html)
-
- - [Biochemistry 210: Principles and Practices of Light Microscopy
- (Spring 2013) ](Principles-and-Practices-of-Light-Microscopy-Spring-2013.html)
 
 #### QB3/UCSF Course in Biological Light Microscopy Old wiki had links and
  files
