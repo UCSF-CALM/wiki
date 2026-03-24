@@ -26,6 +26,8 @@ author: Delaine Larsen
  Optics](http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/ "http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/")
 
 #### UCSF Courses
+
+
  - [Biochemistry 210: Principles and Practices of Light Microscopy
  (Spring 2013) ](Principles-and-Practices-of-Light-Microscopy-Spring-2013.html)
 
