@@ -28,22 +28,16 @@ a flat field image. We can invert this to get I~true~ = (I~meas~ - Dark)
 To acquire flat-field images, we need a uniform fluorescent sample. We
 have found that the best results for flat-fielding of widefield images
 result from using concentrated dye solutions, as described by Michael
-Model
-([1](http://www.ncbi.nlm.nih.gov/pubmed/11500847 "http://www.ncbi.nlm.nih.gov/pubmed/11500847"),
-[2](http://www.ncbi.nlm.nih.gov/pubmed/18770832 "http://www.ncbi.nlm.nih.gov/pubmed/18770832")). In particular we use the following solutions on
+Model ([1](http://www.ncbi.nlm.nih.gov/pubmed/11500847 "http://www.ncbi.nlm.nih.gov/pubmed/11500847"),[2](http://www.ncbi.nlm.nih.gov/pubmed/18770832 "http://www.ncbi.nlm.nih.gov/pubmed/18770832")). In particular we use the following solutions on
 inexpensive dyes (links go to suppliers):
 
-- DAPI channel: 50 mg/ml [7-diethylamino 4-methyl
- coumarin](http://www.sigmaaldrich.com/catalog/product/aldrich/d87759?lang=en&region=US) in DMSO
+- DAPI channel: 50 mg/ml [7-diethylamino 4-methyl coumarin](http://www.sigmaaldrich.com/catalog/product/aldrich/d87759?lang=en&region=US) in DMSO
 
-- FITC channel: 100 mg/ml
- [fluorecein](http://www.sigmaaldrich.com/catalog/product/sigma/46960?lang=en&region=US) in water
+- FITC channel: 100 mg/ml [fluorecein](http://www.sigmaaldrich.com/catalog/product/sigma/46960?lang=en&region=US) in water
 
-- Cy3 channel: 100 mg/ml [rose
- bengal](http://www.sigmaaldrich.com/catalog/product/sigma/r4507?lang=en&region=US) in water
+- Cy3 channel: 100 mg/ml [rose bengal](http://www.sigmaaldrich.com/catalog/product/sigma/r4507?lang=en&region=US) in water
 
-- Cy5 channel: 100 mg/ml [acid blue
- 9](http://www.tcichemicals.com/eshop/en/us/commodity/B0790/ "http://www.tcichemicals.com/eshop/en/us/commodity/B0790/") in water
+- Cy5 channel: 100 mg/ml [acid blue 9](http://www.tcichemicals.com/eshop/en/us/commodity/B0790/ "http://www.tcichemicals.com/eshop/en/us/commodity/B0790/") in water
 
 When you make these solutions, it\'s best to centrifuge them and filter
 them through an 0.22 μm filter to remove particulate matter than may
@@ -60,8 +54,8 @@ These instructions assume you\'re using ImageJ for your analysis. If
 you\'re not, it should be straightforward to adapt them to another
 program.
 
-First, you must acquire a dark image. This is acquired with no light
-reaching the camera. To acquire it:
+**First, you must acquire a dark image. This is acquired with no light
+reaching the camera. To acquire it:**
 
 1. Set up the microscope so that no light reaches the camera.
  Typically, I set the microscope to use the eyepiece light path.
@@ -77,7 +71,7 @@ reaching the camera. To acquire it:
 
 5. Save the resulting average image. This is your dark image.
 
-Second, you must acquire flat-field images. To do so:
+**Second, you must acquire flat-field images. To do so:**
 
 1. Prepare a slide of an appropriate flat-field solution by placing a
  drop between a slide and a coverslip.

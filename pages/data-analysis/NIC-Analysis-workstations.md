@@ -1,12 +1,8 @@
----
-layout: default
-title: NIC Analysis workstations
-author: Stuurman, Nico
----
+
 
 # NIC Analysis workstations
 
-[Remote Access to the workstations ](Remote-Access-to-the-Workstations.html)
+#### [Remote Access to the workstations ](Remote-Access-to-the-Workstations.html)
 
 The following Analysis workstations have high speed (10Gb) access to the
 mic.ucsf.edu file server and can be booked through

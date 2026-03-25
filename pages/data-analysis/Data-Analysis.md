@@ -8,23 +8,36 @@ author: Delaine Larsen
 
 ### How do I\...
 
+##### In MicroManager...
+- [How to stitch images acquired in Micro-Manager](Stitching-Images-Acquired-in-Micro-Manager.html)
+- [How to Acquire Flat Field  correction](How-to-Acquire-Flat-Field-correction.html)
+
+#### In Fiji/Image J...
+
 - [Find my Pixel size?](Finding-your-pixel-size.html)
 - [Add a scale bar](Add-a-scale-bar-in-Fiji.html)
 - [View Orthangonal Slices
  (Fiji)](Fiji--Viewing-orthagonal-slices.html)
-- Brightness & Contrast Tips
- (Fiji) (attachment)
-- Look-Up Tables LUTs)/Channel Colors Tips
- (Fiji) (attachment)
+<details>
+<summary><strong>📄 Brightness and Contrast Quick Tips </strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdfDataAnalysis/Using-Brighness_And_contras.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Auto White for Color Imaging in Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
-### Protocols
 
-- [How to stitch images acquired in
- Micro-Manager](Stitching-Images-Acquired-in-Micro-Manager.html)
-- [How to Acquire Flat Field
- correction](How-to-Acquire-Flat-Field-correction.html)
-- [C-Trap Data Analysis - Getting
- started](https://wiki.library.ucsf.edu/display/CMW/C-Trap+Data+Analysis){rel="nofollow"}
+<details>
+<summary><strong>📄 Quick Channel and Look up Table tips </strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdfDataAnalysis/Look_up_Table-Channel_color_TIPs.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Auto White for Color Imaging in Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+#### In other data analysis...
+
+- [C-Trap Data Analysis - Getting started](https://wiki.library.ucsf.edu/display/CMW/C-Trap+Data+Analysis){rel="nofollow"}
 
 ### Commercial Software available at the CALM
 
@@ -33,57 +46,42 @@ author: Delaine Larsen
  an easy-to-use tool for routine data analysis.
 - [MATLAB](MATLAB.html) - A popular commercial programming
  language and interactive environment for data analysis. Useful links
- to microscopy tools for Matlab are collected here.
-- [Huygens](Huygens.html) - Huygens is a powerful and easy to
- use deconvolution program.
+ to microscopy tools for Matlab are collected here.**Note: this is available for all people at UCSF through and academic liscence from the school**
+- [Huygens](Huygens.html) - Huygens is a powerful and easy to use deconvolution program.
 - [Slidebook](https://www.intelligent-imaging.com/slidebook) - 3i commercial software package for image acquisition
  and analysis.
 
 ### Free Software
 
-- [ImageJ and Variants](ImageJ-and-Variants.html) - One of the
- most commonly used free image analysis programs. Has a large and
- active development community.
-- [Nikon
- Viewer](https://www.microscope.healthcare.nikon.com/products/software/nis-elements/viewer) - Free viewer for Nikon\'s file formats.
+- [ImageJ and Variants](ImageJ-and-Variants.html) - One of the most commonly used free image analysis programs. Has a large and active development community.
+- [Nikon Viewer](https://www.microscope.healthcare.nikon.com/products/software/nis-elements/viewer) - Free viewer for Nikon\'s file formats.
 - [CellProfiler](https://cellprofiler.org/) - A free, open source image analysis tool designed for
  analysis of image-based screens.
 - [Allen Cell Explorer](https://www.allencell.org/) - Resources from Allen Institute for Cell Science.
  Includes the Cell Feature Explorer, Cell Catalog, and Allen Cell
  Structure Segmenter.
-- [Napari](https://napari.org/) -
- Multi-dimensional image viewer for python
+- [Napari](https://napari.org/) - Multi-dimensional image viewer for python
 - [IOCBioMicroscope](https://github.com/pearu/iocbio/wiki/IOCBioMicroscope) - A free, open source Lucy-Richardson deconvolution
  tool, written in Python.
-- [Farsight
- Toolkit](http://farsight-toolkit.ee.uh.edu/wiki/Main_Page) - Sophisticated packages for image alignment,
+- [Farsight Toolkit](http://farsight-toolkit.ee.uh.edu/wiki/Main_Page) - Sophisticated packages for image alignment,
  segmentation, and neuron / vessel tracing, among other things.
-- [Ilastik](https://www.ilastik.org/)-
- [Machine learning algorithms to segment, classify, track and count
+- [Ilastik](https://www.ilastik.org/)-Machine learning algorithms to segment, classify, track and count
  your cells or other experimental
- data.]
- - [Use ilastik and cell profiler together! Check out the [Cell
+ data.
+ - Use ilastik and cell profiler together! Check out the [Cell
  Profiler and Ilastik: Superpowered segmentation blog
  entry](https://carpenter-singh-lab.broadinstitute.org/blog/cellprofiler-ilastik-superpowered-segmentation) and the [How to use Pixel Classification in Cell
  Profile](https://github.com/CellProfiler/CellProfiler/wiki/How-to-use-Pixel-Classification-in-CellProfiler)[r](https://github.com/CellProfiler/CellProfiler/wiki/How-to-use-Pixel-Classification-in-CellProfiler), which has important instructions for the export of
  images from ilastik to get them into Cell
- Profiler!]
+ Profiler!
 
 ### GitHub sites
 
-- [Kurt
- Thorn](https://github.com/kthorn?tab=repositories)
-- [Nico
- Stuurman](https://github.com/nicost?tab=repositories)
+- [Kurt Thorn](https://github.com/kthorn?tab=repositories)
+- [Nico Stuurman](https://github.com/nicost?tab=repositories)
 - [BIDC](https://github.com/BIDCatUCSF?tab=repositories)
 - [Andrew York](https://github.com/AndrewGYork)
 
 ### Specific analysis
 
 - [Cilia](Cilia-Analysis.html)
-
-## Attachments:
-
-[Luts.pdf](attachments/517182106/701475043.pdf) (application/pdf)\
- [Brightnessand
-Contrast.pdf](attachments/517182106/701475044.pdf) (application/pdf)\

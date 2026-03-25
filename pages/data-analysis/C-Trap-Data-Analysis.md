@@ -1,9 +1,3 @@
----
-layout: default
-title: C-Trap Data Analysis
-author: Stuurman, Nico
-date: Mar 05, 2025
----
 
 # C-Trap Data Analysis
 
@@ -16,7 +10,7 @@ date: Mar 05, 2025
  installer](https://lumicks.com/lakeview-data-analysis/#get-lakeview)
 - Run the installer
 - Enter license only when needed (ask CALM if you think you need a
- license)\
+ license)
 
 ## Install Python packages
 
@@ -107,3 +101,5 @@ plt.show()
 ```
 
 ### Script sharing website [http://harbor.lumicks.com/](https://github.com/lumicks/harbor)
+
+-Authored by Nico Stuurman March 2025
