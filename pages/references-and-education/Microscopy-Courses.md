@@ -1,38 +1,27 @@
-
+---
+layout: default
+title: Microscopy Courses
+---
 
 # Microscopy Courses
-#### [ Return to Microscopy References and Education](Microscopy-References-and-Education.html)
 
+#### [Return to Microscopy References and Education](Microscopy-References-and-Education.html)
 
 #### UCSF Courses
- - [Biophysics 210: Biological Light Imaging (Spring 2026)](BP210-2026.html)
 
- - [Biochemistry 210: Principles and Practices of Light Microscopy
- (Spring 2013) ](Principles-and-Practices-of-Light-Microscopy-Spring-2013.html)
+- [Biophysics 210: Biological Light Imaging (Spring 2026)](BP210-2026.html)
+- [Biochemistry 210: Principles and Practices of Light Microscopy (Spring 2013)](Principles-and-Practices-of-Light-Microscopy-Spring-2013.html)
 
 #### Online Courses
- - [iBiology.org Microscopy
- Course](https://www.ibiology.org/online-biology-courses/microscopy-series/)
 
- - [iBiology.org Bioimage Analysis
- Course](https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/)
+- [iBiology.org Microscopy Course](https://www.ibiology.org/online-biology-courses/microscopy-series/)
+- [iBiology.org Bioimage Analysis Course](https://www.ibiology.org/online-biology-courses/bioimage-analysis-course/)
+- [UC Berkeley EE 119: Optical Engineering](https://inst.eecs.berkeley.edu/~ee118/sp04/)
+- [MIT 2.71, Optics](http://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/)
+- [MIT 6.006, Demonstrations in Physical Optics](http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/)
 
- - [UC Berkeley EE 119: Optical
- Engineering](https://inst.eecs.berkeley.edu/~ee118/sp04/)
+#### QB3/UCSF Course in Biological Light Microscopy
 
- - [MIT 2.71,
- Optics](http://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/ "http://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/")
-
- - [MIT 6.006, Demonstrations in Physical
- Optics](http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/ "http://ocw.mit.edu/resources/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/")
-
-
-#### QB3/UCSF Course in Biological Light Microscopy 
- - [2012 QB3/UCSF Course in Biological Light
- Microscopy](2012-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)
- - [2013 QB3/UCSF Course in Biological Light
- Microscopy](2013-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)
- - [2014 QB3/UCSF Course in Biological Light
- Microscopy](2014-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)
-
-
+- [2012 QB3/UCSF Course in Biological Light Microscopy](2012-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)
+- [2013 QB3/UCSF Course in Biological Light Microscopy](2013-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)
+- [2014 QB3/UCSF Course in Biological Light Microscopy](2014-QB3-UCSF-Course-in-Biological-Light-Microscopy.html)

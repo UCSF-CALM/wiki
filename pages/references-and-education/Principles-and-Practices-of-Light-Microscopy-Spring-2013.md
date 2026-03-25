@@ -22,25 +22,19 @@ filmed.](http://lecture.ucsf.edu/ETS/Catalog/Full/fb6f6e88696444d4b34d5d2c010b43
 - [Molecular
  Expressions](http://micro.magnet.fsu.edu/ "http://micro.magnet.fsu.edu/")
 
-- [Microscopy
- U](http://microscopyu.com/ "http://microscopyu.com/")
+- [Microscopy U](http://microscopyu.com/ "http://microscopyu.com/")
 
-- [Microscopy Resource
- Center](http://www.olympusmicro.com/ "http://www.olympusmicro.com/")
+- [Microscopy Resource Center](http://www.olympusmicro.com/ "http://www.olympusmicro.com/")
 
-- [Zeiss
- Campus](http://zeiss-campus.magnet.fsu.edu/ "http://zeiss-campus.magnet.fsu.edu/")
+- [Zeiss Campus](http://zeiss-campus.magnet.fsu.edu/ "http://zeiss-campus.magnet.fsu.edu/")
 
-- [Hamamatsu Learning
- Center](https://hamamatsu.magnet.fsu.edu/)
+- [Hamamatsu Learning Center](https://hamamatsu.magnet.fsu.edu/)
 
 ### Books
 
-- [Fundamentals of Light Microscopy and Electronic
- Imaging](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118382905 "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118382905")
+- [Fundamentals of Light Microscopy and Electronic Imaging](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118382905 "https://onlinelibrary.wiley.com/doi/book/10.1002/9781118382905")
 
-- [Handbook of Biological Confocal
- Microscopy](https://link.springer.com/book/10.1007/978-0-387-45524-2 "https://link.springer.com/book/10.1007/978-0-387-45524-2")
+- [Handbook of Biological Confocal Microscopy](https://link.springer.com/book/10.1007/978-0-387-45524-2 "https://link.springer.com/book/10.1007/978-0-387-45524-2")
 
 ## Lectures
 
