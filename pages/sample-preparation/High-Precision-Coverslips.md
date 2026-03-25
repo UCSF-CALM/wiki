@@ -20,8 +20,7 @@ coverslips:
 
 - [Zeiss](https://www.micro-shop.zeiss.com/en/de/shop/search/Cover%20glasses,%20high%20performance,)
 
-- [Applied
- Microarrays](http://www.appliedmicroarrays.com/index.php?option=com_virtuemart&view=category&virtuemart_category_id=8&Itemid=155)
+- [Applied Microarrays](http://www.appliedmicroarrays.com/index.php?option=com_virtuemart&view=category&virtuemart_category_id=8&Itemid=155)
 
 - [Ibidi](https://ibidi.com/92-coverslips-and-foils) - GLASS COVERSLIPS ONLY!! FOR SUPER RESOLUTION!
 
@@ -33,5 +32,4 @@ other distributors:
 - [Schott](https://www.us.schott.com/advanced_optics/english/products/optical-materials/thin-glass/cover-glass-d-263-m/index.html)
 
 Some vendors also make glass bottom dishes and plates with these
-coverslips - please see our [list of dish
-vendors](Plates-and-dishes-for-imaging.html).
+coverslips - please see our [list of dish vendors](Plates-and-dishes-for-imaging.html).

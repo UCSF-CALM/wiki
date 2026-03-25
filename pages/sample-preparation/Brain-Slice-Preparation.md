@@ -1,12 +1,7 @@
----
-layout: default
-title: Brain Slice Preparation
-author: Herrington, Kari
----
 
 # Brain Slice Preparation
 
-From DeLaine:
+Tips from one of the CALM's previous directors DeLaine Larsen:
 
 Cutting Slices:
 
@@ -23,8 +18,7 @@ For sections mounted on slides
 - Standard histology clearing
  - EtOH series up to 100% with 2x in 100%
  - Followed by Xylenes to defat.
- - For some animals with more myelin than mice there would also be a
- chloroform step
+ - For some animals with more myelin than mice there would also be a chloroform step
  - Note issue with Xylene is if there is anywater it will precipitate
  - Then to Coverslip with DPX
  - NO COVERSLIPPING with permount - this is ann old histology
