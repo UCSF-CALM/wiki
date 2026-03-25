@@ -75,12 +75,10 @@ navigation:
   - name: Sample Preparation
     link: ./pages/sample-preparation/Sample-Preparation.html
     sublist:
-      - name: Dyes & Proteins
-        link: ./pages/sample-preparation/Fluorescent-Proteins-for-Localization-Microscopy.html
       - name: Protocols
-        link: ./pages/sample-preparation/Clearing-methods.html
+        link: ./pages/sample-preparation/Protocols.html
       - name: Materials
-        link: ./pages/sample-preparation/High-Precision-Coverslips.html
+        link: ./pages/sample-preparation/Materials.html
   - name: References & Education
     link: ./pages/references-and-education/Microscopy-References-and-Education.html
     sublist:
@@ -88,8 +86,8 @@ navigation:
         link: ./pages/references-and-education/Microscopy-Courses.html
       - name: Books & Websites
         link: ./pages/references-and-education/Books-Websites-etc.html
-      - name: Methods Examples
-        link: ./pages/references-and-education/Examples-of-Microscope-Methods.html
+      - name: Presentations
+        link: ./pages/references-and-education/Presentations.html
   - name: CALM Information
     link: ./pages/calm-information/Other-CALM-Information.html
     sublist:

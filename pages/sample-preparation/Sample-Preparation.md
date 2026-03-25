@@ -10,9 +10,10 @@ This section is being expanded to include more information about dyes, protocols
 
 ## Fluorescent Protein Information
 
-- [FPbase](https://www.fpbase.org/) — Fluorescent protein information
-  - [Interactive Chart of Fluorescent Proteins](https://www.fpbase.org/chart/)
-  - [Spectra viewer](https://www.fpbase.org/spectra/)
+- [FPbase](https://www.fpbase.org/) — Great resource for Fluorescent protein information
+    - [Interactive Chart of Fluorescent Proteins](https://www.fpbase.org/chart/)
+    - [Spectra viewer](https://www.fpbase.org/spectra/)
+- [Fluorescent Proteins for Localization Microscopy](Fluorescent-Proteins-for-Localization-Microscopy.html)
 
 ## Reporter Proteins
 
@@ -34,7 +35,7 @@ This section is being expanded to include more information about dyes, protocols
 - [Brain slice Preparation](Brain-Slice-Preparation.html)
 - [Cytoskeleton fixation references](Cytoskeleton-Fixation-Referances.html)
 
-## Consumables Information
+## Consumables Information/Materials
 
 - [Plates and dishes for imaging](Plates-and-dishes-for-imaging.html)
 - [High Precision Coverslips](High-Precision-Coverslips.html)
