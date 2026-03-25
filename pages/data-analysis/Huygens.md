@@ -18,7 +18,7 @@ is Objective4.
 #### Pinhole Calculator link for the [Nikon TE2000-E with C2 scanning head](https://svi.nl/Nikon_TE2000E_C2)
 
 
-#### CSU-22 Back projected Pinhole radius and spacing distance  by magnification
+#### CSU-22/CSU-X1 Back projected Pinhole radius and spacing distance  by magnification
 
 | **Magnification** | **Radius** | **Spacing Distance** |
 |---|---|---|
