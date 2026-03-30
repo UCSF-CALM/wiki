@@ -18,6 +18,9 @@ Michael Davidson maintains an excellent family of websites, many sponsored by ma
 - [Olympus Microscopy Resource Center](http://www.olympusmicro.com/)
 - [Hamamatsu Learning Center](https://hamamatsu.magnet.fsu.edu/)
 
+#### Specific Microscopy/Optics Resources
+- [Precision Optical Alignment](https://andrewgyork.github.io/precision_optical_alignment/)
+
 #### Fluorescent Probes
 
 - [The Molecular Probes Handbook](http://www.invitrogen.com/site/us/en/home/References/Molecular-Probes-The-Handbook.html) - a good source of information on fluorescent dyes and small molecule reporters.
