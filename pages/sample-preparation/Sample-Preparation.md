@@ -6,7 +6,8 @@ author: Delaine Larsen
 
 # Sample Preparation
 
-This section is being expanded to include more information about dyes, protocols, and sample information that is handy for imaging! If you have used something on our microscopes that worked well (or didn't!) please let us know!
+#### <span style="color: yellow;"> If you have used something on our microscopes that worked well (or didn't!) please let us know! We would love to add it to this section for general knowledge.</span>
+
 
 ## Fluorescent Protein Information
 
