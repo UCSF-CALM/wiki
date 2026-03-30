@@ -6,6 +6,8 @@ author: Delaine Larsen
 
 # Data Analysis Workstations
 
+Workstations can be used and acessed remomtely! See [Remote Access to the workstations ](Remote-Access-to-the-Workstations.html)
+
 ### Analysis Workstation 2
 
  - Windows11 Pro 64 Bit
