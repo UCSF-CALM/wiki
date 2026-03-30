@@ -7,7 +7,9 @@ date: Sep 26, 2025
 
 # Snouty High NA Single Objective Light Sheet 
 
+## [FP BASE](https://www.fpbase.org/microscope/pcAG4jYfcCEAYB7ituy9oD/)
 
+#### Microscope Built By Tanner Fadero
 
 ## Optics
 ### Objectives
