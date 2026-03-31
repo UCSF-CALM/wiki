@@ -15,7 +15,7 @@ author: Delaine Larsen
 - ACS APO 40x/1.15 Oil
 - ACS APO 63x/1.3 Oil
 
-Emission:
+### Emission:
 
 - SP detector 430-750nm
 
