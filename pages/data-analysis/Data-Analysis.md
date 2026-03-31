@@ -21,18 +21,18 @@ author: Delaine Larsen
 <details>
 <summary><strong>📄 Brightness and Contrast Quick Tips </strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdfDataAnalysis/Using-Brighness_And_contras.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/DataAnalysis/Using-Brighness_And_contras.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/GeneralQuickstart/Auto White for Color Imaging in Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p><a href="{{ '/assets/pdf/DataAnalysis/Using-Brighness_And_contras.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
 
 <details>
 <summary><strong>📄 Quick Channel and Look up Table tips </strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdfDataAnalysis/Look_up_Table-Channel_color_TIPs.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/DataAnalysis/Look_up_Table-Channel_color_TIPs.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/GeneralQuickstart/Auto White for Color Imaging in Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p><a href="{{ '/assets/pdf/DataAnalysis/Look_up_Table-Channel_color_TIPs.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
 #### In other data analysis...

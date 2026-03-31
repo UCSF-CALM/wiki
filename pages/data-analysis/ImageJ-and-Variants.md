@@ -192,7 +192,7 @@ for (i=0; i&lt;fileList.length; i++) {
       Ext.openImage("", image);
       name = fileList[i];
       s=lastIndexOf(name, '.');
-      name=substring(name, 0,s);
+      name=substring(name, 0,s); 
       name=replace(name,".","_");
       outFile = outputDirectory + name + "-" + ".ome.tif";
       saveFile(outFile);
