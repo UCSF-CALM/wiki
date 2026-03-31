@@ -1,16 +1,10 @@
----
-layout: default
-title: iLab
-author: Herrington, Kari
----
+
 
 # iLab
 
 ## Reservation calendars
 
-The reservation calendars for all the microscopes are on iLab. The
-landing page for access to all microscope calendars
-is [https://ucsf.ilab.agilent.com/service_center/5226/?tab=equipment](https://ucsf.ilab.agilent.com/service_center/5226/?tab=equipment)
+The reservation calendars for all the microscopes are on iLab. [Visit the iLab landing page for equipment here (you will need to log into iLab)](https://ucsf.ilab.agilent.com/service_center/5226/?tab=equipment)
 
 ## Setting up an Account
 
@@ -58,7 +52,7 @@ after a training session.
  \"save completed form\"
  
 
-- ### No Payment information/No Speedtype
+- ### No Payment information/No speedtype
 
  - The cost is 0, but you still need to select the speed type you would
  like to use under payment information.
@@ -71,13 +65,12 @@ after a training session.
 
 - ### The form was saved, but the request at the bottom was not clicked
 
- - There are two different save buttons! Please remember to click
- submit request to core at the bottom!
+ - There are two different save buttons. Please remember to click the "Save" on the Form and the submit request to core at the bottom!
 
  ![Submit request button]({{ '/assets/img/iLab/submit.png' | relative_url }})
  
 
-### To get back into your requar to check
+### To get back into your request to check
 
 - You can go back in to your request in iLab and check for all of these
  things by clicking on the blue arrow next to the request.

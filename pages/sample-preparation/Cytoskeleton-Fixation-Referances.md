@@ -1,9 +1,3 @@
----
-layout: default
-title: Cytoskeleton Fixation Referances
-author: Herrington, Kari
-date: Jun 13, 2025
----
 
 # Cytoskeleton Fixation Referances
 

@@ -10,16 +10,18 @@ date: Aug 15, 2023
 ## PK Mito Orange
 
 We were generously able to try this dye thanks to Dr.
-[Zhixing[Chen!
+Zhixing Chen!
 
-- - Emission/Excitation 590/610nm
+Information on the Dye:
+- Emission/Excitation: 590/610nm
  - Where does it stain: Inner Mitochondrial Membrane
  - Note: only works with living cells
  - Citation:
  [https://www.biorxiv.org/content/10.1101/2022.05.09.491019v1](https://www.biorxiv.org/content/10.1101/2022.05.09.491019v1)
  - Where to purchase:
  [http://www.genvivotech.com/](http://www.genvivotech.com/)
-- Notes from people imaging:
+
+Notes from people imaging:
  - Works great in the RFP/Red channel
  - Tested with Live STED we have found this dye to be incredibly stable
  and super bright!

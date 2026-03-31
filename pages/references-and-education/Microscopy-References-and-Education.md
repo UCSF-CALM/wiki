@@ -14,3 +14,5 @@ date: Aug 31, 2020
 ##### [Books, Websites, Etc](Books-Websites-etc.html)
 
 ##### [User Quick Start Guides](../calm-information/User-Quick-Start-Guides.html)
+
+##### [Examples of Microscope Methods](Examples-of-Microscope-Methods.html)

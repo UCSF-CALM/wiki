@@ -7,7 +7,7 @@ date: Feb 07, 2025
 
 # ATP/ADP PercevalHR Reporter
 
-Links:
+Links for Referance and plasmid source:
 
 [https://www.nature.com/articles/ncomms3550](https://www.nature.com/articles/ncomms3550)
 
@@ -15,7 +15,7 @@ Links:
 
 
 We were asked if we could image this ratio metric reporter protein in
-our lab by Lin Yuan from David Julius\'s Lab
+our lab by Lin Yuan from David Julius's Lab
 
 
 After testing different configurations on the time-lapse microscope, the
@@ -35,7 +35,7 @@ Perceval Channel 480 (ATP)
 - Dichroic: CFP/YFP (86002bs Chroma)
 
 
-Control: [metabolic inhibitor cocktail]{olk-copy-source="MessageBody"}
+Control: metabolic inhibitor cocktail
 
 Lin reported success! We are now waiting for the paper
 

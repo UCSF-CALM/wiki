@@ -10,8 +10,8 @@ Matlab is a very popular commercial programming language and interactive
 environment for data analysis in biology, particularly in microscopy.
 I\'ll collect up useful Matlab links here.
 
-- You can use
- [Bioformats](https://www.openmicroscopy.org/bio-formats/) to load nd2 images in Matlab. [Here\'s
+- MATLAB is currently free for everyone at UCSF. Visit UCSF IT page here to learn more: [https://it.ucsf.edu/service/matlab](https://it.ucsf.edu/service/matlab)
+- You can use [Bioformats](https://www.openmicroscopy.org/bio-formats/) to load nd2 images in Matlab. [Here\'s
  how.](https://docs.openmicroscopy.org/bio-formats/6.5.1/users/matlab/index.html)
 
 - You can also access Micro-Manager through Matlab. [See

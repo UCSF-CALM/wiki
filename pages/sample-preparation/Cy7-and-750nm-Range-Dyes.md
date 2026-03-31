@@ -19,16 +19,16 @@ date: Oct 16, 2023
 
 ## Mounting Media Considerations
 
-Thanks to the hard work by Helene Foussard, PhD in Nevan Krogan\'s lab,
+Thanks to the hard work by Helene Foussard, PhD in Nevan Krogan's lab,
 we have found that Alexa Fluor 750nm is quenched by vectashield.
 
 Helene ran some quick tests for non-hardening mounting media and these
 were the results:
 
-- [Ibidi mounting medium- Bleached, but bleached the
+- Ibidi mounting medium- Bleached, but bleached the
  slowest
-- [Ever Bright from Biotium- Bleached, but better than Slow Fade
+- Ever Bright from Biotium- Bleached, but better than Slow Fade
  Gold
 - Slow Fade Gold from Thermo - didn\'t seem to quench beforehand, but
  bleached Quickly.
-- [Vectasheild - Quenched before imaging\
+- Vectasheild - Quenched before imaging\

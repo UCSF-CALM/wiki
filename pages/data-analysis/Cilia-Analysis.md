@@ -18,9 +18,18 @@ segmenting then measuring
 - Easy to use and get set up on
 - The basics is to Train with the Elements Ai (pixel-based machine
  learning), then analyze with a pipeline in the software
-- Great for segmenting in 2D or 3D, then measuring fluorescence/size and
- shape
-
+- Great for segmenting in 2D or 3D, then measuring fluorescence/size and shape
+- NOTE: Steps acquiring on  a microscope that uses micro-manager for easier import/NIS Elements
+   - Capture stacks using the relative method instead of absolute
+   - Save as tiff sequence (can also save as ome.tiff if preffered and run a macro to convert if you don't mind the extra step)
+   - Use the Converting tiff seq to ND2 PDF below to get your images in to NIS-elements
+<details>
+<summary><strong>📄 Converting tiff seq to ND2 </strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdfDataAnalysis/Convert Image Seq to ND2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Auto White for Color Imaging in Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
 ### CiliaQ
 

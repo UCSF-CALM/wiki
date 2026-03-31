@@ -1,0 +1,10 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "mainThreadWebview-markdown.preview": true,
+        "markdown-preview-enhanced": true,
+        "imagePreview.previewEditor": true,
+        "vscode.videoPreview": true,
+        "gifPlayer.player": true,
+        "pdf.preview": true
+    }
+}

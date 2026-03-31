@@ -1,13 +1,8 @@
----
-layout: default
-title: Presentations
-author: Delaine Larsen
----
+
 
 # Presentations
 
-#### [Microscopy References and
- Education](Microscopy-References-and-Education.html)
+#### [Microscopy References and Education](Microscopy-References-and-Education.html)
 
 ### Introduction to Light Microscopy Class
 

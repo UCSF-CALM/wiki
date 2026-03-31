@@ -15,36 +15,36 @@ here](http://www.svi.nl/FrontPage "http://www.svi.nl/FrontPage"); the username t
 is Objective4.
 
 
-## **Pinhole Calculator link for the [Nikon TE2000-E with C2 scanning head](https://svi.nl/Nikon_TE2000E_C2)**
+#### Pinhole Calculator link for the [Nikon TE2000-E with C2 scanning head](https://svi.nl/Nikon_TE2000E_C2)
 
 
-## **CSU-22 Back projected Pinhole radius and spacing distance  by magnification **
+#### CSU-22/CSU-X1 Back projected Pinhole radius and spacing distance  by magnification
 
- Magnification Radius Spacing Distance
- --------------- --------- ------------------
- 100X 250nm 2.53um
- 60X 416.7nm 4.22um
- 40X 625nm 6.22um
- 20X 1250nm 12.7um
- 10X 2500nm 12.7um
+| **Magnification** | **Radius** | **Spacing Distance** |
+|---|---|---|
+| 100X | 250nm | 2.53um |
+| 60X | 416.7nm | 4.22um |
+| 40X | 625nm | 6.22um |
+| 20X | 1250nm | 12.7um |
+| 10X | 2500nm | 12.7um |
 
 
-## **CSU-W1 Back projected Pinhole radius and spacing distance  by magnification **
+#### CSU-W1 Back projected Pinhole radius and spacing distance  by magnification
 
- Magnification Radius Spacing Distance
- --------------- --------- ------------------
- 100X 250nm 5um
- 60X 416.7nm 8.33um
- 40X 625nm 15um
- 20X 1250nm 30um
- 10X 2500nm 50um
+| **Magnification** | **Radius** | **Spacing Distance** |
+|---|---|---|
+| 100X | 250nm | 5um |
+| 60X | 416.7nm | 8.33um |
+| 40X | 625nm | 15um |
+| 20X | 1250nm | 30um |
+| 10X | 2500nm | 50um |
 
-## **CREST-V2 Back projected Pinhole radius and spacing distance  by magnification **
+#### CREST-V2 Back projected Pinhole radius and spacing distance  by magnification
 
- Magnification Radius Spacing Distance
- --------------- --------- ------------------
- 100X 250nm 2.5um
- 60X 416.7nm 4.16um
- 40X 625nm 6.25um
- 20X 1250nm 12.5um
- 10X 2500nm 25um
+| **Magnification** | **Radius** | **Spacing Distance** |
+|---|---|---|
+| 100X | 250nm | 2.5um |
+| 60X | 416.7nm | 4.16um |
+| 40X | 625nm | 6.25um |
+| 20X | 1250nm | 12.5um |
+| 10X | 2500nm | 25um |

@@ -9,7 +9,7 @@ author: Herrington, Kari
  [NIC Analysis
  workstations](NIC-Analysis-workstations.html)
 
-## To get remote access, you must email Kari Herrington (Kari.herrington@ucsf.edu) or Micaela (Micaela.lasser@ucsf.edu)
+## To get remote access, you must email Kari Herrington (Kari.herrington@ucsf.edu) 
 
 
 ## Remember, all the time on workstations must be booked!
