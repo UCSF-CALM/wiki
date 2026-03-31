@@ -21,9 +21,9 @@ author: Delaine Larsen
 <details>
 <summary><strong>📄 Brightness and Contrast Quick Tips </strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/DataAnalysis/Using-Brighness_And_contras.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/DataAnalysis/Using-Brighness_And_contrast.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/DataAnalysis/Using-Brighness_And_contras.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p><a href="{{ '/assets/pdf/DataAnalysis/Using-Brighness_And_contrast.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
 
