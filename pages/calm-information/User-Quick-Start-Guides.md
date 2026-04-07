@@ -115,7 +115,7 @@ same on any microscope.
 <details>
 <summary><strong>📄 Rotating the image on CVRI SD #2 for the Image J Image Stitcher</strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/GeneralQuickstart/stiching on CVRIS SD2.pdf.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/stiching on CVRIS SD2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/GeneralQuickstart/stiching on CVRIS SD2.pdf.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/stiching on CVRIS SD2.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
