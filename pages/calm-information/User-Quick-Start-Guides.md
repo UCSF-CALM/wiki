@@ -15,6 +15,14 @@ author: Delaine Larsen
 Note: These are geared towards bright field color imaging on the 6D
 microscope running NIS Elements 5.21. The steps for Kohler will be the
 same on any microscope.
+<details>
+<summary><strong>📄 Setting up kohler</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/Setting up kohler.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Setting up kohler.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
 
 <details>
 <summary><strong>📄 Auto White for Color Imaging in Elements</strong></summary>
