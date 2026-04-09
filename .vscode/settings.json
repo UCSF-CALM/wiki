@@ -6,5 +6,8 @@
         "vscode.videoPreview": true,
         "gifPlayer.player": true,
         "pdf.preview": true
-    }
+    },
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
+    "workbench.preferredLightColorTheme": "Default Dark Modern"
 }

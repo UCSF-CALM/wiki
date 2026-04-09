@@ -20,6 +20,17 @@ author: Delaine Larsen
 <p><a href="{{ '/assets/pdf/GeneralQuickstart/Key Buttons on Nikon Ti Base.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
+## CSU-22 (Spinning Disk)
+
+<details>
+<summary><strong>📄 No Red Channel (561nm) laser </strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/No Red Laser on the CSU-22.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/No Red Laser on the CSU-22.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+
 
 ## Color and Bright Field Imaging Quick Guides
 
