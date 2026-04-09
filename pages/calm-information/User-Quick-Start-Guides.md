@@ -6,11 +6,22 @@ author: Delaine Larsen
 
 # User Quick Start Guides
 
-3. [Microscopy References and
+ [Microscopy References and
  Education](../references-and-education/Microscopy-References-and-Education.html)
 
 
-# Color and Bright Field Imaging Quick Guides
+## Nikon Ti Base Reference
+
+<details>
+<summary><strong>📄 Key Buttons on Nikon Ti Base</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/Key Buttons on Nikon Ti Base.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Key Buttons on Nikon Ti Base.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+
+## Color and Bright Field Imaging Quick Guides
 
 Note: These are geared towards bright field color imaging on the 6D
 microscope running NIS Elements 5.21. The steps for Kohler will be the
@@ -74,15 +85,6 @@ same on any microscope.
 <p><a href="{{ '/assets/pdf/GeneralQuickstart/Setting Up 6D and Focusing on Sample.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
-## Nikon Ti Base Reference
-
-<details>
-<summary><strong>📄 Key Buttons on Nikon Ti Base</strong></summary>
-<div class="embed-container">
-<iframe src="{{ '/assets/pdf/GeneralQuickstart/Key Buttons on Nikon Ti Base.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
-</div>
-<p><a href="{{ '/assets/pdf/GeneralQuickstart/Key Buttons on Nikon Ti Base.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
-</details>
 
 ## CSU-W1 Spinning Disk
 
@@ -94,7 +96,33 @@ same on any microscope.
 <p><a href="{{ '/assets/pdf/GeneralQuickstart/FRAP Set up W1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
+
+## CVRI Spinning Disk 1
+<details>
+<summary><strong>📄 CVRI SD #1 Startup and Shutdown</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/CVRI SD1 start up-shutdown.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/CVRI SD1 start up-shutdown.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
+<details>
+<summary><strong>📄 CVRI SD #1 Turn on and OFF CO2 Pump</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/CVRI-SD Turn On and off CO2.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/CVRI-SD Turn On and off CO2.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
 ## CVRI Spinning Disk 2
+
+<details>
+<summary><strong>📄 CVRI SD2 Startup and Shutdown</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/CVRI SD 2-Turn on.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/CVRI SD 2-Turn on.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
 <details>
 <summary><strong>📄 CVRI SD2 Startup Micro-Manager Info</strong></summary>
@@ -127,3 +155,4 @@ same on any microscope.
 </div>
 <p><a href="{{ '/assets/pdf/GeneralQuickstart/stiching on CVRIS SD2.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
+
