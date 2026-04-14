@@ -7,7 +7,7 @@
         "gifPlayer.player": true,
         "pdf.preview": true
     },
-    "workbench.colorTheme": "Default Dark+",
-    "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
-    "workbench.preferredLightColorTheme": "Default Dark Modern"
+    "workbench.colorTheme": "Dark+",
+    "workbench.preferredHighContrastLightColorTheme": "Dark Modern",
+    "workbench.preferredLightColorTheme": "Dark Modern"
 }
