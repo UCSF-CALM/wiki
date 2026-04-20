@@ -6,11 +6,14 @@ author: Delaine Larsen
 
 # User Quick Start Guides
 
- [Microscopy References and
- Education](../references-and-education/Microscopy-References-and-Education.html)
+ [Microscopy References and Education](../references-and-education/Microscopy-References-and-Education.html)
+
+## General Micromanager Protocols
+- [How to stitch images acquired in Micro-Manager](Stitching-Images-Acquired-in-Micro-Manager.html)
+- [How to Acquire Flat Field  correction](How-to-Acquire-Flat-Field-correction.html)
 
 
-## Nikon Ti Base Reference
+## Nikon Ti Guides
 
 <details>
 <summary><strong>📄 Key Buttons on Nikon Ti Base</strong></summary>

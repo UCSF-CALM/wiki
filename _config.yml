@@ -74,11 +74,11 @@ navigation:
         link: ./pages/data-analysis/MATLAB.html
   - name: Sample Preparation
     link: ./pages/sample-preparation/Sample-Preparation.html
-    sublist:
-      - name: Protocols
-        link: ./pages/sample-preparation/Protocols.html
-      - name: Materials
-        link: ./pages/sample-preparation/Materials.html
+   # sublist:
+     # - name: Protocols
+      #  link: ./pages/sample-preparation/Protocols.html
+      #- name: Materials
+      #  link: ./pages/sample-preparation/Materials.html
   - name: References & Education
     link: ./pages/references-and-education/Microscopy-References-and-Education.html
     sublist:
