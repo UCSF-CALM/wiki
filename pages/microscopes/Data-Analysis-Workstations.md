@@ -6,43 +6,53 @@ author: Delaine Larsen
 
 # Data Analysis Workstations
 
-Workstations can be used and acessed remomtely! See [Remote Access to the workstations ](Remote-Access-to-the-Workstations.html)
+Workstations can be used and acessed remomtely! See [Remote Access to the workstations](../data-analysis/Remote-Access-to-the-Workstations.md)
+
+The following Analysis workstations have high speed (10Gb) access to the mic.ucsf.edu file server and can be booked through [iLabs](../calm-information/iLab.html).
 
 ### Analysis Workstation 2
 
- - Windows11 Pro 64 Bit
- - Asus Pro WS WRX90E-SAGE SE
- - AMD Ryzen ThreadRipper Pro 7965WX sTR5 24C/48T 4.2GHz 128MB 350W
- - 384 GB ECC DDR5 RAM
- - 2 TB M.2 SSD Raid
- - 15TB NvME SSD
- - Navidia RTX A6000 48GB GPU
+- Windows 11 desktop computer.
+- Asus Pro WS WRX90E-SAGE SE
+- AMD ThreadRipper Pro 7965WX 24C/48T 4.2GHz
+- 8 x 48 = 384GB ECC RAM
+- 2 x 2TB NVME M.2 PCIe Gen5 drive
+- 15.4TB NVME Gen4 SSD
+- Nvidia RTX A600
+- 10Gb ethernet (to server)
 
 ##### Software installed:
 
- - LuxBundle
- - Huygens
+ 
+
  - Fiji
  - Cell Profiler
+ - Nikon Elements
+ - Micro Manager
+ - CellProfiler
 
 
 
 ### Analysis Workstation 4
 
- - Windows11 Pro 64 Bit
- - Asus Pro WS WRX90E-SAGE SE
- - AMD Ryzen ThreadRipper Pro 7965WX sTR5 24C/48T 4.2GHz 128MB 350W
- - 384 GB ECC DDR5 RAM
- - 2 TB M.2 SSD Raid
- - 15TB NvME SSD
- - Navidia RTX A6000 48GB GPU
+ - Windows 11 desktop computer.
+- Asus Pro WS WRX90E-SAGE SE
+- AMD ThreadRipper Pro 7965WX 24C/48T 4.2GHz
+- 8 x 48 = 384GB ECC RAM
+- 2 x 2TB NVME M.2 PCIe Gen5 drive
+- 15.4TB NVME Gen4 SSD
+- Nvidia RTX A600
+- 10Gb ethernet (to server)
 
 ##### Software Installed
 
- - Nikon Elements
+ 
  - Fiji
  - Cell Profiler
  - NIS- Elements 6.02
+ - LuxBundle
+  - Huygens
+  - CellProfiler
 
 
 ### OMX Stand-alone workstation
