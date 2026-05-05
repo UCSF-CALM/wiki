@@ -37,7 +37,13 @@ author: Delaine Larsen
 
 #### In other data analysis...
 
-- [C-Trap Data Analysis - Getting started](https://wiki.library.ucsf.edu/display/CMW/C-Trap+Data+Analysis){rel="nofollow"}
+- Optical trap
+  - [C-Trap Data Analysis - Getting started](https://wiki.library.ucsf.edu/display/CMW/C-Trap+Data+Analysis){rel="nofollow"}
+- Deconvolution:
+  - [Gradient Consensus by Andrew York](https://zenodo.org/records/10278919)
+         - [Devlopement discussion on ImageJ Forum](https://forum.image.sc/t/automatic-data-driven-parameter-free-optimal-deconvolution-available-for-testing/113867)
+   - [Huygens](Huygens.html)- Commercial software in core (also listed below)
+
 
 ### Commercial Software available at the CALM
 
