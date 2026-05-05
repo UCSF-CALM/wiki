@@ -32,7 +32,7 @@ Michael Davidson maintains an excellent family of websites, many sponsored by ma
 - John Maloney has a very nice presentation on statistics and data analysis from the MIT IAP: [Maloney.pdf](http://web.mit.edu/vvgroup/Maloney%20-%20Topics%20in%20statistics%20%28MIT%202010%20IAP%29.pdf)
 - A nice primer on image analysis in ImageJ/Fiji: [Analyzing fluorescence microscopy images](http://www.microscopist.co.uk/wp-content/uploads/2018/09/ImageJ_FL_Image_Analysis.pdf)
 - Peter Bankhead's [Analyzing Fluorescence Microscopy Images with ImageJ gitbook](https://petebankhead.gitbooks.io/imagej-intro/content/)
-- Ljosa V, Carpenter AE. [Introduction to the quantitative analysis of two-dimensional fluorescence microscopy images for cell-based screening.](http://www.ncbi.nlm.nih.gov/pubmed/20041172) PLoS Comput Biol. 2009 Dec;5(12):e1000603.
+- Ljosa V, Carpenter AE. [Introduction to the quantitative analysis of two-dimensional fluorescence microscopy images for cell-based screening.](http://www.ncbi.nlm.nih.gov/pubmed/20041172) PLoS compute Biol. 2009 Dec;5(12):e1000603.
 - [Basics of Quantitative Image Analysis](http://www.pasteur.gr/wp-content/uploads/Basics-of-Quantitative-image-analysis.pdf) (large slide set with good illustrations of important analysis concepts)
 - Jim Pawley. The 39 Steps: A Cautionary Tale of Quantitative 3-D Fluorescence Microscopy. [Biotechniques.](http://www.ncbi.nlm.nih.gov/pubmed/10818693) 2000 May;28(5):884-6, 888.
 - Jennifer C. Waters. Accuracy and precision in quantitative fluorescence microscopy. Journal of Cell Biology 2009 185(7):1135-1148.

@@ -16,14 +16,14 @@ author: Delaine Larsen
 
 - [Find my Pixel size?](Finding-your-pixel-size.html)
 - [Add a scale bar](Add-a-scale-bar-in-Fiji.html)
-- [View Orthangonal Slices
+- [View orthogonal Slices
  (Fiji)](Fiji--Viewing-orthagonal-slices.html)
 <details>
 <summary><strong>📄 Brightness and Contrast Quick Tips </strong></summary>
 <div class="embed-container">
-<iframe src="{{ '/assets/pdf/DataAnalysis/Using-Brighness_And_contrast.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ '/assets/pdf/DataAnalysis/Using-brightness_And_contrast.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>
-<p><a href="{{ '/assets/pdf/DataAnalysis/Using-Brighness_And_contrast.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+<p><a href="{{ '/assets/pdf/DataAnalysis/Using-brightness_And_contrast.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
 
@@ -41,7 +41,7 @@ author: Delaine Larsen
   - [C-Trap Data Analysis - Getting started](https://wiki.library.ucsf.edu/display/CMW/C-Trap+Data+Analysis){rel="nofollow"}
 - Deconvolution:
   - [Gradient Consensus by Andrew York](https://zenodo.org/records/10278919)
-         - [Devlopement discussion on ImageJ Forum](https://forum.image.sc/t/automatic-data-driven-parameter-free-optimal-deconvolution-available-for-testing/113867)
+         - [devolvement discussion on ImageJ Forum](https://forum.image.sc/t/automatic-data-driven-parameter-free-optimal-deconvolution-available-for-testing/113867)
    - [Huygens](Huygens.html)- Commercial software in core (also listed below)
 
 
@@ -52,7 +52,7 @@ author: Delaine Larsen
  an easy-to-use tool for routine data analysis.
 - [MATLAB](MATLAB.html) - A popular commercial programming
  language and interactive environment for data analysis. Useful links
- to microscopy tools for Matlab are collected here.**Note: this is available for all people at UCSF through and academic liscence from the school**
+ to microscopy tools for Matlab are collected here.**Note: this is available for all people at UCSF through and academic license from the school**
 - [Huygens](Huygens.html) - Huygens is a powerful and easy to use deconvolution program.
 - [Slidebook](https://www.intelligent-imaging.com/slidebook) - 3i commercial software package for image acquisition
  and analysis.

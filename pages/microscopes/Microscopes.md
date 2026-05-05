@@ -25,7 +25,7 @@ including technical details and information for end users.
 - [C-trap optical tweezers](C-Trap-Optical-Tweezers.html)
 - [Snouty High NA Single Objective Light Sheet ](Snouty.html)
 - [Other equipment and objectives](Other-Equipment-and-Objectives.html)
-- [N-SIM (Decomissioned)](N-SIM.html) (Decommissioned)
+- [N-SIM (decommissioned)](N-SIM.html) (Decommissioned)
 
 
 
@@ -37,11 +37,11 @@ including technical details and information for end users.
 - [Nikon Epifluorescence
  Microscope](CVRI-Nikon-Epifluorescence-Microscope.html) (Decommissioned)
 - [Leica SPE
- Confocal](CVRI-Leica-SPE-Confocal.html)(Decomissioned)
+ Confocal](CVRI-Leica-SPE-Confocal.html)(decommissioned)
 
 
 
-### [Data Analysis Workstations](Data-Analysis-Workstations.html)
+### [Data Analysis Workstations](../data-analysis/Data-Analysis-Workstations.html)
 
 
 ### [Other equipment and objectives](Other-Equipment-and-Objectives.html)
