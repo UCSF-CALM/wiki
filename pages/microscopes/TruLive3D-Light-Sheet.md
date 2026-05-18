@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: TruLive3D Light Sheet
 author: Herrington, Kari
@@ -10,19 +10,17 @@ date: Jun 13, 2025
 ## Optics
 ### Objectives
 
-1. Two Nikon CFI Plan Fluor 10x W 0.3 NA water immersion objective lens
- for illumination
-
-2.  One Nikon CFI Apo 25x (eff. 50x) W 1.1 NA water immersion objective
- lens for\
-  detection
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | Two Nikon CFI Plan Fluor 10x W 0.3 NA water immersion objective lens for illumination | |
+| 2. | One Nikon CFI Apo 25x (eff. 50x) W 1.1 NA water immersion objective lens for detection | |
 
 Tube lens Magnifier for detection objective
 
 1. 0.5 x = Effective Magnification 12.5 x
-2.  1 x  = Effective Magnification 25 x
-3.  1.5 x  = Effective Magnification 37.5 x
-4.  2 x   = Effective Magnification  50 x
+2. Â 1 xÂ  = Effective Magnification 25 x
+3. Â 1.5 xÂ  = Effective Magnification 37.5 x
+4. Â 2 x Â  = Effective MagnificationÂ  50 x
 
 ### Excitation Wavelengths:
 
@@ -56,28 +54,28 @@ Tube lens Magnifier for detection objective
 3. BP 526-564 = Chroma ET 545/40
 4. BP 580-627 = Chroma ET 605/50
 5. BP 610-629 = Semrock 620/14
-6. BP 655-704  = Semrock Brightline 679/41
-7. LP 656 =  Chroma 655 LP
+6. BP 655-704Â  = Semrock Brightline 679/41
+7. LP 656 =Â  Chroma 655 LP
 8. LP 696 = Chroma 700LP
 9. BP 710-749 = Semrock 730/39
 
 
 ### Dichroics between cameras
 
-1.  500LP Camera splitting dichroic
+1. Â 500LP Camera splitting dichroic
  1. Splits emission light longer than 500 to one\
-  camera and shorter than 500nm to a second camera
+ Â camera and shorter than 500nm to a second camera
 
-2.  565LP Camera splitting dichroic
- 1.  Splits emission light longer than 565 to one\
-  camera and shorter than 565nm to a second camera.
+2. Â 565LP Camera splitting dichroic
+ 1. Â Splits emission light longer than 565 to one\
+ Â camera and shorter than 565nm to a second camera.
 
 3. 640LP Camera splitting dichroic
- 1.  Splits emission light longer than 640 to one\
-  camera and shorter than 640nm to a second camera.
+ 1. Â Splits emission light longer than 640 to one\
+ Â camera and shorter than 640nm to a second camera.
 
 <details>
-<summary><strong>📄 Dichroic Diagram</strong></summary>
+<summary><strong>ðŸ“„ Dichroic Diagram</strong></summary>
 <div class="embed-container">
 <iframe src="{{ '/assets/pdf/microscope/Trulive/Dichroic Diagram.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>
@@ -87,17 +85,17 @@ Tube lens Magnifier for detection objective
 ### Hardware
 
 - Hamamatsu Fire sCmossCamera x2
--  MEMS-Based Steering Module for Advanced Beam Control and Destriping
--  Dispersion-free iris-based beam expander module (Tag lens)
--  Temperature control for the MuVi or InVi SPIM sample chamber with gas
+- Â MEMS-Based Steering Module for Advanced Beam Control and Destriping
+- Â Dispersion-free iris-based beam expander module (Tag lens)
+- Â Temperature control for the MuVi or InVi SPIM sample chamber with gas
  mixer (Ibidi) for full\
-  control of gas composition (CO2, O2, humidity). Range 18 -- 40°C
+ Â control of gas composition (CO2, O2, humidity). Range 18 -- 40Â°C
  - Currently set up for CO2 only
 - Luxendo MuVi SPIM Laser Switcher
- -  Switches visible lasers between the light sheet optics and\
-  photomanipulation module.
+ - Â Switches visible lasers between the light sheet optics and\
+ Â photomanipulation module.
 
--  Ablation Photomanipulation unit for a MuVi SPIM
+- Â Ablation Photomanipulation unit for a MuVi SPIM
 
 ### Lasers
 
@@ -108,7 +106,7 @@ Tube lens Magnifier for detection objective
 - 642 nm CW diode laser, 40mW before fiber
 - 685 nm CW diode laser, 40mW before fiber
 - Pulsed 532nm VIS laser, 1.5ns pulse length\
-  Diffraction-limited focal size
+ Â Diffraction-limited focal size
 
 Neutral density filters for lasers
 
@@ -147,7 +145,7 @@ Read here for the Data structure and opening:
 ### Manual
 
 <details>
-<summary><strong>📄 TruLive Manual</strong></summary>
+<summary><strong>ðŸ“„ TruLive Manual</strong></summary>
 <div class="embed-container">
 <iframe src="{{ '/assets/pdf/microscope/Trulive/TreLiveManual.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>
@@ -157,7 +155,7 @@ Read here for the Data structure and opening:
 ### Photo Manipulation
 
 <details>
-<summary><strong>📄 Photomanipulation</strong></summary>
+<summary><strong>ðŸ“„ Photomanipulation</strong></summary>
 <div class="embed-container">
 <iframe src="{{ '/assets/pdf/microscope/Trulive/Photomanipulation.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>
@@ -165,7 +163,7 @@ Read here for the Data structure and opening:
 </details>
 
 <details>
-<summary><strong>📄 Luxendo Photomanipulation</strong></summary>
+<summary><strong>ðŸ“„ Luxendo Photomanipulation</strong></summary>
 <div class="embed-container">
 <iframe src="{{ '/assets/pdf/microscope/Trulive/LuxendoPhotomanipulation.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>
@@ -173,7 +171,7 @@ Read here for the Data structure and opening:
 </details>
 
 <details>
-<summary><strong>📄 CryLas Photomanipulation</strong></summary>
+<summary><strong>ðŸ“„ CryLas Photomanipulation</strong></summary>
 <div class="embed-container">
 <iframe src="{{ '/assets/pdf/microscope/Trulive/Crylas-Photomanipulation.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
 </div>

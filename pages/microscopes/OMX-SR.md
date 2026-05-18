@@ -11,8 +11,10 @@ author: Delaine Larsen
 ## Optics
 ### Objectives
 
-1. Plan ApoN 60x/1.42
-2. TIRF Apo 60x/1.49
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | Plan ApoN 60x/1.42 | |
+| 2. | TIRF Apo 60x/1.49 | |
 
 ### Cameras and Emission Filters
 

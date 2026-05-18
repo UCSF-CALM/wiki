@@ -13,12 +13,14 @@ author: Delaine Larsen
 ## Optics
 ### Objectives
 
-1. Plan Apo I 10x/0.45
-2. Plan Fluor ELWD 40x/0.65
-3. Empty
-4. Empty
-5. Plan Apo IR 60x/1.27 Water
-6. Apo TIRF 100x/1.49 Oil
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | Plan Apo I 10x/0.45 | |
+| 2. | Plan Fluor ELWD 40x/0.65 | |
+| 3. | Empty | |
+| 4. | Empty | |
+| 5. | Plan Apo IR 60x/1.27 Water | |
+| 6. | Apo TIRF 100x/1.49 Oil | |
 
 ### Filter Turret 1
 

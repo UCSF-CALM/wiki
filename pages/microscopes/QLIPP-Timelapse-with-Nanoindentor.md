@@ -9,10 +9,12 @@ author: Herrington, Kari
 ## Optics
 ### Objectives
 
-- PLAN APO λ 10X/0.45 NA
-- PLAN FLUOR Ph1 10x/0.3 NA
-- PLAN APO 40/X.0.95 NA
-- Other objectives available in cabinet
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | PLAN APO λ 10X/0.45 NA | |
+| 2. | PLAN FLUOR Ph1 10x/0.3 NA | |
+| 3. | PLAN APO 40/X.0.95 NA | |
+| 4. | Other objectives available in cabinet | |
 
 ### Filter Turret
 

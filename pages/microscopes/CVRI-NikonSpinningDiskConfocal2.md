@@ -5,12 +5,14 @@
 ## Optics
 ### Objectives
 
-- 10X λ Plan Apo 0.45 NA
-- 20x Plan Apo VC 0.75NA DIC N2
-- 40x Plan Apo 1.3 NA (in cabinet)
-- 40x Plan Apo 0.95 NA (in cabinet)
-- 60x Plan Apo VC 1.4NA DIC H N2
-- Plan Apo VC 100x 1.4 NA DIC 2 (in cabinet)
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | 10X λ Plan Apo 0.45 NA | |
+| 2. | 20x Plan Apo VC 0.75NA DIC N2 | |
+| 3. | 40x Plan Apo 1.3 NA (in cabinet) | |
+| 4. | 40x Plan Apo 0.95 NA (in cabinet) | |
+| 5. | 60x Plan Apo VC 1.4NA DIC H N2 | |
+| 6. | Plan Apo VC 100x 1.4 NA DIC 2 (in cabinet) | |
 
 
 ### Filter Turret 1 (FL1, Top)

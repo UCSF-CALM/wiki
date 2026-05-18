@@ -10,10 +10,12 @@ author: Delaine Larsen
 ## Optics
 ### Objectives
 
-- ACS APO 10x/0.3
-- HCX APO LUVI 20x/0.5 WI
-- ACS APO 40x/1.15 Oil
-- ACS APO 63x/1.3 Oil
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | ACS APO 10x/0.3 | |
+| 2. | HCX APO LUVI 20x/0.5 WI | |
+| 3. | ACS APO 40x/1.15 Oil | |
+| 4. | ACS APO 63x/1.3 Oil | |
 
 ### Emission:
 

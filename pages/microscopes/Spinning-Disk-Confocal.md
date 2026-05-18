@@ -11,12 +11,14 @@ author: Delaine Larsen
 ## Optics
 ### Objectives
 
-1. Plan Fluor 10x /0.3 (Ph1 DL) -910 nm/pixel
-2. Plan Apo 40x/0.95 Corr (DIC N2 / 40X I) - 227.5 nm/pixel
-3. Plan Apo VC 60x/1.2 WI- 154nm/pixel
-4. Plan Apo VC 60x/1.4 Oil -154 nm/pixel
-5. Plan Apo VC 100x/1.4 Oil (DIC N2 / 100X I) 91 nm/pixel
-6. Apo TIRF 100x/1.49 Oil 91 nm/pixel
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | Plan Fluor 10x /0.3 (Ph1 DL) | 910 nm/pixel |
+| 2. | Plan Apo 40x/0.95 Corr (DIC N2 / 40X I) | 227.5 nm/pixel |
+| 3. | Plan Apo VC 60x/1.2 WI | 154 nm/pixel |
+| 4. | Plan Apo VC 60x/1.4 Oil | 154 nm/pixel |
+| 5. | Plan Apo VC 100x/1.4 Oil (DIC N2 / 100X I) | 91 nm/pixel |
+| 6. | Apo TIRF 100x/1.49 Oil | 91 nm/pixel |
 
 ### Filter Turret 1 (FL1, Top)
 

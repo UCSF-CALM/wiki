@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 title: Snouty High NA Single Objective Light Sheet 
 author: Herrington, Kari
@@ -14,14 +14,11 @@ date: Sep 26, 2025
 ## Optics
 ### Objectives
 
-- For Viewing
- - CFI Plan Apo Lambda S 60XC Sil 1.3 NA 0.3WD
- - FOV: 400 um diameter XY, 20 um Z
- - pixel size at sample: \~0.102 um
-- Lightpath/image forming
- - AMS-AGY v2.0 NA1.0 Lamda 450 -700nm  ∞/0 WD=0
- - CFI Plan Apochromat Lambda D 40X 0.95NA (with coverslip glued to
- lens)
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | CFI Plan Apo Lambda S 60XC Sil 1.3 NA 0.3WD (For Viewing) | ~102 nm/pixel |
+| 2. | AMS-AGY v2.0 NA1.0 Lamda 450-700nm (Lightpath/image forming) | |
+| 3. | CFI Plan Apochromat Lambda D 40X 0.95NA (Lightpath/image forming) | |
 
 
 ### Intensity Filter Wheel
@@ -31,7 +28,7 @@ date: Sep 26, 2025
 3. ND Filter OD 1.5 (3.16% of the light through)
 4. ND Filter OD 1.0 (10% of the light through)
 5. ND Filter OD 0.5 (31.6% of the light through)
-6. ND Filter OD 0.0  (100% of the light through)
+6. ND Filter OD 0.0Â  (100% of the light through)
 
 ### Dichroic
 
@@ -39,7 +36,7 @@ date: Sep 26, 2025
 
 ### Emission Wheel
 
-1. ZET405/488/561/640mv2  (Chroma)
+1. ZET405/488/561/640mv2Â  (Chroma)
 2. ZET488/561m (Chroma)
 3. ET445/58m (Chroma)
 4. ET535/70m (Chroma)
@@ -73,11 +70,11 @@ date: Sep 26, 2025
  process of being set up)
 - Galvo mirror for light homoginizer 
 - Lightpath/image forming
- - AMS-AGY v2.0 NA1.0 Lamda 450 -700nm  ∞/0 WD=0
+ - AMS-AGY v2.0 NA1.0 Lamda 450 -700nm Â âˆž/0 WD=0
  - CFI Plan Apochromat Lambda D 40X 0.95NA (with coverslip glued to
  lens)
  - OptoSpin filter wheel 6 positions 32mm filters (emission) from Cairn
- - Six-Position Motorized Filter Wheel for Ø1" (Ø25 mm) Optics (ND filters for lasers) from Thorlabs
+ - Six-Position Motorized Filter Wheel for Ã˜1" (Ã˜25 mm) Optics (ND filters for lasers) from Thorlabs
  
 
 ### PC
@@ -94,7 +91,7 @@ date: Sep 26, 2025
  Manager: https://micro-manager.org/Citing_Micro-Manager
 
  ### Imaging Reccomendations
-- See slide and dish recommendations here: [Plates and dishes for
+- See slide and dish recommendations here:Â [Plates and dishes for
  imaging](../sample-preparation/Plates-and-dishes-for-imaging.html), Note Must be
  No. 1.5 Coverslip equivialant
  - Imaging dish footprints that can be used:

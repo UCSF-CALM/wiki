@@ -177,9 +177,11 @@ author: Delaine Larsen
 ## Optics
 ### Objectives
 
-1. AZ Plan Fluor 2x
-2. AZ Plan Fluor 5x
-3. AZ Plan Apo 1x
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | AZ Plan Fluor 2x | |
+| 2. | AZ Plan Fluor 5x | |
+| 3. | AZ Plan Apo 1x | |
 
 ### Emission Wheel
 

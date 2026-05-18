@@ -13,11 +13,13 @@ author: Delaine Larsen
 ## Optics
 ### Objectives
 
-- Plan Apo 4x/0.2
-- Plan Fluor 10x/0.3
-- Plan Apo VC 0.75NA 20x
-- Plan Apo 20X/0.45 ELWD
-- Plan Apo VC 60x/1.4
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | Plan Apo 4x/0.2 | |
+| 2. | Plan Fluor 10x/0.3 | |
+| 3. | Plan Apo VC 0.75NA 20x | |
+| 4. | Plan Apo 20X/0.45 ELWD | |
+| 5. | Plan Apo VC 60x/1.4 | |
 
 ### Filter Turret
 

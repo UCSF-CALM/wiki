@@ -11,12 +11,14 @@ author: Delaine Larsen
 ## Optics
 ### Objectives
 
-1. Plan Fluor 10x /0.3 (Ph1) 1600 nm/pixel
-2. Plan Apo 20x/0.75 (DIC N2 / 20X) 785 nm/pixel
-3. Empty
-4. Plan Apo VC 60XA/1.20 Water
-5. Plan Apo lambda 100x/1.45 TIRF Oil 157 nm/pixel
-6. Apo TIRF 100x/1.49 Oil (DIC N2 / 100X I) 157 nm/pixel
+| Position | Objective | Pixel Size |
+|---|---|---|
+| 1. | Plan Fluor 10x /0.3 (Ph1) | 1600 nm/pixel |
+| 2. | Plan Apo 20x/0.75 (DIC N2 / 20X) | 785 nm/pixel |
+| 3. | Empty | |
+| 4. | Plan Apo VC 60XA/1.20 Water | |
+| 5. | Plan Apo lambda 100x/1.45 TIRF Oil | 157 nm/pixel |
+| 6. | Apo TIRF 100x/1.49 Oil (DIC N2 / 100X I) | 157 nm/pixel |
 
 ### Filter Turret 1 (FL1)
 
