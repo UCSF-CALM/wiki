@@ -38,7 +38,7 @@ author: Delaine Larsen
 #### In other data analysis...
 
 - Optical trap
-  - [C-Trap Data Analysis - Getting started](https://wiki.library.ucsf.edu/display/CMW/C-Trap+Data+Analysis){rel="nofollow"}
+  - [C-Trap Data Analysis - Getting started](https://wiki.library.ucsf.edu/display/CMW/C-Trap+Data+Analysis)
 - Deconvolution:
   - [Gradient Consensus by Andrew York](https://zenodo.org/records/10278919)
          - [devolvement discussion on ImageJ Forum](https://forum.image.sc/t/automatic-data-driven-parameter-free-optimal-deconvolution-available-for-testing/113867)
@@ -47,7 +47,7 @@ author: Delaine Larsen
 
 ### Commercial Software available at the CALM
 
-- [NIS-Elements](https://www.microscope.healthcare.nikon.com/products/software/nis-elements) - Nikon\'s image acquisition and analysis software.
+- [NIS-Elements](https://www.microscope.healthcare.nikon.com/products/software/nis-elements) - Nikon's image acquisition and analysis software.
  The same software we use to run most of the microscopes, this is also
  an easy-to-use tool for routine data analysis.
 - [MATLAB](MATLAB.html) - A popular commercial programming

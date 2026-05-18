@@ -15,7 +15,7 @@ author: Delaine Larsen
 | 1. Plan Apo λ 10x / 0.45 | 649.3 | 667.1 | 1029 |
 | 2. Plan Apo λ 20x / 0.75 | 325.1 | 334.1 | 649.2 |
 | 3. Apo LWD 40x / 1.15 WI | 163.9 | 169.1 | 328.6 |
-| 4. Plan Flour 60x / 1.3 Oil | 163.9 | 169.1 | 328.6 |
+| 4. Plan Flour 60x / 1.3 Oil | 108.3 | 111.9 | 328.6 |
 | 5. Plan Apo VC 60x / 1.4 Oil | 108.3 | 111.9 | 217.5 |
 | 6. Apo TIRF 100x / 1.49 Oil | 64.6 | 66.8 | 130.0 |
 
