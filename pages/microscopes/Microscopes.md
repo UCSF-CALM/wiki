@@ -41,7 +41,7 @@ including technical details and information for end users.
 
 
 
-### [Data Analysis Workstations](../data-analysis/Data-Analysis-Workstations.html)
+### [Data Analysis Workstations](../data-analysis/NIC-Analysis-workstations.html)
 
 
 ### [Other equipment and objectives](Other-Equipment-and-Objectives.html)
