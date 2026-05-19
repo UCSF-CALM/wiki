@@ -9,9 +9,8 @@ author: Delaine Larsen
  [Microscopy References and Education](../references-and-education/Microscopy-References-and-Education.html)
 
 ## General Micromanager Protocols
-- [How to stitch images acquired in Micro-Manager](Stitching-Images-Acquired-in-Micro-Manager.html)
-- [How to Acquire Flat Field  correction](How-to-Acquire-Flat-Field-correction.html)
-- assets\pdf\GeneralQuickstart\StagePosition-List-MM.pdf
+- [How to stitch images acquired in Micro-Manager](../data-analysis/Stitching-Images-Acquired-in-Micro-Manager.html)
+- [How to Acquire Flat Field  correction](../data-analysis/How-to-Acquire-Flat-Field-correction.html)
 
 <details>
 <summary><strong>📄 Using the stage position List in MM</strong></summary>
