@@ -21,6 +21,24 @@ The stage position allows for multi point imaging and the grid creator lets you 
 <p><a href="{{ '/assets/pdf/GeneralQuickstart/StagePosition-List-MM.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
+## General NIS-Elements Information
+
+<details>
+<summary><strong>📄 What is Changing: Apperance Vs. Data in Elements</strong></summary>
+The stage position allows for multi point imaging and the grid creator lets you tile!
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/WhatisChangingAppeanceVsDatainElements.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/WhatisChangingAppeanceVsDatainElements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+<details>
+<summary><strong>📄 Shading Correction Fluorescence in Elements</strong></summary>
+The stage position allows for multi point imaging and the grid creator lets you tile!
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/ShadingCorrectionFluorescence-Elements.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/ShadingCorrectionFluorescence-Elements.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
 ## Nikon Ti Guides
 
@@ -119,6 +137,14 @@ same on any microscope.
 <p><a href="{{ '/assets/pdf/GeneralQuickstart/FRAP Set up W1.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
+## C2/CREST Spinning Disk LOV
+<details>
+<summary><strong>📄 Setting up Spinning Disk Channels on CREST</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/Settingupchannels-CREST.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/Settingupchannels-CREST.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
 ## CVRI Spinning Disk 1
 <details>
