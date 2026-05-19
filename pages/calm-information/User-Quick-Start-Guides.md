@@ -11,6 +11,16 @@ author: Delaine Larsen
 ## General Micromanager Protocols
 - [How to stitch images acquired in Micro-Manager](Stitching-Images-Acquired-in-Micro-Manager.html)
 - [How to Acquire Flat Field  correction](How-to-Acquire-Flat-Field-correction.html)
+- assets\pdf\GeneralQuickstart\StagePosition-List-MM.pdf
+
+<details>
+<summary><strong>📄 Using the stage position List in MM</strong></summary>
+The stage position allows for multi point imaging and the grid creator lets you tile!
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/StagePosition-List-MM.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/StagePosition-List-MM.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
 
 
 ## Nikon Ti Guides
