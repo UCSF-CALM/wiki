@@ -23,6 +23,6 @@ title: Other Equipment and Objectives
 
 - [CellASIC
  ONIX](https://www.sigmaaldrich.com/US/en/campaigns/cellasic-onix2-microfluidic-system "https://www.sigmaaldrich.com/US/en/campaigns/cellasic-onix2-microfluidic-system")
-- [Optics11 Chairo Nanoindentor] (https://www.optics11life.com/products/chiaro-nanoindenter/ "https://www.optics11life.com/products/chiaro-nanoindenter/")
+- [Optics11 Chairo Nanoindentor](https://www.optics11life.com/products/chiaro-nanoindenter/ "https://www.optics11life.com/products/chiaro-nanoindenter/")
 - A Nikon Darkfield Condensor
 - A Nikon 1.4NA Oil DIC Condensor
