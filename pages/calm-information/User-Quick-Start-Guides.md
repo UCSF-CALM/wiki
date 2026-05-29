@@ -163,6 +163,14 @@ same on any microscope.
 <p><a href="{{ '/assets/pdf/GeneralQuickstart/CVRI-SD Turn On and off CO2.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
 </details>
 
+<details>
+<summary><strong>📄 CVRI SD #1 Elements Set up</strong></summary>
+<div class="embed-container">
+<iframe src="{{ '/assets/pdf/GeneralQuickstart/CVRI-SD1-Element Set-up Guide.pdf' | relative_url }}" width="100%" height="600px" style="border: none;"></iframe>
+</div>
+<p><a href="{{ '/assets/pdf/GeneralQuickstart/CVRI-SD1-Element Set-up Guide.pdf' | relative_url }}" target="_blank">Open PDF in new tab</a></p>
+</details>
+
 ## CVRI Spinning Disk 2
 
 <details>
