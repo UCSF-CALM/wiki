@@ -47,22 +47,22 @@ author: Delaine Larsen
 
 ### Commercial Software available at the CALM
 
-- [NIS-Elements](https://www.microscope.healthcare.nikon.com/products/software/nis-elements) - Nikon's image acquisition and analysis software.
+- [NIS-Elements](https://www.microscope.healthcare.nikon.com/products/software/nis-elements) - Nikon's image acquisition and analysis software. On NIC-Annalysis2 and 4
  The same software we use to run most of the microscopes, this is also
  an easy-to-use tool for routine data analysis.
+ - [Huygens](Huygens.html) - Huygens is a powerful and easy to use deconvolution program. On NIC-Annalysis4
 - [MATLAB](MATLAB.html) - A popular commercial programming
  language and interactive environment for data analysis. Useful links
  to microscopy tools for Matlab are collected here.**Note: this is available for all people at UCSF through and academic license from the school**
-- [Huygens](Huygens.html) - Huygens is a powerful and easy to use deconvolution program.
-- [Slidebook](https://www.intelligent-imaging.com/slidebook) - 3i commercial software package for image acquisition
- and analysis.
+
+
 
 ### Free Software
 
-- [ImageJ and Variants](ImageJ-and-Variants.html) - One of the most commonly used free image analysis programs. Has a large and active development community.
-- [Nikon Viewer](https://www.microscope.healthcare.nikon.com/products/software/nis-elements/viewer) - Free viewer for Nikon\'s file formats.
+- [ImageJ and Variants](ImageJ-and-Variants.html) - One of the most commonly used free image analysis programs. Has a large and active development community. 
 - [CellProfiler](https://cellprofiler.org/) - A free, open source image analysis tool designed for
  analysis of image-based screens.
+- [Nikon Viewer](https://www.microscope.healthcare.nikon.com/products/software/nis-elements/viewer) - Free viewer for Nikon\'s file formats.
 - [Allen Cell Explorer](https://www.allencell.org/) - Resources from Allen Institute for Cell Science.
  Includes the Cell Feature Explorer, Cell Catalog, and Allen Cell
  Structure Segmenter.
@@ -74,7 +74,7 @@ author: Delaine Larsen
 - [Ilastik](https://www.ilastik.org/)-Machine learning algorithms to segment, classify, track and count
  your cells or other experimental
  data.
- - Use ilastik and cell profiler together! Check out the [Cell
+   - Use ilastik and cell profiler together! Check out the [Cell
  Profiler and Ilastik: Superpowered segmentation blog
  entry](https://carpenter-singh-lab.broadinstitute.org/blog/cellprofiler-ilastik-superpowered-segmentation) and the [How to use Pixel Classification in Cell
  Profile](https://github.com/CellProfiler/CellProfiler/wiki/How-to-use-Pixel-Classification-in-CellProfiler)[r](https://github.com/CellProfiler/CellProfiler/wiki/How-to-use-Pixel-Classification-in-CellProfiler), which has important instructions for the export of
@@ -87,6 +87,9 @@ author: Delaine Larsen
 - [Nico Stuurman](https://github.com/nicost?tab=repositories)
 - [BIDC](https://github.com/BIDCatUCSF?tab=repositories)
 - [Andrew York](https://github.com/AndrewGYork)
+
+### Fun Coding resources
+-[https://www.commands.sh/](https://www.commands.sh/) - A searchable website for git, docker, shh comands.
 
 ### Specific analysis
 
