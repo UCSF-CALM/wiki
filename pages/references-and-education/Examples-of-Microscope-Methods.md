@@ -15,6 +15,10 @@ Set up is given. You can use these as a base and switch out specific components 
 
 [See 6D microscope hardware specifications here for more details](../microscopes/6D.html)
 
+### Set up: Brightfield stiched color images with a 10X lens using HCA jobs and NIS elements
+
+Brightfield images were captured on an inverted Nikon TI microscope equipped with an automated stage and stage-up kit and run using NIS-Elements 5.20.21 (Nikon) with HCA-JOBs for tiling with 20% overlap. Images were captured with a DS-Ri2 CMOS Camera (Nikon), a Plan Apo 10x/0.45 lens (pixel size 728nm), and a Halogen bulb; then stitched in software with image registration, blending, and shading corrections captured and applied at the time of imaging. 
+
 ### Set up: Fluorescent and Brightfield imaging using a 10X lens
 
 Fluorescent widefield images were captured on an inverted Nikon TI microscope run with NIS-Elements 5.20.21 (Nikon) and equipped with an automated stage and stage up kit, using a DS-Qi2 CMOS Camera (Nikon), a Plan Apo 10x/0.45 lens, Lambda LS lamp with filter wheel and shutter (Sutter), Lambda 10-3 controller and emission wheel (Sutter), using a 5-band dichroic FF408/504/581/667/762 (DA/FI/TR/Cy5/Cy7-5X5M-B-000, Semrock) in the upper turret, with excitation filters 387/11x, 485/20x, 560/25x, 650/13x (Semrock) in the Lambda LS lamp and emission filters 440/40m, 525/30m, 607/36m, 684/24m (Semrock) in the lower turret position for DAPI, GFP, Cy3, and Cy5, respectively. Color brightfield images were captured on the same system using a DS-Ri2 CMOS Camera (Nikon).
