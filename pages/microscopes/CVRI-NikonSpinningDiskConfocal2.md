@@ -1,3 +1,8 @@
+---
+layout: default
+title: "CVRI Nikon Spinning Disk Confocal # 2"
+---
+
 # CVRI Nikon Spinning Disk Confocal # 2
 
 ## [FPBASE](https://www.fpbase.org/microscope/K6fHR5wykr55kxU99i3fhY/)
