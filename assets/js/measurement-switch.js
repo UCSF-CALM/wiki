@@ -1,0 +1,27 @@
+// Swap the displayed combined plot and the CSV download link when the user
+// picks a different measurement date. Each <option> carries data-img / data-csv
+// attributes (already prefixed with the site baseurl by the page generator).
+(function () {
+  function wire(select) {
+    var imgId = select.getAttribute("data-img-target");
+    var csvId = select.getAttribute("data-csv-target");
+    var img = document.getElementById(imgId);
+    var csv = document.getElementById(csvId);
+    select.addEventListener("change", function () {
+      var opt = select.options[select.selectedIndex];
+      if (img && opt.getAttribute("data-img")) {
+        img.src = opt.getAttribute("data-img");
+        img.alt = "Combined power plot — " + opt.textContent;
+      }
+      if (csv && opt.getAttribute("data-csv")) {
+        csv.href = opt.getAttribute("data-csv");
+      }
+    });
+  }
+  document.addEventListener("DOMContentLoaded", function () {
+    var selects = document.querySelectorAll("select.measurement-picker");
+    for (var i = 0; i < selects.length; i++) {
+      wire(selects[i]);
+    }
+  });
+})();
