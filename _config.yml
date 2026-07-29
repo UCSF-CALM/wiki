@@ -8,6 +8,11 @@ color-scheme: dark
 baseurl: "/wiki"
 url: "https://UCSF-CALM.github.io"
 
+# Raw Confluence export, not referenced by any page. Excluded to keep the
+# built site under the 1 GB GitHub Pages artifact limit.
+exclude:
+  - attachments
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

@@ -1,0 +1,12 @@
+# Power Measurement Data
+# Date: 2026-07-21 12:16:49
+# Microscope: CVRISD2
+# Channel Group: Confocal Channel
+# Message: Objective: 10x0.3, all lasers set to 20mW in Stradus Software
+# Power Meter: ThorlabsPM100
+# Measurements per point: 10
+# Stabilization delay: 1000 ms
+# Measurement delay: 100 ms
+#
+Voltage,405 - DAPI_Power(W),405 - DAPI_StdDev,488 -GFP_Power(W),488 -GFP_StdDev,561 - RFP_Power(W),561 - RFP_StdDev,640 - Cy5_Power(W),640 - Cy5_StdDev
+NaN,0.001339800,0.000038408,0.002382200,0.000049727,0.002178600,0.000040603,0.001943300,0.000033639
