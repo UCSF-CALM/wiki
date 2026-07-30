@@ -101,7 +101,8 @@ author: Delaine Larsen
 ### Software
 
 - ~~Nikon Elements 5.02 build 1266~~
-- Micro-Manager 2.0 gamma (how to cite Micro- Manager: https://micro-manager.org/Citing_Micro-Manager)
+- Micro-Manager 2.0 (how to cite Micro- Manager: https://micro-manager.org/Citing_Micro-Manager)
+-- Update history: 20260730: Updated to version 2.0.3-20260729
 
 
 
