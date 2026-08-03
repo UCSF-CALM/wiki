@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Snouty High NA Single Objective Light Sheet 
 author: Herrington, Kari

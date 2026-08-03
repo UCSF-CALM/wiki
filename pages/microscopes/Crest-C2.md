@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Crest LFOV Spinning Disk/ C2 Confocal
 author: Delaine Larsen

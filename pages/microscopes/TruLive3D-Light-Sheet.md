@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: TruLive3D Light Sheet
 author: Herrington, Kari
