@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Fiji- Viewing orthogonal slices"
+---
 
 # Fiji- Viewing orthogonal slices
 

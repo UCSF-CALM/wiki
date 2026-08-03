@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Data Storage and Compute"
+---
 
 # Data Storage and Compute
 

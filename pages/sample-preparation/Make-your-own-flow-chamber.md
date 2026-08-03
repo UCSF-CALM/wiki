@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "Make your own flow chamber"
+---
 
 # Make your own flow chamber
 

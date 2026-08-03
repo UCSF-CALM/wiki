@@ -26,7 +26,7 @@ Get started with quick start guides, iLab scheduling, and acknowledgement inform
 
 ### [Acknowledgements](./pages/calm-information/Acknowledgements.html)
 How to acknowledge instruments in the core! also vist [Examples of Microscope
-Methods](../references-and-education/Examples-of-Microscope-Methods.html) for methods examples.
+Methods](./pages/references-and-education/Examples-of-Microscope-Methods.html) for methods examples.
 
 ### [Miscellaneous](./pages/miscellaneous/Miscellaneous.html)
 Additional resources including fabrication guides, PSF information, and custom equipment.

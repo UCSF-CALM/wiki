@@ -1,3 +1,7 @@
+---
+layout: default
+title: "C-Trap Data Analysis"
+---
 
 # C-Trap Data Analysis
 

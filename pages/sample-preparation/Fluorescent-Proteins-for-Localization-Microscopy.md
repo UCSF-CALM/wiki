@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "Fluorescent Proteins for Localization Microscopy"
+---
 
 # Fluorescent Proteins for Localization Microscopy
 

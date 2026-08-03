@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Brain Slice Preparation"
+---
 
 # Brain Slice Preparation
 

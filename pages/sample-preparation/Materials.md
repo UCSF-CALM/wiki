@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Materials"
+---
+
 # Materials
 
 - [High-Precision Coverslips](High-Precision-Coverslips.html)

@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "NIC Analysis workstations"
+---
 
 # NIC Analysis workstations
 

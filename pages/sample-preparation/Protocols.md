@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Protocols"
+---
+
 # Protocols
 
 - [Protocols fo Immunohistochemistry](Protocols-for-Immunocytochemistry-in-cell-culture.html)
