@@ -1,0 +1,37 @@
+name: Check site
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install checker dependencies
+        run: pip install PyYAML
+
+      # Build with the same baseurl as the real deploy so that any
+      # site-absolute links resolve the way they will in production.
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl "/wiki"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Check for unrendered pages and broken links
+        run: python script/check_site.py
