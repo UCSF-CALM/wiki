@@ -221,5 +221,13 @@ Most recent measurement: **2026-08-05 14:51**
   <option data-img="{{ '/assets/power/CSU-W1/260225_1212/powerMeasurement_CSUW1_260225_1212_combined.png' | relative_url }}" data-csv="{{ '/assets/power/CSU-W1/260225_1212/powerMeasurement_CSUW1_260225_1212.csv' | relative_url }}">2026-02-25 12:12</option>
 </select>
 
+### Maximum power over time
+
+Power at the highest voltage of each sweep, per channel.
+
+<img src="{{ '/assets/power/CSU-W1/power_history.svg' | relative_url }}" alt="Historical maximum power per channel — CSU-W1" style="max-width:100%;height:auto;" />
+
+<p><a href="{{ '/assets/power/CSU-W1/power_history.csv' | relative_url }}" download>Download historical data (CSV)</a></p>
+
 <script src="{{ '/assets/js/measurement-switch.js' | relative_url }}"></script>
 <!-- POWER:END -->

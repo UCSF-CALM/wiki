@@ -28,15 +28,49 @@ The importer surveys that directory and, for each new run:
    palettised PNG on the way in: an already-palettised PNG is moved through
    untouched, while a JPEG or a 24-bit PNG is converted. If a plot is present
    as both PNG and JPEG, the PNG wins and the JPEG is discarded.
-3. Rewrites the `## Power Measurements` block (bounded by `POWER:START` /
+3. Rebuilds the historical maximum-power files for that microscope (see
+   [Historical maximum power](#historical-maximum-power)).
+4. Rewrites the `## Power Measurements` block (bounded by `POWER:START` /
    `POWER:END` markers) at the bottom of
    `pages/microscopes/<WikiBasename>.md`. Everything above the markers —
    front matter and all hand-written content — is left untouched.
-4. Stages a git commit in this repo. **It does not push.**
+5. Stages a git commit in this repo. **It does not push.**
 
 Needs Python 3.9+ and Pillow (`pip install pillow`). The tool is idempotent:
 a run already under `assets/power/` is skipped, and every mapped page's block is
 regenerated from what's on disk, so re-running is always safe.
+
+## Historical maximum power
+
+Any microscope with **two or more** measurements also gets a trend plot and a
+combined data file, shown on its page below the date dropdown:
+
+- `assets/power/<WikiBasename>/power_history.csv` — one row per measurement,
+  one column per channel;
+- `assets/power/<WikiBasename>/power_history.svg` — that table plotted, with
+  the date on the x-axis.
+
+Both are rebuilt from every run on disk each time the importer touches that
+microscope, so they cannot drift from the per-run CSVs. A microscope with a
+single measurement gets neither, and the files (and the links to them) are
+removed again if its runs ever drop back below two.
+
+**"Maximum power" means the power at the highest voltage of the sweep**, not
+the largest value recorded. Some channels saturate and then sag — the 561 nm
+trace on Snouty flattens above ~1.7 V — so the top-of-range figure is the one
+worth tracking. Values are converted from W to mW to match the per-run plots.
+
+That figure is only comparable across dates if the sweep ends at the same
+voltage each time, so the voltage is written into the CSV as its own column and
+into the plot title (e.g. *"at 5 V"*). If a microscope's range ever changes,
+the title drops the voltage rather than implying a comparison that no longer
+holds — a prompt to look at the CSV.
+
+Channels are matched by name and unioned across runs, so a channel added or
+retired partway through the history still gets a column; runs without it leave
+a gap rather than breaking the series. The plot is generated as hand-written
+SVG: no plotting library to install, sharp at any zoom, a few KB per file, and
+it follows the reader's light or dark theme.
 
 ## Why PNG
 

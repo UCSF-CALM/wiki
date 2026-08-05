@@ -53,6 +53,10 @@ try:
 except ImportError:  # pragma: no cover - surfaced to the user at startup
     Image = None
 
+# Sibling module; make the import work regardless of the caller's cwd.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import history  # noqa: E402
+
 # ---------------------------------------------------------------------------
 # Image conversion
 # ---------------------------------------------------------------------------
@@ -333,8 +337,12 @@ def asset_url(rel: str) -> str:
     return "{{ '/" + rel + "' | relative_url }}"
 
 
-def render_power_block(wiki_basename: str, runs: list[Measurement]) -> str:
-    """Build the marker-delimited Power Measurements block for a wiki page."""
+def render_power_block(wiki_basename: str, runs: list[Measurement],
+                       has_history: bool = False) -> str:
+    """Build the marker-delimited Power Measurements block for a wiki page.
+
+    ``has_history`` adds the historical maximum-power plot and its CSV link
+    below the date dropdown; it is False for microscopes with a single run."""
     latest = runs[0]
     latest_combined = latest.combined_image_name()
     img_id = "combined-plot"
@@ -387,6 +395,22 @@ def render_power_block(wiki_basename: str, runs: list[Measurement]) -> str:
         )
     lines.append("</select>")
     lines.append("")
+
+    # Historical maximum power, for microscopes measured more than once.
+    if has_history:
+        svg_src = asset_url(f"assets/power/{wiki_basename}/{history.HISTORY_SVG}")
+        hist_csv = asset_url(f"assets/power/{wiki_basename}/{history.HISTORY_CSV}")
+        lines += [
+            "### Maximum power over time",
+            "",
+            "Power at the highest voltage of each sweep, per channel.",
+            "",
+            f'<img src="{svg_src}" alt="Historical maximum power per channel — '
+            f'{wiki_basename}" style="max-width:100%;height:auto;" />',
+            "",
+            f'<p><a href="{hist_csv}" download>Download historical data (CSV)</a></p>',
+            "",
+        ]
 
     # Wire up the dropdown behaviour.
     js_src = asset_url("assets/js/measurement-switch.js")
@@ -623,11 +647,16 @@ def main(argv: list[str] | None = None) -> int:
         runs = discover_wiki_runs(wiki, wiki_basename)
         if not runs:
             continue
-        block = render_power_block(wiki_basename, runs)
+        # Rebuild the historical max-power table/plot from every run on disk,
+        # so it stays in step with the data no matter which run was just added.
+        has_history = history.write_history(
+            power_root / wiki_basename, wiki_basename, runs)
+        block = render_power_block(wiki_basename, runs, has_history)
         ensure_front_matter(page)
         upsert_power_block(page, block)
+        extra = ", + history" if has_history else ""
         print(f"  updated pages/microscopes/{wiki_basename}.md "
-              f"({len(runs)} measurement(s))")
+              f"({len(runs)} measurement(s){extra})")
 
     if args.no_commit:
         print("\n--no-commit: wiki changes staged nothing; review with "

@@ -137,5 +137,13 @@ Most recent measurement: **2026-08-04 15:51**
   <option data-img="{{ '/assets/power/TIRF-STORM/260728_1756/powerMeasurement_TIRF_260728_1756_combined.png' | relative_url }}" data-csv="{{ '/assets/power/TIRF-STORM/260728_1756/powerMeasurement_TIRF_260728_1756.csv' | relative_url }}">2026-07-28 17:56</option>
 </select>
 
+### Maximum power over time
+
+Power at the highest voltage of each sweep, per channel.
+
+<img src="{{ '/assets/power/TIRF-STORM/power_history.svg' | relative_url }}" alt="Historical maximum power per channel — TIRF-STORM" style="max-width:100%;height:auto;" />
+
+<p><a href="{{ '/assets/power/TIRF-STORM/power_history.csv' | relative_url }}" download>Download historical data (CSV)</a></p>
+
 <script src="{{ '/assets/js/measurement-switch.js' | relative_url }}"></script>
 <!-- POWER:END -->

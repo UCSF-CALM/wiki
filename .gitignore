@@ -63,3 +63,7 @@ _site
 
 ## editor swap files
 *.sw[a-p]
+
+## Python bytecode (script/power_measurements)
+__pycache__/
+*.py[cod]
