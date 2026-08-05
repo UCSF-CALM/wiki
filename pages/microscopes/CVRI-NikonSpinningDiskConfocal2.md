@@ -82,14 +82,14 @@ Vortran laser launch
 
 Most recent measurement: **2026-07-21 12:16**
 
-<img id="combined-plot" src="{{ '/assets/power/CVRI-NikonSpinningDiskConfocal2/260721_1216/powerMeasurement_CVRISD2_260721_1216_combined.jpg' | relative_url }}" alt="Combined power plot — 2026-07-21 12:16" style="max-width:100%;height:auto;" />
+<img id="combined-plot" src="{{ '/assets/power/CVRI-NikonSpinningDiskConfocal2/260721_1216/powerMeasurement_CVRISD2_260721_1216_combined.png' | relative_url }}" alt="Combined power plot — 2026-07-21 12:16" style="max-width:100%;height:auto;" />
 
 <p><a id="csv-link" href="{{ '/assets/power/CVRI-NikonSpinningDiskConfocal2/260721_1216/powerMeasurement_CVRISD2_260721_1216.csv' | relative_url }}" download>Download CSV data</a></p>
 
 **Browse measurements:**
 
 <select class="measurement-picker" data-img-target="combined-plot" data-csv-target="csv-link">
-  <option data-img="{{ '/assets/power/CVRI-NikonSpinningDiskConfocal2/260721_1216/powerMeasurement_CVRISD2_260721_1216_combined.jpg' | relative_url }}" data-csv="{{ '/assets/power/CVRI-NikonSpinningDiskConfocal2/260721_1216/powerMeasurement_CVRISD2_260721_1216.csv' | relative_url }}">2026-07-21 12:16</option>
+  <option data-img="{{ '/assets/power/CVRI-NikonSpinningDiskConfocal2/260721_1216/powerMeasurement_CVRISD2_260721_1216_combined.png' | relative_url }}" data-csv="{{ '/assets/power/CVRI-NikonSpinningDiskConfocal2/260721_1216/powerMeasurement_CVRISD2_260721_1216.csv' | relative_url }}">2026-07-21 12:16</option>
 </select>
 
 <script src="{{ '/assets/js/measurement-switch.js' | relative_url }}"></script>

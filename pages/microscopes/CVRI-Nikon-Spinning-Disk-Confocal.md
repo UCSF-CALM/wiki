@@ -97,14 +97,14 @@ Vortran laser launch
 
 Most recent measurement: **2026-07-28 14:20**
 
-<img id="combined-plot" src="{{ '/assets/power/CVRI-Nikon-Spinning-Disk-Confocal/260728_1420/powerMeasurement_CVRI-Nikon-Spinning-Disk-Confocal_260728_1420_combined.jpg' | relative_url }}" alt="Combined power plot — 2026-07-28 14:20" style="max-width:100%;height:auto;" />
+<img id="combined-plot" src="{{ '/assets/power/CVRI-Nikon-Spinning-Disk-Confocal/260728_1420/powerMeasurement_CVRI-Nikon-Spinning-Disk-Confocal_260728_1420_combined.png' | relative_url }}" alt="Combined power plot — 2026-07-28 14:20" style="max-width:100%;height:auto;" />
 
 <p><a id="csv-link" href="{{ '/assets/power/CVRI-Nikon-Spinning-Disk-Confocal/260728_1420/powerMeasurement_CVRI-Nikon-Spinning-Disk-Confocal_260728_1420.csv' | relative_url }}" download>Download CSV data</a></p>
 
 **Browse measurements:**
 
 <select class="measurement-picker" data-img-target="combined-plot" data-csv-target="csv-link">
-  <option data-img="{{ '/assets/power/CVRI-Nikon-Spinning-Disk-Confocal/260728_1420/powerMeasurement_CVRI-Nikon-Spinning-Disk-Confocal_260728_1420_combined.jpg' | relative_url }}" data-csv="{{ '/assets/power/CVRI-Nikon-Spinning-Disk-Confocal/260728_1420/powerMeasurement_CVRI-Nikon-Spinning-Disk-Confocal_260728_1420.csv' | relative_url }}">2026-07-28 14:20</option>
+  <option data-img="{{ '/assets/power/CVRI-Nikon-Spinning-Disk-Confocal/260728_1420/powerMeasurement_CVRI-Nikon-Spinning-Disk-Confocal_260728_1420_combined.png' | relative_url }}" data-csv="{{ '/assets/power/CVRI-Nikon-Spinning-Disk-Confocal/260728_1420/powerMeasurement_CVRI-Nikon-Spinning-Disk-Confocal_260728_1420.csv' | relative_url }}">2026-07-28 14:20</option>
 </select>
 
 <script src="{{ '/assets/js/measurement-switch.js' | relative_url }}"></script>

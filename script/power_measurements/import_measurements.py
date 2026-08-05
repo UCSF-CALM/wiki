@@ -5,11 +5,25 @@ microscope page, and stage a git commit in the wiki repo.
 
 Filename convention (produced by ThorlabsPowerMeasurement*.bsh):
 
-    powerMeasurement_<Microscope>_<YYMMDD>_<HHMM>[_<channel>].{csv,jpg}
+    powerMeasurement_<Microscope>_<YYMMDD>_<HHMM>[_<channel>].{csv,png,jpg}
 
-Each measurement run is anchored by its CSV; the sibling JPGs share the
+Each measurement run is anchored by its CSV; the sibling plots share the
 ``powerMeasurement_<Microscope>_<YYMMDD>_<HHMM>`` prefix. One of them ends in
-``_combined.jpg`` and is used as the headline plot.
+``_combined`` and is used as the headline plot.
+
+Plots are stored in the wiki as palettised (256-colour) PNGs, and both PNG and
+JPEG are accepted as input while the ``.bsh`` writers are migrated from one to
+the other:
+
+* an already-palettised PNG is moved through untouched;
+* a JPEG, or a 24-bit PNG, is converted (see ``import_image``).
+
+JPEG is a poor fit for these plots — line art on a flat white background — as
+its lossy compression both softens the text and smears thousands of noise
+colours into what should be a handful of solid ones. Palettising is the step
+that matters for size: a plain 24-bit PNG is *larger* than the source JPEG,
+because it faithfully stores that JPEG noise, and even for a clean plot it
+costs three bytes per pixel regardless of how few colours are in use.
 
 The measurement microscope name is translated to a wiki page basename via a JSON
 map (``microscope_map.json`` next to this script). Data is stored in the wiki under
@@ -17,9 +31,10 @@ map (``microscope_map.json`` next to this script). Data is stored in the wiki un
 ``POWER:START``/``POWER:END`` markers appended at its end (re-runs replace only
 what's between the markers; hand-written content and front matter are untouched).
 
-Only the Python standard library is used. The script is idempotent: a run already
-present under ``assets/power/`` is skipped, and each page's power block is always
-regenerated from the full contents of that microscope's ``assets/power`` folder.
+Pillow is the only third-party dependency (``pip install pillow``), used for the
+JPEG-to-PNG conversion. The script is idempotent: a run already present under
+``assets/power/`` is skipped, and each page's power block is always regenerated
+from the full contents of that microscope's ``assets/power`` folder.
 """
 
 from __future__ import annotations
@@ -32,6 +47,65 @@ import subprocess
 import sys
 from dataclasses import dataclass, field
 from pathlib import Path
+
+try:
+    from PIL import Image
+except ImportError:  # pragma: no cover - surfaced to the user at startup
+    Image = None
+
+# ---------------------------------------------------------------------------
+# Image conversion
+# ---------------------------------------------------------------------------
+
+# The plots are line art: axes, gridlines, a few coloured traces and text. A
+# 256-colour palette covers that with room to spare, so quantising is visually
+# lossless here while roughly halving the file size relative to the source JPEG.
+PNG_COLORS = 256
+
+# Plot suffixes accepted from the measurement directory.
+IMAGE_SUFFIXES = (".png", ".jpg", ".jpeg")
+
+
+def needs_palettising(path: Path) -> bool:
+    """True if ``path`` is a PNG that is already palettised (mode "P").
+
+    A 24-bit PNG stores three bytes per pixel no matter how few colours it
+    actually uses, so palettising one of these plots is still a ~2.7x win even
+    when it is already clean and lossless. Quantising an image that has at most
+    PNG_COLORS distinct colours is exact, so this never costs quality.
+    """
+    with Image.open(path) as im:
+        return im.mode != "P"
+
+
+def convert_to_png(src: Path, dest_dir: Path) -> Path:
+    """Write ``src`` into ``dest_dir`` as a palettised PNG and return the path.
+
+    Dithering is disabled deliberately: on flat backgrounds it would scatter
+    isolated pixels that both look wrong and defeat PNG's run-length filtering.
+    """
+    dest = dest_dir / (src.stem + ".png")
+    with Image.open(src) as im:
+        rgb = im.convert("RGB")
+        rgb.quantize(colors=PNG_COLORS, method=Image.MEDIANCUT,
+                     dither=Image.NONE).save(dest, "PNG", optimize=True)
+    return dest
+
+
+def import_image(src: Path, dest_dir: Path) -> tuple[Path, str]:
+    """Place one plot into ``dest_dir`` as a PNG. Returns (path, what-happened).
+
+    A PNG that is already palettised is moved through untouched; anything else
+    (a JPEG, or a 24-bit PNG from a not-yet-updated .bsh) is converted.
+    """
+    if src.suffix.lower() == ".png" and not needs_palettising(src):
+        dest = dest_dir / src.name
+        shutil.move(str(src), str(dest))
+        return dest, "moved"
+    dest = convert_to_png(src, dest_dir)
+    src.unlink()
+    return dest, "converted"
+
 
 # ---------------------------------------------------------------------------
 # Parsing
@@ -56,7 +130,10 @@ class Measurement:
     date: str                # YYMMDD
     time: str                # HHMM
     csv: Path                # the CSV file
-    images: list[Path] = field(default_factory=list)  # all sibling JPGs
+    images: list[Path] = field(default_factory=list)  # sibling plots (JPG/PNG in, PNG out)
+    # Duplicate source plots losing to a preferred one (a JPEG alongside the
+    # same plot as PNG). Deleted on import so they are not seen again.
+    superseded: list[Path] = field(default_factory=list)
 
     @property
     def key(self) -> str:
@@ -75,8 +152,10 @@ class Measurement:
         return f"20{yy}-{mm}-{dd} {hh}:{mi}"
 
     def combined_image_name(self) -> str | None:
+        # Accept .jpg as well as .png so a not-yet-converted source run still
+        # resolves; imported runs are always PNG.
         for img in self.images:
-            if img.name.lower().endswith("_combined.jpg"):
+            if Path(img.name.lower()).stem.endswith("_combined"):
                 return img.name
         return None
 
@@ -126,11 +205,26 @@ def discover_source_measurements(source: Path) -> list[Measurement]:
             time=m.group("time"),
             csv=csv_path,
         )
-        # Collect sibling JPGs that share the same run prefix (case-insensitive).
+        # Collect sibling plots that share the same run prefix (case-insensitive).
+        # Both PNG and JPEG are accepted, since the .bsh writers are being
+        # migrated from one to the other. If a plot happens to be present as
+        # both, keep the PNG: it is the newer, non-lossy one.
         prefix = f"powerMeasurement_{m.group('mic')}_{m.group('date')}_{m.group('time')}".lower()
-        for jpg in source.glob("*.jpg"):
-            if jpg.name.lower().startswith(prefix):
-                meas.images.append(jpg)
+        by_stem: dict[str, Path] = {}
+        for img in source.iterdir():
+            if img.suffix.lower() not in IMAGE_SUFFIXES:
+                continue
+            if not img.name.lower().startswith(prefix):
+                continue
+            stem = img.stem.lower()
+            if stem not in by_stem:
+                by_stem[stem] = img
+            elif img.suffix.lower() == ".png":
+                meas.superseded.append(by_stem[stem])
+                by_stem[stem] = img
+            else:
+                meas.superseded.append(img)
+        meas.images.extend(by_stem.values())
         meas.images.sort(key=lambda p: p.name.lower())
         measurements.append(meas)
     return measurements
@@ -164,7 +258,7 @@ def discover_wiki_runs(wiki: Path, wiki_basename: str) -> list[Measurement]:
                 date=date,
                 time=time,
                 csv=csv_path,
-                images=sorted(run_dir.glob("*.jpg"), key=lambda p: p.name.lower()),
+                images=sorted(run_dir.glob("*.png"), key=lambda p: p.name.lower()),
             )
         )
     runs.sort(key=lambda mm: mm.key, reverse=True)  # newest first
@@ -177,7 +271,8 @@ def discover_wiki_runs(wiki: Path, wiki_basename: str) -> list[Measurement]:
 
 def import_measurement(meas: Measurement, wiki: Path, wiki_basename: str,
                        dry_run: bool) -> Path | None:
-    """Move a run's files into assets/power/<wiki_basename>/<key>/. Return the
+    """Import a run into assets/power/<wiki_basename>/<key>/. The CSV is moved
+    as-is; each plot is stored as a PNG (see ``import_image``). Return the
     destination, or None if it already existed (skipped)."""
     dest = wiki / "assets" / "power" / wiki_basename / meas.key
     if dest.exists():
@@ -187,8 +282,42 @@ def import_measurement(meas: Measurement, wiki: Path, wiki_basename: str,
     dest.mkdir(parents=True, exist_ok=True)
     shutil.move(str(meas.csv), str(dest / meas.csv.name))
     for img in meas.images:
-        shutil.move(str(img), str(dest / img.name))
+        import_image(img, dest)
+    for img in meas.superseded:
+        img.unlink()  # a duplicate of a plot already imported in better form
     return dest
+
+
+def backfill_pngs(wiki: Path, dry_run: bool) -> int:
+    """Normalise plots already under assets/power/ to palettised PNG.
+
+    Handles both leftovers from before the PNG switch (JPEGs) and 24-bit PNGs
+    from a .bsh that writes PNG but does not palettise. Runs on every
+    invocation so the tree converges; it is a no-op once everything is a
+    palettised PNG. Returns the number of files dealt with."""
+    power_root = wiki / "assets" / "power"
+    if not power_root.is_dir():
+        return 0
+    stale: list[Path] = sorted(
+        p for p in power_root.rglob("*")
+        if p.suffix.lower() in (".jpg", ".jpeg")
+    )
+    stale += sorted(
+        p for p in power_root.rglob("*.png") if needs_palettising(p)
+    )
+    for img in stale:
+        if dry_run:
+            print(f"  would convert {img.relative_to(wiki)}")
+            continue
+        png = img.with_suffix(".png")
+        # A JPEG whose PNG already exists is just dropped; a 24-bit PNG is
+        # replaced in place (convert_to_png writes to the same name).
+        if img.suffix.lower() == ".png" or not png.exists():
+            convert_to_png(img, img.parent)
+        if img != png:
+            img.unlink()
+        print(f"  converted {img.relative_to(wiki)} -> {png.name}")
+    return len(stale)
 
 
 # ---------------------------------------------------------------------------
@@ -420,6 +549,10 @@ def main(argv: list[str] | None = None) -> int:
     if not args.map.is_file():
         print(f"error: map file not found: {args.map}", file=sys.stderr)
         return 2
+    if Image is None:
+        print("error: Pillow is required for JPEG->PNG conversion "
+              "(pip install pillow)", file=sys.stderr)
+        return 2
 
     name_map = load_map(args.map)
 
@@ -453,12 +586,21 @@ def main(argv: list[str] | None = None) -> int:
         affected_pages[wiki_basename] = meas.microscope
 
     if args.dry_run:
+        print("\nChecking assets/power for plots needing conversion ...")
+        if not backfill_pngs(wiki, dry_run=True):
+            print("  none")
         if affected_pages:
             print("\nPages that would get a Power Measurements block:")
             for basename in sorted(affected_pages):
                 print(f"  pages/microscopes/{basename}.md")
         print("\nDry run: no files moved, no pages written, no commit.")
         return 0
+
+    # Convert any JPEGs imported before the PNG switch. Must happen before the
+    # pages are regenerated below, so they reference the .png names.
+    converted = backfill_pngs(wiki, dry_run=False)
+    if converted:
+        print(f"\nNormalised {converted} existing plot(s) to palettised PNG")
 
     # Regenerate the power block on every mapped page that has data under
     # assets/power/ (not just ones touched by this run). This keeps all pages

@@ -126,15 +126,15 @@ author: Delaine Larsen
 
 Most recent measurement: **2026-08-04 15:51**
 
-<img id="combined-plot" src="{{ '/assets/power/TIRF-STORM/260804_1551/powerMeasurement_TIRF_260804_1551_combined.jpg' | relative_url }}" alt="Combined power plot — 2026-08-04 15:51" style="max-width:100%;height:auto;" />
+<img id="combined-plot" src="{{ '/assets/power/TIRF-STORM/260804_1551/powerMeasurement_TIRF_260804_1551_combined.png' | relative_url }}" alt="Combined power plot — 2026-08-04 15:51" style="max-width:100%;height:auto;" />
 
 <p><a id="csv-link" href="{{ '/assets/power/TIRF-STORM/260804_1551/powerMeasurement_TIRF_260804_1551.csv' | relative_url }}" download>Download CSV data</a></p>
 
 **Browse measurements:**
 
 <select class="measurement-picker" data-img-target="combined-plot" data-csv-target="csv-link">
-  <option data-img="{{ '/assets/power/TIRF-STORM/260804_1551/powerMeasurement_TIRF_260804_1551_combined.jpg' | relative_url }}" data-csv="{{ '/assets/power/TIRF-STORM/260804_1551/powerMeasurement_TIRF_260804_1551.csv' | relative_url }}">2026-08-04 15:51</option>
-  <option data-img="{{ '/assets/power/TIRF-STORM/260728_1756/powerMeasurement_TIRF_260728_1756_combined.jpg' | relative_url }}" data-csv="{{ '/assets/power/TIRF-STORM/260728_1756/powerMeasurement_TIRF_260728_1756.csv' | relative_url }}">2026-07-28 17:56</option>
+  <option data-img="{{ '/assets/power/TIRF-STORM/260804_1551/powerMeasurement_TIRF_260804_1551_combined.png' | relative_url }}" data-csv="{{ '/assets/power/TIRF-STORM/260804_1551/powerMeasurement_TIRF_260804_1551.csv' | relative_url }}">2026-08-04 15:51</option>
+  <option data-img="{{ '/assets/power/TIRF-STORM/260728_1756/powerMeasurement_TIRF_260728_1756_combined.png' | relative_url }}" data-csv="{{ '/assets/power/TIRF-STORM/260728_1756/powerMeasurement_TIRF_260728_1756.csv' | relative_url }}">2026-07-28 17:56</option>
 </select>
 
 <script src="{{ '/assets/js/measurement-switch.js' | relative_url }}"></script>

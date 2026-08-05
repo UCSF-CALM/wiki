@@ -265,15 +265,15 @@ Collaboration required for QLIPP please contact the Core
 
 Most recent measurement: **2026-08-04 16:09**
 
-<img id="combined-plot" src="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260804_1609/powerMeasurement_Timelapse2_260804_1609_combined.jpg' | relative_url }}" alt="Combined power plot — 2026-08-04 16:09" style="max-width:100%;height:auto;" />
+<img id="combined-plot" src="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260804_1609/powerMeasurement_Timelapse2_260804_1609_combined.png' | relative_url }}" alt="Combined power plot — 2026-08-04 16:09" style="max-width:100%;height:auto;" />
 
 <p><a id="csv-link" href="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260804_1609/powerMeasurement_Timelapse2_260804_1609.csv' | relative_url }}" download>Download CSV data</a></p>
 
 **Browse measurements:**
 
 <select class="measurement-picker" data-img-target="combined-plot" data-csv-target="csv-link">
-  <option data-img="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260804_1609/powerMeasurement_Timelapse2_260804_1609_combined.jpg' | relative_url }}" data-csv="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260804_1609/powerMeasurement_Timelapse2_260804_1609.csv' | relative_url }}">2026-08-04 16:09</option>
-  <option data-img="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260720_1613/powerMeasurement_Timelapse2_260720_1613_combined.jpg' | relative_url }}" data-csv="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260720_1613/powerMeasurement_Timelapse2_260720_1613.csv' | relative_url }}">2026-07-20 16:13</option>
+  <option data-img="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260804_1609/powerMeasurement_Timelapse2_260804_1609_combined.png' | relative_url }}" data-csv="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260804_1609/powerMeasurement_Timelapse2_260804_1609.csv' | relative_url }}">2026-08-04 16:09</option>
+  <option data-img="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260720_1613/powerMeasurement_Timelapse2_260720_1613_combined.png' | relative_url }}" data-csv="{{ '/assets/power/QLIPP-Timelapse-with-Nanoindentor/260720_1613/powerMeasurement_Timelapse2_260720_1613.csv' | relative_url }}">2026-07-20 16:13</option>
 </select>
 
 <script src="{{ '/assets/js/measurement-switch.js' | relative_url }}"></script>

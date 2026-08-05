@@ -125,14 +125,14 @@ date: Sep 26, 2025
 
 Most recent measurement: **2026-08-04 13:14**
 
-<img id="combined-plot" src="{{ '/assets/power/Snouty/260804_1314/powerMeasurement_Snouty_260804_1314_combined.jpg' | relative_url }}" alt="Combined power plot — 2026-08-04 13:14" style="max-width:100%;height:auto;" />
+<img id="combined-plot" src="{{ '/assets/power/Snouty/260804_1314/powerMeasurement_Snouty_260804_1314_combined.png' | relative_url }}" alt="Combined power plot — 2026-08-04 13:14" style="max-width:100%;height:auto;" />
 
 <p><a id="csv-link" href="{{ '/assets/power/Snouty/260804_1314/powerMeasurement_Snouty_260804_1314.csv' | relative_url }}" download>Download CSV data</a></p>
 
 **Browse measurements:**
 
 <select class="measurement-picker" data-img-target="combined-plot" data-csv-target="csv-link">
-  <option data-img="{{ '/assets/power/Snouty/260804_1314/powerMeasurement_Snouty_260804_1314_combined.jpg' | relative_url }}" data-csv="{{ '/assets/power/Snouty/260804_1314/powerMeasurement_Snouty_260804_1314.csv' | relative_url }}">2026-08-04 13:14</option>
+  <option data-img="{{ '/assets/power/Snouty/260804_1314/powerMeasurement_Snouty_260804_1314_combined.png' | relative_url }}" data-csv="{{ '/assets/power/Snouty/260804_1314/powerMeasurement_Snouty_260804_1314.csv' | relative_url }}">2026-08-04 13:14</option>
 </select>
 
 <script src="{{ '/assets/js/measurement-switch.js' | relative_url }}"></script>
