@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 547" width="100%" role="img" aria-label="Maximum power over time — Crest-C2" style="max-width:100%;height:auto;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif">
+<style>.hp-bg{fill:#fff}.hp-fg{fill:#222}.hp-ax{stroke:#666}.hp-gr{stroke:#ddd}@media (prefers-color-scheme:dark){.hp-bg{fill:#0d1117}.hp-fg{fill:#e6edf3}.hp-ax{stroke:#8b949e}.hp-gr{stroke:#30363d}}</style>
+<rect class="hp-bg" x="0" y="0" width="820" height="547"/>
+<text class="hp-fg" x="410" y="26" text-anchor="middle" font-size="16" font-weight="600">Maximum power over time — Crest-C2</text>
+<line class="hp-gr" x1="92" y1="400.0" x2="790" y2="400.0" stroke-dasharray="3 3"/>
+<text class="hp-fg" x="83" y="404.0" text-anchor="end" font-size="11">0</text>
+<line class="hp-gr" x1="92" y1="313.0" x2="790" y2="313.0" stroke-dasharray="3 3"/>
+<text class="hp-fg" x="83" y="317.0" text-anchor="end" font-size="11">5</text>
+<line class="hp-gr" x1="92" y1="226.0" x2="790" y2="226.0" stroke-dasharray="3 3"/>
+<text class="hp-fg" x="83" y="230.0" text-anchor="end" font-size="11">10</text>
+<line class="hp-gr" x1="92" y1="139.0" x2="790" y2="139.0" stroke-dasharray="3 3"/>
+<text class="hp-fg" x="83" y="143.0" text-anchor="end" font-size="11">15</text>
+<line class="hp-gr" x1="92" y1="52.0" x2="790" y2="52.0" stroke-dasharray="3 3"/>
+<text class="hp-fg" x="83" y="56.0" text-anchor="end" font-size="11">20</text>
+<line class="hp-ax" x1="92" y1="52" x2="92" y2="400"/>
+<line class="hp-ax" x1="92" y1="400" x2="790" y2="400"/>
+<text class="hp-fg" x="18" y="226" font-size="12" text-anchor="middle" transform="rotate(-90 18 226)">Power (mW)</text>
+<line class="hp-gr" x1="92.0" y1="52" x2="92.0" y2="400" stroke-dasharray="3 3"/>
+<text class="hp-fg" x="92.0" y="416" font-size="11" text-anchor="end" transform="rotate(-40 92.0 416)">2026-08-27 16:34</text>
+<line class="hp-gr" x1="790.0" y1="52" x2="790.0" y2="400" stroke-dasharray="3 3"/>
+<text class="hp-fg" x="790.0" y="416" font-size="11" text-anchor="end" transform="rotate(-40 790.0 416)">2026-08-27 16:41</text>
+<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="92.0,400.0 790.0,212.8"/>
+<circle cx="92.0" cy="400.0" r="3.5" fill="#1f77b4"><title>405-DAPI: 0 mW on 2026-08-27 16:34</title></circle>
+<circle cx="790.0" cy="212.8" r="3.5" fill="#1f77b4"><title>405-DAPI: 10.76 mW on 2026-08-27 16:41</title></circle>
+<polyline fill="none" stroke="#2ca02c" stroke-width="2" points="92.0,400.0 790.0,150.9"/>
+<circle cx="92.0" cy="400.0" r="3.5" fill="#2ca02c"><title>445-CFP: 0 mW on 2026-08-27 16:34</title></circle>
+<circle cx="790.0" cy="150.9" r="3.5" fill="#2ca02c"><title>445-CFP: 14.32 mW on 2026-08-27 16:41</title></circle>
+<polyline fill="none" stroke="#ff7f0e" stroke-width="2" points="92.0,400.0 790.0,104.4"/>
+<circle cx="92.0" cy="400.0" r="3.5" fill="#ff7f0e"><title>477-GFP: 0 mW on 2026-08-27 16:34</title></circle>
+<circle cx="790.0" cy="104.4" r="3.5" fill="#ff7f0e"><title>477-GFP: 16.99 mW on 2026-08-27 16:41</title></circle>
+<polyline fill="none" stroke="#d62728" stroke-width="2" points="92.0,400.0 790.0,87.1"/>
+<circle cx="92.0" cy="400.0" r="3.5" fill="#d62728"><title>520-YFP: 0 mW on 2026-08-27 16:34</title></circle>
+<circle cx="790.0" cy="87.1" r="3.5" fill="#d62728"><title>520-YFP: 17.98 mW on 2026-08-27 16:41</title></circle>
+<polyline fill="none" stroke="#9467bd" stroke-width="2" points="92.0,400.0 790.0,121.4"/>
+<circle cx="92.0" cy="400.0" r="3.5" fill="#9467bd"><title>546-RFP: 0 mW on 2026-08-27 16:34</title></circle>
+<circle cx="790.0" cy="121.4" r="3.5" fill="#9467bd"><title>546-RFP: 16.01 mW on 2026-08-27 16:41</title></circle>
+<polyline fill="none" stroke="#8c564b" stroke-width="2" points="92.0,400.0 790.0,148.1"/>
+<circle cx="92.0" cy="400.0" r="3.5" fill="#8c564b"><title>638-Cy5: 0 mW on 2026-08-27 16:34</title></circle>
+<circle cx="790.0" cy="148.1" r="3.5" fill="#8c564b"><title>638-Cy5: 14.48 mW on 2026-08-27 16:41</title></circle>
+<polyline fill="none" stroke="#17becf" stroke-width="2" points="92.0,400.0 790.0,150.1"/>
+<circle cx="92.0" cy="400.0" r="3.5" fill="#17becf"><title>749-Penta: 0 mW on 2026-08-27 16:34</title></circle>
+<circle cx="790.0" cy="150.1" r="3.5" fill="#17becf"><title>749-Penta: 14.36 mW on 2026-08-27 16:41</title></circle>
+<line x1="92" y1="501" x2="108" y2="501" stroke="#1f77b4" stroke-width="2"/>
+<circle cx="100" cy="501" r="3.5" fill="#1f77b4"/>
+<text class="hp-fg" x="114" y="505" font-size="11">405-DAPI</text>
+<line x1="325" y1="501" x2="341" y2="501" stroke="#2ca02c" stroke-width="2"/>
+<circle cx="333" cy="501" r="3.5" fill="#2ca02c"/>
+<text class="hp-fg" x="347" y="505" font-size="11">445-CFP</text>
+<line x1="557" y1="501" x2="573" y2="501" stroke="#ff7f0e" stroke-width="2"/>
+<circle cx="565" cy="501" r="3.5" fill="#ff7f0e"/>
+<text class="hp-fg" x="579" y="505" font-size="11">477-GFP</text>
+<line x1="92" y1="518" x2="108" y2="518" stroke="#d62728" stroke-width="2"/>
+<circle cx="100" cy="518" r="3.5" fill="#d62728"/>
+<text class="hp-fg" x="114" y="522" font-size="11">520-YFP</text>
+<line x1="325" y1="518" x2="341" y2="518" stroke="#9467bd" stroke-width="2"/>
+<circle cx="333" cy="518" r="3.5" fill="#9467bd"/>
+<text class="hp-fg" x="347" y="522" font-size="11">546-RFP</text>
+<line x1="557" y1="518" x2="573" y2="518" stroke="#8c564b" stroke-width="2"/>
+<circle cx="565" cy="518" r="3.5" fill="#8c564b"/>
+<text class="hp-fg" x="579" y="522" font-size="11">638-Cy5</text>
+<line x1="92" y1="535" x2="108" y2="535" stroke="#17becf" stroke-width="2"/>
+<circle cx="100" cy="535" r="3.5" fill="#17becf"/>
+<text class="hp-fg" x="114" y="539" font-size="11">749-Penta</text>
+</svg>
