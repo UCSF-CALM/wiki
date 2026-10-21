@@ -21,30 +21,37 @@
 <text class="hp-fg" x="18" y="226" font-size="12" text-anchor="middle" transform="rotate(-90 18 226)">Power (mW)</text>
 <line class="hp-gr" x1="92.0" y1="52" x2="92.0" y2="400" stroke-dasharray="3 3"/>
 <text class="hp-fg" x="92.0" y="416" font-size="11" text-anchor="end" transform="rotate(-40 92.0 416)">2026-02-25 12:12</text>
-<line class="hp-gr" x1="441.0" y1="52" x2="441.0" y2="400" stroke-dasharray="3 3"/>
-<text class="hp-fg" x="441.0" y="416" font-size="11" text-anchor="end" transform="rotate(-40 441.0 416)">2026-08-05 14:51</text>
+<line class="hp-gr" x1="324.7" y1="52" x2="324.7" y2="400" stroke-dasharray="3 3"/>
+<text class="hp-fg" x="324.7" y="416" font-size="11" text-anchor="end" transform="rotate(-40 324.7 416)">2026-08-05 14:51</text>
+<line class="hp-gr" x1="557.3" y1="52" x2="557.3" y2="400" stroke-dasharray="3 3"/>
+<text class="hp-fg" x="557.3" y="416" font-size="11" text-anchor="end" transform="rotate(-40 557.3 416)">2026-08-06 15:05</text>
 <line class="hp-gr" x1="790.0" y1="52" x2="790.0" y2="400" stroke-dasharray="3 3"/>
-<text class="hp-fg" x="790.0" y="416" font-size="11" text-anchor="end" transform="rotate(-40 790.0 416)">2026-08-06 15:05</text>
-<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="92.0,303.0 441.0,315.4 790.0,308.1"/>
+<text class="hp-fg" x="790.0" y="416" font-size="11" text-anchor="end" transform="rotate(-40 790.0 416)">2026-10-07 10:30</text>
+<polyline fill="none" stroke="#1f77b4" stroke-width="2" points="92.0,303.0 324.7,315.4 557.3,308.1 790.0,316.7"/>
 <circle cx="92.0" cy="303.0" r="3.5" fill="#1f77b4"><title>405-DAPI: 1.672 mW on 2026-02-25 12:12</title></circle>
-<circle cx="441.0" cy="315.4" r="3.5" fill="#1f77b4"><title>405-DAPI: 1.458 mW on 2026-08-05 14:51</title></circle>
-<circle cx="790.0" cy="308.1" r="3.5" fill="#1f77b4"><title>405-DAPI: 1.585 mW on 2026-08-06 15:05</title></circle>
-<polyline fill="none" stroke="#2ca02c" stroke-width="2" points="92.0,124.0 441.0,99.6 790.0,75.4"/>
+<circle cx="324.7" cy="315.4" r="3.5" fill="#1f77b4"><title>405-DAPI: 1.458 mW on 2026-08-05 14:51</title></circle>
+<circle cx="557.3" cy="308.1" r="3.5" fill="#1f77b4"><title>405-DAPI: 1.585 mW on 2026-08-06 15:05</title></circle>
+<circle cx="790.0" cy="316.7" r="3.5" fill="#1f77b4"><title>405-DAPI: 1.436 mW on 2026-10-07 10:30</title></circle>
+<polyline fill="none" stroke="#2ca02c" stroke-width="2" points="92.0,124.0 324.7,99.6 557.3,75.4 790.0,116.8"/>
 <circle cx="92.0" cy="124.0" r="3.5" fill="#2ca02c"><title>488-GFP: 4.758 mW on 2026-02-25 12:12</title></circle>
-<circle cx="441.0" cy="99.6" r="3.5" fill="#2ca02c"><title>488-GFP: 5.179 mW on 2026-08-05 14:51</title></circle>
-<circle cx="790.0" cy="75.4" r="3.5" fill="#2ca02c"><title>488-GFP: 5.597 mW on 2026-08-06 15:05</title></circle>
-<polyline fill="none" stroke="#ff7f0e" stroke-width="2" points="92.0,203.0 441.0,171.7 790.0,160.4"/>
+<circle cx="324.7" cy="99.6" r="3.5" fill="#2ca02c"><title>488-GFP: 5.179 mW on 2026-08-05 14:51</title></circle>
+<circle cx="557.3" cy="75.4" r="3.5" fill="#2ca02c"><title>488-GFP: 5.597 mW on 2026-08-06 15:05</title></circle>
+<circle cx="790.0" cy="116.8" r="3.5" fill="#2ca02c"><title>488-GFP: 4.883 mW on 2026-10-07 10:30</title></circle>
+<polyline fill="none" stroke="#ff7f0e" stroke-width="2" points="92.0,203.0 324.7,171.7 557.3,160.4 790.0,195.0"/>
 <circle cx="92.0" cy="203.0" r="3.5" fill="#ff7f0e"><title>561-RFP: 3.397 mW on 2026-02-25 12:12</title></circle>
-<circle cx="441.0" cy="171.7" r="3.5" fill="#ff7f0e"><title>561-RFP: 3.936 mW on 2026-08-05 14:51</title></circle>
-<circle cx="790.0" cy="160.4" r="3.5" fill="#ff7f0e"><title>561-RFP: 4.131 mW on 2026-08-06 15:05</title></circle>
-<polyline fill="none" stroke="#d62728" stroke-width="2" points="92.0,135.3 441.0,85.4 790.0,74.8"/>
+<circle cx="324.7" cy="171.7" r="3.5" fill="#ff7f0e"><title>561-RFP: 3.936 mW on 2026-08-05 14:51</title></circle>
+<circle cx="557.3" cy="160.4" r="3.5" fill="#ff7f0e"><title>561-RFP: 4.131 mW on 2026-08-06 15:05</title></circle>
+<circle cx="790.0" cy="195.0" r="3.5" fill="#ff7f0e"><title>561-RFP: 3.534 mW on 2026-10-07 10:30</title></circle>
+<polyline fill="none" stroke="#d62728" stroke-width="2" points="92.0,135.3 324.7,85.4 557.3,74.8 790.0,119.3"/>
 <circle cx="92.0" cy="135.3" r="3.5" fill="#d62728"><title>640-Cy5: 4.563 mW on 2026-02-25 12:12</title></circle>
-<circle cx="441.0" cy="85.4" r="3.5" fill="#d62728"><title>640-Cy5: 5.425 mW on 2026-08-05 14:51</title></circle>
-<circle cx="790.0" cy="74.8" r="3.5" fill="#d62728"><title>640-Cy5: 5.607 mW on 2026-08-06 15:05</title></circle>
-<polyline fill="none" stroke="#9467bd" stroke-width="2" points="92.0,349.9 441.0,337.1 790.0,332.8"/>
+<circle cx="324.7" cy="85.4" r="3.5" fill="#d62728"><title>640-Cy5: 5.425 mW on 2026-08-05 14:51</title></circle>
+<circle cx="557.3" cy="74.8" r="3.5" fill="#d62728"><title>640-Cy5: 5.607 mW on 2026-08-06 15:05</title></circle>
+<circle cx="790.0" cy="119.3" r="3.5" fill="#d62728"><title>640-Cy5: 4.839 mW on 2026-10-07 10:30</title></circle>
+<polyline fill="none" stroke="#9467bd" stroke-width="2" points="92.0,349.9 324.7,337.1 557.3,332.8 790.0,347.6"/>
 <circle cx="92.0" cy="349.9" r="3.5" fill="#9467bd"><title>785-NIR: 0.8641 mW on 2026-02-25 12:12</title></circle>
-<circle cx="441.0" cy="337.1" r="3.5" fill="#9467bd"><title>785-NIR: 1.085 mW on 2026-08-05 14:51</title></circle>
-<circle cx="790.0" cy="332.8" r="3.5" fill="#9467bd"><title>785-NIR: 1.159 mW on 2026-08-06 15:05</title></circle>
+<circle cx="324.7" cy="337.1" r="3.5" fill="#9467bd"><title>785-NIR: 1.085 mW on 2026-08-05 14:51</title></circle>
+<circle cx="557.3" cy="332.8" r="3.5" fill="#9467bd"><title>785-NIR: 1.159 mW on 2026-08-06 15:05</title></circle>
+<circle cx="790.0" cy="347.6" r="3.5" fill="#9467bd"><title>785-NIR: 0.9035 mW on 2026-10-07 10:30</title></circle>
 <line x1="92" y1="501" x2="108" y2="501" stroke="#1f77b4" stroke-width="2"/>
 <circle cx="100" cy="501" r="3.5" fill="#1f77b4"/>
 <text class="hp-fg" x="114" y="505" font-size="11">405-DAPI</text>
